@@ -109,7 +109,7 @@ class DocumentProcess:
             pass
         else:
             st.info("Video hướng dẫn")
-            st.video(open('assets/video/video.mp4', 'rb').read())
+            # st.video(open('assets/video/video.mp4', 'rb').read())
         
             
     def set_save_folder_group(self, group):
