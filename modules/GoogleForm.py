@@ -31,7 +31,7 @@ class GoogleFormGenerator:
         if not self.creds or self.creds.invalid:
             flow = client.flow_from_clientsecrets(self.client_secret, self.SCOPES)
             parser = argparse.ArgumentParser(parents=[tools.argparser])
-            flags = tools.argparser.parse_args(args=['--auth_host_port', '8501', '--noauth_local_webserver', "true"])
+            flags = tools.argparser.parse_args(args=['--auth_host_port', '8501', '--noauth_local_webserver'])
             self.creds = tools.run_flow(flow, self.store, flags=flags)
             self.form_service = discovery.build('forms', 'v1', http=self.creds.authorize(Http()), discoveryServiceUrl=self.DISCOVERY_DOC, static_discovery=False)
 
