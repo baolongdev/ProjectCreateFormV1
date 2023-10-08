@@ -30,9 +30,7 @@ class GoogleFormGenerator:
     def authenticate(self):
         if not self.creds or self.creds.invalid:
             flow = client.flow_from_clientsecrets(self.client_secret, self.SCOPES)
-            parser = argparse.ArgumentParser(parents=[tools.argparser])
-            flags = tools.argparser.parse_args(args=['--auth_host_port', '8501', "--logging_level", "INFO"])
-            self.creds = tools.run_flow(flow, self.store, flags=flags)
+            self.creds = tools.run_flow(flow, self.store)
             self.form_service = discovery.build('forms', 'v1', http=self.creds.authorize(Http()), discoveryServiceUrl=self.DISCOVERY_DOC, static_discovery=False)
 
     def setting_configure(self, is_quiz = True, is_required = True, is_shuffle = True):
