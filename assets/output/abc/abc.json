@@ -1,1365 +1,1277 @@
 [
     {
-        "question": "Câu 1: Chu trình làm việc của động cơ 4 kỳ được thực hiện trong mấy hành trình của pittong?",
+        "question": "CÂU 1: Trong  Excel, ta có thể mở được nhiều tập tin bảng tính. Để làm việc với một tập tin bảng tính đã mở, ta chọn:",
         "answer": [
             {
-                "value": "2 hành trình của pittong.\t\t"
+                "value": "Ribbon Home."
             },
             {
-                "value": "1/2 hành trình của pittong. "
+                "value": "Ribbon Insert"
             },
             {
-                "value": "1 hành trình của pittong. \t\t"
+                "value": "Chọn tên trên Taskbar"
             },
             {
-                "value": "4 hành trình của pittong."
+                "value": "Ribbon View"
             }
         ],
         "right_answer": [
             {
-                "value": "2 hành trình của pittong.\t\t"
-            },
-            {
-                "value": "1/2 hành trình của pittong. "
-            },
-            {
-                "value": "1 hành trình của pittong. \t\t"
-            },
-            {
-                "value": "4 hành trình của pittong."
+                "value": "Chọn tên trên Taskbar"
             }
         ]
     },
     {
-        "question": "Câu 2: Chu trình làm việc của động cơ 2 kỳ được thực hiện trong mấy hành trình của pittong?",
+        "question": "Câu 2: Trong  bảng tính Excel, nếu ta nhập 00001A vào ô D10 thì kết quả sẽ ở vị trí nào trong ô?",
         "answer": [
             {
-                "value": "2 hành trình của pittong.\t\t"
+                "value": "Bên phải"
             },
             {
-                "value": "1/2 hành trình của pittong. "
+                "value": "Bên trái"
             },
             {
-                "value": "1 hành trình của pittong. \t\t"
+                "value": "Giữa"
             },
             {
-                "value": "4 hành trình của pittong."
+                "value": "Không biết trước"
             }
         ],
         "right_answer": [
             {
-                "value": "2 hành trình của pittong.\t\t"
-            },
-            {
-                "value": "1/2 hành trình của pittong. "
-            },
-            {
-                "value": "1 hành trình của pittong. \t\t"
-            },
-            {
-                "value": "4 hành trình của pittong."
+                "value": "Bên trái"
             }
         ]
     },
     {
-        "question": "Câu 3: Ở động cơ Diesel 4 kỳ, cuối kỳ nén có hiện tượng gì xảy ra?",
+        "question": "Câu 3: Trong bảng tính Excel, nếu ta nhập 125 vào ô E10 thì kết quả sẽ ở vị trí nào trong ô?",
         "answer": [
             {
-                "value": "Không khí nạp vào xilanh."
+                "value": "Bên phải"
             },
             {
-                "value": "Buzi bật tia lửa điện."
+                "value": "Bên trái"
             },
             {
-                "value": "Hoà khí gồm xăng và không khí được nạp vào xilanh."
+                "value": "Giữa"
             },
             {
-                "value": "Vòi phun phun nhiên liệu vào xilanh dưới dạng sương."
+                "value": "Không biết trước"
             }
         ],
         "right_answer": [
             {
-                "value": "Không khí nạp vào xilanh."
-            },
-            {
-                "value": "Buzi bật tia lửa điện."
-            },
-            {
-                "value": "Hoà khí gồm xăng và không khí được nạp vào xilanh."
-            },
-            {
-                "value": "Vòi phun phun nhiên liệu vào xilanh dưới dạng sương."
+                "value": "Bên phải"
             }
         ]
     },
     {
-        "question": "Câu 4: Ở động cơ xăng 4 kỳ, cuối kỳ nén có hiện tượng gì xảy ra?",
+        "question": "Câu 4: Trong bảng tính Excel, nếu ta nhập FALSE vào ô F15 thì kết quả sẽ ở vị trí nào trong ô?",
         "answer": [
             {
-                "value": "Không khí nạp vào xilanh."
+                "value": "Bên phải "
             },
             {
-                "value": "Bugi bật tia lửa điện."
+                "value": "Bên trái"
             },
             {
-                "value": "Hoà khí gồm xăng và không khí được nạp vào xilanh."
+                "value": "Giữa"
             },
             {
-                "value": "Vòi phun phun nhiên liệu vào xilanh dưới dạng sương."
+                "value": "Không biết trước"
             }
         ],
         "right_answer": [
             {
-                "value": "Không khí nạp vào xilanh."
-            },
-            {
-                "value": "Bugi bật tia lửa điện."
-            },
-            {
-                "value": "Hoà khí gồm xăng và không khí được nạp vào xilanh."
-            },
-            {
-                "value": "Vòi phun phun nhiên liệu vào xilanh dưới dạng sương."
+                "value": "Giữa"
             }
         ]
     },
     {
-        "question": "Câu 5: Ở động cơ xăng 4 kỳ bugi bật tia lửa điện ở thời điểm nào?",
+        "question": "Câu 5: Để đổi tên Sheet, ta chon lệnh",
         "answer": [
             {
-                "value": "Cuối kỳ nén.\t"
+                "value": "Rename"
             },
             {
-                "value": "Đầu kỳ nén. "
+                "value": "Insert"
             },
             {
-                "value": "Đầu kỳ thải.\t            "
+                "value": "Delete"
             },
             {
-                "value": "Cuối kỳ nổ"
+                "value": "Hide"
             }
         ],
         "right_answer": [
             {
-                "value": "Cuối kỳ nén.\t"
-            },
-            {
-                "value": "Đầu kỳ nén. "
-            },
-            {
-                "value": "Đầu kỳ thải.\t            "
-            },
-            {
-                "value": "Cuối kỳ nổ"
+                "value": "Rename"
             }
         ]
     },
     {
-        "question": "Câu 6: Vị trí điểm chết trên (ĐCT) của động cơ đốt trong ở đâu?",
+        "question": "Câu 6: Để lưu một tập tin đã có với tên khác, ta dùng",
         "answer": [
             {
-                "value": "Pittong gần tâm trục khuỷu \t\t\t\t"
+                "value": "Menu lệnh File/Save As"
             },
             {
-                "value": "Pittong ở trung tâm của trục khuỷu và đổi chiều chuyển động"
+                "value": "Menu lệnh File/Save"
             },
             {
-                "value": "Pittong gần tâm trục khuỷu và đang đổi chiều chuyển động"
+                "value": "Tổ hợp phím Ctrl+S"
             },
             {
-                "value": "Pittong xa tâm trục khuỷu và đang đổi chiều chuyển động"
+                "value": "Tổ hợp phím Ctrl+A"
             }
         ],
         "right_answer": [
             {
-                "value": "Pittong gần tâm trục khuỷu \t\t\t\t"
-            },
-            {
-                "value": "Pittong ở trung tâm của trục khuỷu và đổi chiều chuyển động"
-            },
-            {
-                "value": "Pittong gần tâm trục khuỷu và đang đổi chiều chuyển động"
-            },
-            {
-                "value": "Pittong xa tâm trục khuỷu và đang đổi chiều chuyển động"
+                "value": "Menu lệnh File/Save As"
             }
         ]
     },
     {
-        "question": "Câu 7: Hai xupap của ĐCĐT đều mở là khoảng thời gian của kỳ nào?",
+        "question": "Câu 7: Trong Exce, khi làm việc với một tập tin, ta vào File, Save As là nhằm mục đích",
         "answer": [
             {
-                "value": "Cuối kỳ thải - đầu kỳ hút (nạp)"
+                "value": "Lưu tập tin"
             },
             {
-                "value": "Cuối kỳ hút - đầu kỳ nén.   "
+                "value": "Lưu tập tin với một tên khác"
             },
             {
-                "value": "Cuối kỳ nén - đầu kỳ nổ. "
+                "value": "Di chuyển một sheet của tập tin sang tập tin khác"
             },
             {
-                "value": "D.Cuối kỳ nổ - đầu kỳ thải."
+                "value": "Mở tập tin"
             }
         ],
         "right_answer": [
             {
-                "value": "Cuối kỳ thải - đầu kỳ hút (nạp)"
-            },
-            {
-                "value": "Cuối kỳ hút - đầu kỳ nén.   "
-            },
-            {
-                "value": "Cuối kỳ nén - đầu kỳ nổ. "
-            },
-            {
-                "value": "D.Cuối kỳ nổ - đầu kỳ thải."
+                "value": "Lưu tập tin với một tên khác"
             }
         ]
     },
     {
-        "question": "Câu 8: Thể tích - áp suất trong xilanh ở kỳ thải của ĐCĐT 4 kỳ như thế nào?",
+        "question": "Câu 8: Để lấy lại nội dung vừa bị xóa, thực hiện tổ hợp phím",
         "answer": [
             {
-                "value": "Áp suất giảm - thể tích giảm.   "
+                "value": "Ctrl + T"
             },
             {
-                "value": "Áp suất giảm - thể tích tăng. "
+                "value": "Ctrl + X"
             },
             {
-                "value": "Áp suất tăng - thể tích giảm.    "
+                "value": "Ctrl + Z"
             },
             {
-                "value": "Áp suất tăng - thể tích tăng."
+                "value": "Ctrl+ B"
             }
         ],
         "right_answer": [
             {
-                "value": "Áp suất giảm - thể tích giảm.   "
-            },
-            {
-                "value": "Áp suất giảm - thể tích tăng. "
-            },
-            {
-                "value": "Áp suất tăng - thể tích giảm.    "
-            },
-            {
-                "value": "Áp suất tăng - thể tích tăng."
+                "value": "Ctrl + Z"
             }
         ]
     },
     {
-        "question": "Câu 9: Khi Pittong ở ĐCT kết hợp với nắp máy tạo thành thể tích gì?",
+        "question": "Câu 9: Trong Excel, để dán một khối, ta dùng",
         "answer": [
             {
-                "value": "Toàn phần \t"
+                "value": "Lệnh Copy"
             },
             {
-                "value": "Công tác \t"
+                "value": "Lệnh Cut"
             },
             {
-                "value": "Buồng cháy "
+                "value": "Lệnh Paste"
             },
             {
-                "value": "Không gian làm việc động cơ "
+                "value": "Lệnh Special"
             }
         ],
         "right_answer": [
             {
-                "value": "Toàn phần \t"
-            },
-            {
-                "value": "Công tác \t"
-            },
-            {
-                "value": "Buồng cháy "
-            },
-            {
-                "value": "Không gian làm việc động cơ "
+                "value": "Lệnh Paste"
             }
         ]
     },
     {
-        "question": "Câu 10: Công thức liên hệ giữa Vtp , Vbc , Vct là gì?",
+        "question": "Câu 10: Trong Excel, để chèn hàng, ta dùng lệnh",
         "answer": [
             {
-                "value": "Vtp = Vct – Vbc . \t"
+                "value": "Insert"
             },
             {
-                "value": "Vct = Vbc + Vtp . \t"
+                "value": "Insert Sheet Below"
             },
             {
-                "value": "Vbc = Vct – Vtp . \t"
+                "value": "Insert Sheet Rows"
             },
             {
-                "value": "d. Vtp = Vbc + Vct . "
+                "value": "Insert Rows Above"
             }
         ],
         "right_answer": [
             {
-                "value": "Vtp = Vct – Vbc . \t"
-            },
-            {
-                "value": "Vct = Vbc + Vtp . \t"
-            },
-            {
-                "value": "Vbc = Vct – Vtp . \t"
-            },
-            {
-                "value": "d. Vtp = Vbc + Vct . "
+                "value": "Insert Sheet Rows"
             }
         ]
     },
     {
-        "question": "Câu 11: Chu trình làm việc của ĐCĐT lần lượt xảy ra các quá trình nào?",
+        "question": "Câu 11: Để thay đổi độ rộng của cột hiện hành trên bảng tính Excel, ta thực hiện thao tác",
         "answer": [
             {
-                "value": "Nạp – nén – nổ – xả.    "
+                "value": "Nhấn đúp tại biên phải của cột."
             },
             {
-                "value": "Nạp – nổ – xả - nén.    "
+                "value": "Nhấn đúp tại bên trái của cột."
             },
             {
-                "value": "Nạp – nổ – nén – xả.    "
+                "value": "Nhấp chuột tại biên phải của ô tiêu đề cột"
             },
             {
-                "value": "Nổ – nạp – nén – xả."
+                "value": "Kéo chuột tại biên phải của ô tiêu đề cột"
             }
         ],
         "right_answer": [
             {
-                "value": "Nạp – nén – nổ – xả.    "
-            },
-            {
-                "value": "Nạp – nổ – xả - nén.    "
-            },
-            {
-                "value": "Nạp – nổ – nén – xả.    "
-            },
-            {
-                "value": "Nổ – nạp – nén – xả."
+                "value": "Kéo chuột tại biên phải của ô tiêu đề cột"
             }
         ]
     },
     {
-        "question": "Câu 12: Tỷ số nén của ĐCĐT là?",
+        "question": "Câu 12: Để đổi độ rộng của cột hiện hành trên bảng tính Excel vừa khít với dữ liệu của cột, thao tác nào cần thực hiện ?",
         "answer": [
             {
-                "value": "Tỷ số giữa Vtp và Vbc."
+                "value": "Nhấp đúp tại biên phải của ô tiêu đề cột"
             },
             {
-                "value": "Tỷ số giữa Vtp và Vct."
+                "value": "Nhấp đúp tại biên trái của ô tiêu đề cột"
             },
             {
-                "value": "Tỷ số giữa Vbc và Vct."
+                "value": "Nhấp đúp tại biên phải của ô có dữ liệu dài nhất trong cột"
             },
             {
-                "value": "Tỷ số giữa Vtp và Vct."
+                "value": "Kéo chuột tại biên phải của ô tiêu đề cột"
             }
         ],
         "right_answer": [
             {
-                "value": "Tỷ số giữa Vtp và Vbc."
-            },
-            {
-                "value": "Tỷ số giữa Vtp và Vct."
-            },
-            {
-                "value": "Tỷ số giữa Vbc và Vct."
-            },
-            {
-                "value": "Tỷ số giữa Vtp và Vct."
+                "value": "Nhấp đúp tại biên phải của ô tiêu đề cột"
             }
         ]
     },
     {
-        "question": "Câu 13: Tỷ số nén của ĐCxăng trong khoảng?",
+        "question": "Câu 13: Khi chọn nút để chèn thêm Worksheet mới thì Sheet này sẽ có vị trí",
         "answer": [
             {
-                "value": "6 đến 10 "
+                "value": "Ở cuối dãy các sheet hiện có"
             },
             {
-                "value": "5 đến 11"
+                "value": "Ở đầu dãy các sheet hiện có"
             },
             {
-                "value": "6 đến 11"
+                "value": "Ở sau sheet hiện hành"
             },
             {
-                "value": "15 đến 21"
+                "value": "Ở trước sheet hiện hành"
             }
         ],
         "right_answer": [
             {
-                "value": "6 đến 10 "
-            },
-            {
-                "value": "5 đến 11"
-            },
-            {
-                "value": "6 đến 11"
-            },
-            {
-                "value": "15 đến 21"
+                "value": "Ở cuối dãy các sheet hiện có"
             }
         ]
     },
     {
-        "question": "Câu 14: Trong ĐC Diesel bơm cao áp không có nhiệm vụ nào?",
+        "question": "Câu 14: Trong Excel, để xóa một hàng và dồn dữ liệu hàng dưới lên, sau chọn hàng cần xóa, ta chọn từ ribbon Home như thế nào ?",
         "answer": [
             {
-                "value": "Cung cấp nhiên liệu với áp suất cao tới vòi phun"
+                "value": "Clear-> Clear All."
             },
             {
-                "value": "Cung cấp nhiên liệu đúng thời điểm vào vòi phun"
+                "value": "Delete->Delete Sheet Below"
             },
             {
-                "value": "Cung cấp nhiên liệu với lượng phù hợp với chế độ làm việc của động cơ tới vòi phun"
+                "value": "Delete->Delete Sheet Rows"
             },
             {
-                "value": "d. Giữ nhiên liệu trong bình không cạn"
+                "value": "Delete->Delete Rows Above"
             }
         ],
         "right_answer": [
             {
-                "value": "Cung cấp nhiên liệu với áp suất cao tới vòi phun"
-            },
-            {
-                "value": "Cung cấp nhiên liệu đúng thời điểm vào vòi phun"
-            },
-            {
-                "value": "Cung cấp nhiên liệu với lượng phù hợp với chế độ làm việc của động cơ tới vòi phun"
-            },
-            {
-                "value": "d. Giữ nhiên liệu trong bình không cạn"
+                "value": "Delete->Delete Sheet Rows"
             }
         ]
     },
     {
-        "question": "Câu 15: Quan hệ giữa hành trình pit-tông và bán kính quay của trục khuỷu là:",
+        "question": "Câu 15: Trong Excel, có thể sao chép khối vùng bằng cách sử dụng lần lượt các tổ hợp phím",
         "answer": [
             {
-                "value": "S = R"
+                "value": "Ctrl+C, Ctrl+V"
             },
             {
-                "value": "S = 1/R"
+                "value": "Alt+C, Alt+V"
             },
             {
-                "value": "S = 2R"
+                "value": "Ctrl+X, Ctrl+V"
             },
             {
-                "value": "S = R/2"
+                "value": "Ctrl+V, Ctrl+C"
             }
         ],
         "right_answer": [
             {
-                "value": "S = R"
-            },
-            {
-                "value": "S = 1/R"
-            },
-            {
-                "value": "S = 2R"
-            },
-            {
-                "value": "S = R/2"
+                "value": "Ctrl+C, Ctrl+V"
             }
         ]
     },
     {
-        "question": "Câu 16: Chi tiết nào sau đây không thuộc cấu tạo động cơ điêzen 4 kì?",
+        "question": "Câu 16: Lệnh AutoFit Column Width trong nút Format trên Ribbon Home thực hiện công việc",
         "answer": [
             {
-                "value": "a.  Bugi"
+                "value": "Thay đổi độ rộng cột của bảng tính"
             },
             {
-                "value": "b.  Pit-tông"
+                "value": "Thay đổi độ rộng dòng của bảng tính"
             },
             {
-                "value": "c.  Trục khuỷu"
+                "value": "Điều chinh độ rộng cột theo dữ liệu của cột"
             },
             {
-                "value": "d.  Vòi phun"
+                "value": "Điều chinh độ rộng cột dòng của bảng tính"
             }
         ],
         "right_answer": [
             {
-                "value": "a.  Bugi"
-            },
-            {
-                "value": "b.  Pit-tông"
-            },
-            {
-                "value": "c.  Trục khuỷu"
-            },
-            {
-                "value": "d.  Vòi phun"
+                "value": "Điều chinh độ rộng cột theo dữ liệu của cột"
             }
         ]
     },
     {
-        "question": "Câu 17: Pit-tông được trục khuỷu dẫn động ở kì nào? Chọn đáp án sai:",
+        "question": "Câu 17: Để giấu một cột dữ liệu, tại Menu ngữ cảnh của cột ta chon lệnh",
         "answer": [
             {
-                "value": "a.  Kì nạp"
+                "value": "Hide"
             },
             {
-                "value": "b.  Kì nén"
+                "value": "Column Hide"
             },
             {
-                "value": "c.  Kì cháy - dãn nở"
+                "value": "Hide Column"
             },
             {
-                "value": "d.  Kì thải"
+                "value": "Unhide"
             }
         ],
         "right_answer": [
             {
-                "value": "a.  Kì nạp"
-            },
-            {
-                "value": "b.  Kì nén"
-            },
-            {
-                "value": "c.  Kì cháy - dãn nở"
-            },
-            {
-                "value": "d.  Kì thải"
+                "value": "Hide"
             }
         ]
     },
     {
-        "question": "Câu 18:. Kỳ nào cả hai xupap đều đóng trong động cơ 4 kỳ ?",
+        "question": "Câu 18: Để độ rộng các cột đánh dấu vừa khít với dữ liệu các cột ấy, ta chon lệnh",
         "answer": [
             {
-                "value": "Kỳ 1"
+                "value": "Auto Fit Selection"
             },
             {
-                "value": "Kỳ 2"
+                "value": "AutoFit Column Width"
             },
             {
-                "value": "Kỳ 2 và kỳ 3"
+                "value": "AutoFit Row Height"
             },
             {
-                "value": "Không có kỳ nào"
+                "value": "AutoFit All Column"
             }
         ],
         "right_answer": [
             {
-                "value": "Kỳ 1"
-            },
-            {
-                "value": "Kỳ 2"
-            },
-            {
-                "value": "Kỳ 2 và kỳ 3"
-            },
-            {
-                "value": "Không có kỳ nào"
+                "value": "AutoFit Column Width"
             }
         ]
     },
     {
-        "question": "Câu 19: Cuối kì nén, ở động cơ Điêzen diễn ra quá trình:",
+        "question": "Câu 21: Khi cần bỏ chon trộn ô, bạn chon lệnh nào sau đây:",
         "answer": [
             {
-                "value": "bật tia lửa điện."
+                "value": "Merge Cells"
             },
             {
-                "value": "phun nhiên liệu"
+                "value": "Unmerge Cells"
             },
             {
-                "value": "đóng cửa quét"
+                "value": "Merge & Center"
             },
             {
-                "value": "đóng cửa thải"
+                "value": "Merge Across"
             }
         ],
         "right_answer": [
             {
-                "value": "bật tia lửa điện."
-            },
-            {
-                "value": "phun nhiên liệu"
-            },
-            {
-                "value": "đóng cửa quét"
-            },
-            {
-                "value": "đóng cửa thải"
+                "value": "Unmerge Cells"
             }
         ]
     },
     {
-        "question": "Câu 20: Cơ cấu phân phối khí xupap treo có ưu điểm gì?",
+        "question": "Câu 22: Ô A5 có giá trị chuổi “LE”, ô B5 có giá trị chuỗi “VIET” , để ô D5 cho kết quả “LE VIET” (có khoảng trắng ở giữa), công thức nào đúng ?",
         "answer": [
             {
-                "value": "Cấu tạo buồng cháy phức tạp"
+                "value": "=A5+” “+B5."
             },
             {
-                "value": "Buồng cháy gọn."
+                "value": "=A5+B5"
             },
             {
-                "value": "Thải không sạch"
+                "value": "=A5&” “&B5"
             },
             {
-                "value": "Dễ điều chỉnh khe hở xupap = Nạp đầy, thải sạch (đúng hơn)"
+                "value": "=A5&B5"
             }
         ],
         "right_answer": [
             {
-                "value": "Cấu tạo buồng cháy phức tạp"
-            },
-            {
-                "value": "Buồng cháy gọn."
-            },
-            {
-                "value": "Thải không sạch"
-            },
-            {
-                "value": "Dễ điều chỉnh khe hở xupap = Nạp đầy, thải sạch (đúng hơn)"
+                "value": "=A5&” “&B5"
             }
         ]
     },
     {
-        "question": "Câu 21: Trong hệ thống nhiên liệu dùng bộ chế hòa khí, hòa khí được hình thành ở đâu?",
+        "question": "Câu 23: Tại ô D2 có công thức =B2+C2, thực hiện sao chép công thức sang ô D3. Công thức tại ô D3 sẽ là",
         "answer": [
             {
-                "value": "Xilanh\t"
+                "value": "=B3+C3"
             },
             {
-                "value": "Bơm xăng"
+                "value": "=B2+C2"
             },
             {
-                "value": "Bộ chế hòa khí\t"
+                "value": "=B1+C1"
             },
             {
-                "value": "Thùng xăng"
+                "value": "=C2+D2"
             }
         ],
         "right_answer": [
             {
-                "value": "Xilanh\t"
-            },
-            {
-                "value": "Bơm xăng"
-            },
-            {
-                "value": "Bộ chế hòa khí\t"
-            },
-            {
-                "value": "Thùng xăng"
+                "value": "=B3+C3"
             }
         ]
     },
     {
-        "question": "Câu 22: Trong hệ thống phun xăng tự động (FI), bộ điều khiển phun sẽ nhận tín hiệu như nhiệt độ của động cơ, độ mở của bướm ga... từ bộ phận nào?",
+        "question": "Câu 24: Tại ô E2 có công thức =B2+C2, thực hiện sao chép công thức sang ô F2. Công thức tại ô F2 sẽ là",
         "answer": [
             {
-                "value": "Bộ điều chỉnh áp suất \t"
+                "value": "=C3+D3"
             },
             {
-                "value": "Bộ điều khiển phun"
+                "value": "=C2+D2"
             },
             {
-                "value": "Bơm xăng\t"
+                "value": "=A2+B2"
             },
             {
-                "value": "Các cảm biến"
+                "value": "=B2+C2"
             }
         ],
         "right_answer": [
             {
-                "value": "Bộ điều chỉnh áp suất \t"
-            },
-            {
-                "value": "Bộ điều khiển phun"
-            },
-            {
-                "value": "Bơm xăng\t"
-            },
-            {
-                "value": "Các cảm biến"
+                "value": "=C2+D2"
             }
         ]
     },
     {
-        "question": "Câu 23: Cơ cấu phân phối khí có nhiệm vụ gì?",
+        "question": "Câu 25: tại ô D2 có công thức =$B$2+C2, thực hiện sao chép công thức sang ô D3. Công thức tại ô D3 sẽ là",
         "answer": [
             {
-                "value": "Đưa dầu bôi trơn đến các bề mặt ma sát của các chi tiết."
+                "value": "=$B$2+C3"
             },
             {
-                "value": "Cung cấp hòa khí sạch vào xi-lanh của động cơ."
+                "value": "=$B$3+C3"
             },
             {
-                "value": "Đóng mở các cửa nạp, cửa thải đúng lúc."
+                "value": "=$B$1+C1"
             },
             {
-                "value": "Giữ cho nhiệt độ các chi tiết không vượt quá giới hạn cho phép."
+                "value": "=$B$2+D2"
             }
         ],
         "right_answer": [
             {
-                "value": "Đưa dầu bôi trơn đến các bề mặt ma sát của các chi tiết."
-            },
-            {
-                "value": "Cung cấp hòa khí sạch vào xi-lanh của động cơ."
-            },
-            {
-                "value": "Đóng mở các cửa nạp, cửa thải đúng lúc."
-            },
-            {
-                "value": "Giữ cho nhiệt độ các chi tiết không vượt quá giới hạn cho phép."
+                "value": "=$B$2+C3"
             }
         ]
     },
     {
-        "question": "Câu 24: Để nạp đầy khí mới và thải sạch khí cháy ra ngoài thì các xupap (nạp và thải) phải như thế nào? ",
+        "question": "Câu 26: Tại ô D2 có công thức =B$2+C2, thực hiện sao chép công thức sang ô D3. Công thức tại ô D3 sẽ là",
         "answer": [
             {
-                "value": "Mở muộn và đóng muộn. "
+                "value": "=B$3+C2"
             },
             {
-                "value": "Mở sớm và đóng muộn. "
+                "value": "=B$2+C3"
             },
             {
-                "value": "Mở sớm và đóng sớm. "
+                "value": "=B$3+C3"
             },
             {
-                "value": "Mở muộn và đóng sớm."
+                "value": "=B$2+D2"
             }
         ],
         "right_answer": [
             {
-                "value": "Mở muộn và đóng muộn. "
-            },
-            {
-                "value": "Mở sớm và đóng muộn. "
-            },
-            {
-                "value": "Mở sớm và đóng sớm. "
-            },
-            {
-                "value": "Mở muộn và đóng sớm."
+                "value": "=B$2+C3"
             }
         ]
     },
     {
-        "question": "Câu 25: Cơ cấu phân phối khí dùng xupap được đóng bằng?",
+        "question": "Câu 27: Ô G6 chứa =A1*B2+C1-C2 thì ô G6 có kết quả là",
         "answer": [
             {
-                "value": "Lò xo phản kháng."
+                "value": "3.8"
             },
             {
-                "value": "Vấu cam."
+                "value": "3.9"
             },
             {
-                "value": "Con đội."
+                "value": "3"
             },
             {
-                "value": "Cò mổ"
+                "value": "D. "
             }
         ],
         "right_answer": [
             {
-                "value": "Lò xo phản kháng."
-            },
-            {
-                "value": "Vấu cam."
-            },
-            {
-                "value": "Con đội."
-            },
-            {
-                "value": "Cò mổ"
+                "value": "3.9"
             }
         ]
     },
     {
-        "question": "Câu 26: Tác dụng của dầu bôi trơn:",
+        "question": "Câu 28: Ô G8 chứa =A1&A2&F3 thì ô G8 có kết quả là",
         "answer": [
             {
-                "value": "A. Bôi trơn các bề mặt ma sát"
+                "value": "0"
             },
             {
-                "value": "B. Làm mát"
+                "value": "F"
             },
             {
-                "value": "C. Bao kín và chống gỉ"
+                "value": "1.11F"
             },
             {
-                "value": "D. Cả 3 đáp án trên"
+                "value": "11.1F"
             }
         ],
         "right_answer": [
             {
-                "value": "A. Bôi trơn các bề mặt ma sát"
-            },
-            {
-                "value": "B. Làm mát"
-            },
-            {
-                "value": "C. Bao kín và chống gỉ"
-            },
-            {
-                "value": "D. Cả 3 đáp án trên"
+                "value": "1.11F"
             }
         ]
     },
     {
-        "question": "Câu 27: Có những phương pháp bôi trơn nào?",
+        "question": "Câu 29: Ô G10 có công thức =F3/F2 cho kết quả là",
         "answer": [
             {
-                "value": "A. Bôi trơn bằng vung té"
+                "value": "F/6.6"
             },
             {
-                "value": "B. Bôi trơn cưỡng bức"
+                "value": "#VALUE!"
             },
             {
-                "value": "C. Cả 3 đáp án trên"
+                "value": "Không thực hiện được"
             },
             {
-                "value": "D. Bôi trơn bằng pha dầu bôi trơn vào nhiên liệu"
+                "value": "6.6/F"
             }
         ],
         "right_answer": [
             {
-                "value": "A. Bôi trơn bằng vung té"
-            },
-            {
-                "value": "B. Bôi trơn cưỡng bức"
-            },
-            {
-                "value": "C. Cả 3 đáp án trên"
-            },
-            {
-                "value": "D. Bôi trơn bằng pha dầu bôi trơn vào nhiên liệu"
+                "value": "#VALUE!"
             }
         ]
     },
     {
-        "question": "Câu 28: Hệ thống bôi trơn có bộ phận nào sau đây?",
+        "question": "Câu 30: Ô G12 có công thức =A1^A1 cho kết quả là",
         "answer": [
             {
-                "value": "A. Cacte dầu"
+                "value": "1"
             },
             {
-                "value": "B. Két làm mát"
+                "value": "#VAILUE!"
             },
             {
-                "value": "C. Quạt gió"
+                "value": "Không thực hiện được"
             },
             {
-                "value": "D. Bơm nước"
+                "value": "2"
             }
         ],
         "right_answer": [
             {
-                "value": "A. Cacte dầu"
-            },
-            {
-                "value": "B. Két làm mát"
-            },
-            {
-                "value": "C. Quạt gió"
-            },
-            {
-                "value": "D. Bơm nước"
+                "value": "1"
             }
         ]
     },
     {
-        "question": "Câu 29: Van an toàn bơm dầu mở khi:",
+        "question": "Câu 31: Ô G14 có công thức =A1*$B$1, chép công thức xuống G15 thì kết quả là",
         "answer": [
             {
-                "value": "A. Động cơ làm việc bình thường"
+                "value": "3"
             },
             {
-                "value": "B. Khi áp suất dầu trên các đường chính vượt giới hạn cho phép"
+                "value": "3.3"
             },
             {
-                "value": "C. Khi nhiệt độ dầu cao quá giới hạn"
+                "value": "#VAILUE!"
             },
             {
-                "value": "D. Luôn mở"
+                "value": "Không biết trước"
             }
         ],
         "right_answer": [
             {
-                "value": "A. Động cơ làm việc bình thường"
-            },
-            {
-                "value": "B. Khi áp suất dầu trên các đường chính vượt giới hạn cho phép"
-            },
-            {
-                "value": "C. Khi nhiệt độ dầu cao quá giới hạn"
-            },
-            {
-                "value": "D. Luôn mở"
+                "value": "3"
             }
         ]
     },
     {
-        "question": "Câu 30: Khi dầu qua két làm mát dầu thì:",
+        "question": "Câu 32: Ô G16 có công thức =A3^B3 cho kết quả là ",
         "answer": [
             {
-                "value": "A. Van khống chế lượng dầu qua két mở"
+                "value": "1"
             },
             {
-                "value": "B. Van khống chế lượng dầu qua két đóng"
+                "value": "#VAILUE!"
             },
             {
-                "value": "C. Van an toàn bơm dầu mở"
+                "value": "Không thực hiện được"
             },
             {
-                "value": "D. Cả 3 đáp án đều đúng"
+                "value": "2"
             }
         ],
         "right_answer": [
             {
-                "value": "A. Van khống chế lượng dầu qua két mở"
-            },
-            {
-                "value": "B. Van khống chế lượng dầu qua két đóng"
-            },
-            {
-                "value": "C. Van an toàn bơm dầu mở"
-            },
-            {
-                "value": "D. Cả 3 đáp án đều đúng"
+                "value": "#VAILUE!"
             }
         ]
     },
     {
-        "question": "Câu 31: Đâu là bề mặt ma sát?",
+        "question": "Câu 33: Ô A2 có trị TRUE, ô B2 có giá trị FALSE, ô C2 có công thức A2+B2. Kết quả tại C2 là",
         "answer": [
             {
-                "value": "A. Bề mặt tiếp xúc của pit-tông với xilanh"
+                "value": "1"
             },
             {
-                "value": "B. Bề mặt tiếp xúc của chốt khuỷu với bạc lót"
+                "value": "2"
             },
             {
-                "value": "C. Cả 3 đáp án đều đúng"
+                "value": "#VAILUE!"
             },
             {
-                "value": "D. Bề mặt tiếp xúc của chốt pit-tông với lỗ chốt pit-tông"
+                "value": "TRUEFALSE"
             }
         ],
         "right_answer": [
             {
-                "value": "A. Bề mặt tiếp xúc của pit-tông với xilanh"
-            },
-            {
-                "value": "B. Bề mặt tiếp xúc của chốt khuỷu với bạc lót"
-            },
-            {
-                "value": "C. Cả 3 đáp án đều đúng"
-            },
-            {
-                "value": "D. Bề mặt tiếp xúc của chốt pit-tông với lỗ chốt pit-tông"
+                "value": "1"
             }
         ]
     },
     {
-        "question": "Câu 32: Phát biểu nào sau đây sai?",
+        "question": "Câu 34: Ô A2 có giá trị TRUE, ô B2 có giá trị FALSE, ô C2 có công thức =A2&B2. Kết quả tại C2 là",
         "answer": [
             {
-                "value": "Trường hợp áp suất dầu trên các đường vượt quá giá trị cho phép, van an toàn bơm dầu mở."
+                "value": "1"
             },
             {
-                "value": "Van an toàn bơm dầu mở để một phần dầu chảy ngược về trước bơm"
+                "value": "2"
             },
             {
-                "value": "Van an toàn bơm dầu mở để một phần dầu chảy ngược về trước bơm, một phần chảy về cacte"
+                "value": "#VAILUE!"
             },
             {
-                "value": "Dầu được bơm hút từ cacte lên"
+                "value": "TRUEFALSE"
             }
         ],
         "right_answer": [
             {
-                "value": "Trường hợp áp suất dầu trên các đường vượt quá giá trị cho phép, van an toàn bơm dầu mở."
-            },
-            {
-                "value": "Van an toàn bơm dầu mở để một phần dầu chảy ngược về trước bơm"
-            },
-            {
-                "value": "Van an toàn bơm dầu mở để một phần dầu chảy ngược về trước bơm, một phần chảy về cacte"
-            },
-            {
-                "value": "Dầu được bơm hút từ cacte lên"
+                "value": "TRUEFALSE"
             }
         ]
     },
     {
-        "question": "Câu 33: Hệ thống bôi trơn không có bộ phận nào?",
+        "question": "Câu 35: Trong 1 ô nhập ‘1 có nghĩa là",
         "answer": [
             {
-                "value": "Bơm dầu"
+                "value": "Số 1"
             },
             {
-                "value": "Lưới lọc dầu"
+                "value": "Chuỗi 1"
             },
             {
-                "value": "Van hằng nhiệt"
+                "value": "Kết quả sẽ ở vị trí giữa ô"
             },
             {
-                "value": "Đồng hồ báo áp suất dầu"
+                "value": "Kết quả sẽ ở vị tri phải của ô."
             }
         ],
         "right_answer": [
             {
-                "value": "Bơm dầu"
-            },
-            {
-                "value": "Lưới lọc dầu"
-            },
-            {
-                "value": "Van hằng nhiệt"
-            },
-            {
-                "value": "Đồng hồ báo áp suất dầu"
+                "value": "Chuỗi 1"
             }
         ]
     },
     {
-        "question": "Câu 34: Hệ thống làm mát bằng nước có chi tiết đặc trưng nào?",
+        "question": "Câu 36: Ô A2 có giá trị ’10 (chuỗi 10), ô B2 nhập công thức =A2*1, kết quả ở B2 là ",
         "answer": [
             {
-                "value": "A. Trục khuỷu"
+                "value": "Số 10"
             },
             {
-                "value": "B. Áo nước"
+                "value": "Chuỗi 10"
             },
             {
-                "value": "C. Cánh tản nhiệt"
+                "value": "#VAILUE!"
             },
             {
-                "value": "D. Bugi"
+                "value": "Không tính toán, Excel báo lỗi bắt hiệu chỉnh."
             }
         ],
         "right_answer": [
             {
-                "value": "A. Trục khuỷu"
-            },
-            {
-                "value": "B. Áo nước"
-            },
-            {
-                "value": "C. Cánh tản nhiệt"
-            },
-            {
-                "value": "D. Bugi"
+                "value": "Số 10"
             }
         ]
     },
     {
-        "question": "Câu 35: Hệ thống làm mát bằng không khí có chi tiết đặc trưng nào?",
+        "question": "Câu 37: Ô A2 có giá trị TRUE ô B2 có giá trị FALSE, ô C2 nhập công thức =A2>B2, kết quả ở C2 là",
         "answer": [
             {
-                "value": "A. Trục khuỷu"
+                "value": "1"
             },
             {
-                "value": "B. Vòi phun"
+                "value": "0"
             },
             {
-                "value": "C. Cánh tản nhiệt"
+                "value": "False"
             },
             {
-                "value": "D. Bugi"
+                "value": "True"
             }
         ],
         "right_answer": [
             {
-                "value": "A. Trục khuỷu"
-            },
-            {
-                "value": "B. Vòi phun"
-            },
-            {
-                "value": "C. Cánh tản nhiệt"
-            },
-            {
-                "value": "D. Bugi"
+                "value": "True"
             }
         ]
     },
     {
-        "question": "Câu 36: Bộ phận nào sau đây thuộc hệ thống làm mát?",
+        "question": "Câu 38: Ô A2 co1 giá trị 10, ô B2 có giá trị 20, ô C2 nhập công thức +A2+B2, kết quả ở C2 là",
         "answer": [
             {
-                "value": "A. Van hằng nhiệt"
+                "value": "10"
             },
             {
-                "value": "B. Két nước"
+                "value": "20"
             },
             {
-                "value": "C. Bơm nước"
+                "value": "Xuất hiện nội dung +A2+B2 trong ô"
             },
             {
-                "value": "D. Cả 3 đáp án trên"
+                "value": "30"
             }
         ],
         "right_answer": [
             {
-                "value": "A. Van hằng nhiệt"
-            },
-            {
-                "value": "B. Két nước"
-            },
-            {
-                "value": "C. Bơm nước"
-            },
-            {
-                "value": "D. Cả 3 đáp án trên"
+                "value": "30"
             }
         ]
     },
     {
-        "question": "Câu 37: Bộ phận nào sau đây không thuộc hệ thống làm mát?",
+        "question": "Câu 39: Tại ô A2 có giá trị “SAIGON-TP HCM”, tại một ô có công thức =LEFT (A2,6) kết quả là",
         "answer": [
             {
-                "value": "A. Quạt gió"
+                "value": "SAIGON"
             },
             {
-                "value": "B. Puli và đai truyền"
+                "value": "TP HCM"
             },
             {
-                "value": "C. Áo nước"
+                "value": "GON.TP"
             },
             {
-                "value": "D. Bầu lọc dầu"
+                "value": "S"
             }
         ],
         "right_answer": [
             {
-                "value": "A. Quạt gió"
-            },
-            {
-                "value": "B. Puli và đai truyền"
-            },
-            {
-                "value": "C. Áo nước"
-            },
-            {
-                "value": "D. Bầu lọc dầu"
+                "value": "SAIGON"
             }
         ]
     },
     {
-        "question": "Câu 38: Khi nhiệt độ nước trong áo nước dưới giới hạn định trước, van hằng nhiệt sẽ:",
+        "question": "Câu 40: Trong ô F2 có trị số 13579.32, tại ô K2 ta có công thức =ROUND(F2*2,0)/2. Kết quả là",
         "answer": [
             {
-                "value": "A. Đóng cả 2 cửa"
+                "value": "13580.3 "
             },
             {
-                "value": "B. Mở cửa thông với đường nước nối tắt về bơm"
+                "value": "13579.5 "
             },
             {
-                "value": "C. Mở cả 2 cửa"
+                "value": "13579.0 "
             },
             {
-                "value": "D. Mở cửa thông với đường nước vào két làm mát"
+                "value": "13580.0"
             }
         ],
         "right_answer": [
             {
-                "value": "A. Đóng cả 2 cửa"
-            },
-            {
-                "value": "B. Mở cửa thông với đường nước nối tắt về bơm"
-            },
-            {
-                "value": "C. Mở cả 2 cửa"
-            },
-            {
-                "value": "D. Mở cửa thông với đường nước vào két làm mát"
+                "value": "13579.5 "
             }
         ]
     },
     {
-        "question": "Câu 39: Khi nhiệt độ nước trong áo nước xấp xỉ giới hạn đã định, van hằng nhiệt sẽ:",
+        "question": "Câu 41: Tại ô C2 chứa chuỗi “HÒA bình”. Công thức = PROFER(C2) cho kết quả là",
         "answer": [
             {
-                "value": "A. Đóng cả 2 cửa"
+                "value": "Hòa bình "
             },
             {
-                "value": "B. Mở cửa thông với đường nước nối tắt về bơm"
+                "value": "Hòa Bình "
             },
             {
-                "value": "C. Mở cả 2 cửa"
+                "value": "HÒA BÌNH "
             },
             {
-                "value": "D. Mở cửa thông với đường nước vào két làm mát"
+                "value": "báo lỗi"
             }
         ],
         "right_answer": [
             {
-                "value": "A. Đóng cả 2 cửa"
-            },
-            {
-                "value": "B. Mở cửa thông với đường nước nối tắt về bơm"
-            },
-            {
-                "value": "C. Mở cả 2 cửa"
-            },
-            {
-                "value": "D. Mở cửa thông với đường nước vào két làm mát"
+                "value": "Hòa Bình "
             }
         ]
     },
     {
-        "question": "Câu 40: Hệ thống cung cấp nhiên liệu và không khí trong động cơ xăng có nhiệm vụ:",
+        "question": "Câu 42: Tại ô C2 chứa chuỗi “HÒA bình”, công thức = UPPER(C2) cho kết quả là",
         "answer": [
             {
-                "value": "Cung cấp xăng vào xilanh động cơ"
+                "value": "Hòa bình "
             },
             {
-                "value": "Cung cấp không khí sạch vào xilanh động cơ"
+                "value": "Hòa Bình "
             },
             {
-                "value": "Cung cấp hòa khí vào xilanh động cơ"
+                "value": "HÒA BÌNH "
             },
             {
-                "value": "Cung cấp hòa khí sạch vào xilanh động cơ"
+                "value": "báo lỗi"
             }
         ],
         "right_answer": [
             {
-                "value": "Cung cấp xăng vào xilanh động cơ"
-            },
-            {
-                "value": "Cung cấp không khí sạch vào xilanh động cơ"
-            },
-            {
-                "value": "Cung cấp hòa khí vào xilanh động cơ"
-            },
-            {
-                "value": "Cung cấp hòa khí sạch vào xilanh động cơ"
+                "value": "HÒA BÌNH "
             }
         ]
     },
     {
-        "question": "Câu 41: Hệ thống nhiên liệu ở động cơ xăng có:",
+        "question": "Câu 43: Tại ô A1 có chuỗi: “THI NGHE PTCS”. Hàm =MID(A1,5,4) cho giá trị là",
         "answer": [
             {
-                "value": "A. Hệ thống dùng bộ chế hòa khí"
+                "value": "PTCS "
             },
             {
-                "value": "B. Hệ thống dùng bộ chế hòa khí dạng tự chảy"
+                "value": "NGHE"
             },
             {
-                "value": "C. Hệ thống dùng bộ chế hòa khí, hệ thống phun xăng"
+                "value": "THI (có một khoảng trắng sau THI)"
             },
             {
-                "value": "D. Hệ thống dùng bộ chế hòa khí dạng bơm xăng"
+                "value": "PTSC (có một khoảng trắng trước PTCS)"
             }
         ],
         "right_answer": [
             {
-                "value": "A. Hệ thống dùng bộ chế hòa khí"
-            },
-            {
-                "value": "B. Hệ thống dùng bộ chế hòa khí dạng tự chảy"
-            },
-            {
-                "value": "C. Hệ thống dùng bộ chế hòa khí, hệ thống phun xăng"
-            },
-            {
-                "value": "D. Hệ thống dùng bộ chế hòa khí dạng bơm xăng"
+                "value": "NGHE"
             }
         ]
     },
     {
-        "question": "Câu 42: Khối nào sau đây không thuộc sơ đồ khối hệ thống nhiên liệu dùng bộ chế hòa khí ở động cơ xăng?",
+        "question": "Câu 44: Trong Excel, biểu tượng dùng để",
         "answer": [
             {
-                "value": "Thùng xăng"
+                "value": "Sắp xếp thứ tự bảng tính"
             },
             {
-                "value": "Bầu lọc xăng"
+                "value": "Tính tổng các giá trị số vùng chọn"
             },
             {
-                "value": "Bộ điều chỉnh áp suất"
+                "value": "Chèn một hàm Excel vào ô đang có con trỏ"
             },
             {
-                "value": "Bộ chế hòa khí"
+                "value": "Chuyển địa chỉ tương đối sang tuyệt đối"
             }
         ],
         "right_answer": [
             {
-                "value": "Thùng xăng"
-            },
-            {
-                "value": "Bầu lọc xăng"
-            },
-            {
-                "value": "Bộ điều chỉnh áp suất"
-            },
-            {
-                "value": "Bộ chế hòa khí"
+                "value": "Chèn một hàm Excel vào ô đang có con trỏ"
             }
         ]
     },
     {
-        "question": "Câu 43: Sơ đồ khối hệ thống phun xăng không có khối nào sau đây?",
+        "question": "Câu 45: Ô A1 có giá trị 7.268 và ô A2 có giá trị 6.326. Công thức =ROUND(A1,2)-INT(A2) cho kết quả là",
         "answer": [
             {
-                "value": "Các cảm biến"
+                "value": "1.00 "
             },
             {
-                "value": "Bộ điều khiển phun"
+                "value": "1.26 "
             },
             {
-                "value": "Bộ điều chỉnh áp suất"
+                "value": "8.27 "
             },
             {
-                "value": "Bộ chế hòa khí"
+                "value": "1.27"
             }
         ],
         "right_answer": [
             {
-                "value": "Các cảm biến"
-            },
-            {
-                "value": "Bộ điều khiển phun"
-            },
-            {
-                "value": "Bộ điều chỉnh áp suất"
-            },
-            {
-                "value": "Bộ chế hòa khí"
+                "value": "1.27"
             }
         ]
     },
     {
-        "question": "Câu 44: Ở hệ thống nhiên liệu dùng bộ chế hòa khí, xăng và không khí hòa trộn với nhau tại:",
+        "question": "Câu 46: Các ô A1, B11, C11 có các giá trị 5, 7 và chữ “NGHEPT”. Công thức =(A1+B1+C1)/2 cho kết quả là",
         "answer": [
             {
-                "value": "Buồng phao"
+                "value": "0"
             },
             {
-                "value": "Thùng xăng"
+                "value": "1.26"
             },
             {
-                "value": "Họng khuếch tán"
+                "value": "8.27 "
             },
             {
-                "value": "Đường ống nạp"
+                "value": "1.27"
             }
         ],
         "right_answer": [
             {
-                "value": "Buồng phao"
+                "value": "1.26"
+            }
+        ]
+    },
+    {
+        "question": "Câu 47: Ô D4 có chuỗi “Hai tram 2 muoi”. Hàm =LOWER(D4) cho kết quả là",
+        "answer": [
+            {
+                "value": "Hai tram 2 muoi"
             },
             {
-                "value": "Thùng xăng"
+                "value": "HAI TRAM 2 MUOI"
             },
             {
-                "value": "Họng khuếch tán"
+                "value": "Hai Tram 2 Muoi"
             },
             {
-                "value": "Đường ống nạp"
+                "value": "220"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Hai tram 2 muoi"
+            }
+        ]
+    },
+    {
+        "question": "Câu 48: Hàm =INT(62/5) sẽ cho kết quả là",
+        "answer": [
+            {
+                "value": "12"
+            },
+            {
+                "value": "2 "
+            },
+            {
+                "value": "12.4 "
+            },
+            {
+                "value": "D.0.4"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "12"
+            }
+        ]
+    },
+    {
+        "question": "Câu 49: Ô A3 có giá trị 15. Công thức =MOD(A3/2) sẽ cho kết quả là",
+        "answer": [
+            {
+                "value": "1 "
+            },
+            {
+                "value": "7 "
+            },
+            {
+                "value": "0.5 "
+            },
+            {
+                "value": "Công thức sai máy báo lỗi"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Công thức sai máy báo lỗi"
+            }
+        ]
+    },
+    {
+        "question": "Câu 50: Ô A3 có giá trị 15. Công thức =MOD(A3,2) sẽ cho kết quả là",
+        "answer": [
+            {
+                "value": "1 "
+            },
+            {
+                "value": "7 "
+            },
+            {
+                "value": "0.5 "
+            },
+            {
+                "value": "Công thức sai máy báo lỗi"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "1 "
+            }
+        ]
+    },
+    {
+        "question": "Câu 51: Ô D1 chứa giá trị 158.93. Công thức =ROUND(D1,0) cho kết quả là",
+        "answer": [
+            {
+                "value": "158.9"
+            },
+            {
+                "value": "159"
+            },
+            {
+                "value": "158"
+            },
+            {
+                "value": "Công thức sai, máy báo lỗi"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "159"
+            }
+        ]
+    },
+    {
+        "question": "Câu 52: Ô B3 chứa giá trị 1758.4963. Hàm =ROUND(D1,-2) cho kết quả là",
+        "answer": [
+            {
+                "value": "1800"
+            },
+            {
+                "value": "1759"
+            },
+            {
+                "value": "1758"
+            },
+            {
+                "value": "Công thức sai, máy báo lỗi"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "1800"
+            }
+        ]
+    },
+    {
+        "question": "Câu 53: Ô C1 chứa dữ liệu dạng chuỗi A15. Ở ô C2 có công thức =VALUE(RIGH(C1,3)) cho kết quả là",
+        "answer": [
+            {
+                "value": "115"
+            },
+            {
+                "value": "0"
+            },
+            {
+                "value": "TRUE"
+            },
+            {
+                "value": "FALSE"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "115"
+            }
+        ]
+    },
+    {
+        "question": "Câu 54: Ô C1 chứa dữ liệu dạng chuỗi A15. Ở ô C2 có công thức =VALUE(RIGH(C1,3))>0 cho kết quả là",
+        "answer": [
+            {
+                "value": "115"
+            },
+            {
+                "value": "0"
+            },
+            {
+                "value": "TRUE"
+            },
+            {
+                "value": "FALSE"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "TRUE"
+            }
+        ]
+    },
+    {
+        "question": "Câu 55: Ô C1 chứa dữ liệu dạng chuỗi 115 (‘115”). Ở C2 có công thức =C1*1+3 cho kết quả là",
+        "answer": [
+            {
+                "value": "115"
+            },
+            {
+                "value": "0"
+            },
+            {
+                "value": "118"
+            },
+            {
+                "value": "Báo lỗi"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "118"
+            }
+        ]
+    },
+    {
+        "question": "Câu 56: Ô Â chứa chuỗi “8637736X”. Hàm =VALUE(A6) cho kết quả là",
+        "answer": [
+            {
+                "value": "8637736"
+            },
+            {
+                "value": "0"
+            },
+            {
+                "value": "Không hiện gì cả"
+            },
+            {
+                "value": "Báo lỗi #VALUE"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Báo lỗi #VALUE"
+            }
+        ]
+    },
+    {
+        "question": "Câu 57: Hàm =MID(“1234ABCD”,4,2) sẽ cho kết quả là",
+        "answer": [
+            {
+                "value": "1234"
+            },
+            {
+                "value": "4A"
+            },
+            {
+                "value": "ABCD"
+            },
+            {
+                "value": "AB"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "4A"
+            }
+        ]
+    },
+    {
+        "question": "Câu 58: Ô D3 chứa MỨC LƯƠNG, ô E3 chứa SỐ NGÀY. Chọn công thức tính TẠM ỨNG LƯƠNG ở F3, biết được tạm ứng 65% của Lương chính (Lương chính = Mức lương * Số ngày):  ",
+        "answer": [
+            {
+                "value": "=65/100(D3*E3)"
+            },
+            {
+                "value": "=100/65*(D3*E3)"
+            },
+            {
+                "value": "=65%*(D3*E3)"
+            },
+            {
+                "value": "=65%(D3*E3)"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "=65%*(D3*E3)"
+            }
+        ]
+    },
+    {
+        "question": "Câu 59: Ô D3 có giá trị số là 6.5 Ô E3 có công thức =IF(D3>8,’GIOI”,IF(D3>6.5,”KHA”,IF(D3>5,”TB”,”YEU”))) cho kết quả là",
+        "answer": [
+            {
+                "value": "GIOI"
+            },
+            {
+                "value": "KHA"
+            },
+            {
+                "value": "TB"
+            },
+            {
+                "value": "YEU"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "TB"
+            }
+        ]
+    },
+    {
+        "question": "Câu 60: Ô A1 chứa số 7, ô B1 chứa giá trị chuỗi  “ABC” Hàm =AND(A1>6,B1=”ABC”)  cho kết quả là",
+        "answer": [
+            {
+                "value": "TRUE"
+            },
+            {
+                "value": "FALSE"
+            },
+            {
+                "value": "6"
+            },
+            {
+                "value": "ABC"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "TRUE"
             }
         ]
     }
