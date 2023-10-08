@@ -8,7 +8,7 @@
         "client_secret": "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",
         "redirect_uris": [
             "http://localhost:3000/",
-            "https://projectcreateformv1.streamlit.app/?page=%F0%9F%94%A5Documentation"
+            "https://projectcreateformv1.streamlit.app/?page=Documentation"
         ]
     }
 }
