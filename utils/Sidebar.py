@@ -59,8 +59,8 @@ def Sidebar(current_dir):
             with selected_page:
                 if st.button("Go home!"):
                     st.experimental_set_query_params(
-                        page="🔥Documentation"
+                        page="Documentation"
                     )
     else:
-        st.experimental_set_query_params(page="🔥Documentation")
+        st.experimental_set_query_params(page="Documentation")
         st.experimental_rerun()
