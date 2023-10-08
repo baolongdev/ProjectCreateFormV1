@@ -33,7 +33,6 @@ class GoogleFormGenerator:
             self.creds = tools.run_flow(flow, self.store)
             self.form_service = discovery.build('forms', 'v1', http=self.creds.authorize(Http()), discoveryServiceUrl=self.DISCOVERY_DOC, static_discovery=False)
 
-
     def setting_configure(self, is_quiz = True, is_required = True, is_shuffle = True):
         self.quiz = is_quiz
         self.required = is_required

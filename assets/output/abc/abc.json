@@ -1,89 +1,1365 @@
 [
     {
-        "question": "Câu 1: Nguyên thủ quốc gia nào sau đây tham dự Hội nghị Ianta (tháng 2-1945)?",
+        "question": "Câu 1: Chu trình làm việc của động cơ 4 kỳ được thực hiện trong mấy hành trình của pittong?",
         "answer": [
             {
-                "value": "Nhật Bản"
+                "value": "2 hành trình của pittong.\t\t"
             },
             {
-                "value": "Pháp"
+                "value": "1/2 hành trình của pittong. "
             },
             {
-                "value": "Đức"
+                "value": "1 hành trình của pittong. \t\t"
             },
             {
-                "value": "Mĩ"
+                "value": "4 hành trình của pittong."
             }
         ],
         "right_answer": [
             {
-                "value": "Mĩ"
+                "value": "2 hành trình của pittong.\t\t"
+            },
+            {
+                "value": "1/2 hành trình của pittong. "
+            },
+            {
+                "value": "1 hành trình của pittong. \t\t"
+            },
+            {
+                "value": "4 hành trình của pittong."
             }
         ]
     },
     {
-        "question": "Câu 2: Hội nghị Ianta (2-1945) diễn ra khi cuộc Chiến tranh thế giới thứ hai",
+        "question": "Câu 2: Chu trình làm việc của động cơ 2 kỳ được thực hiện trong mấy hành trình của pittong?",
         "answer": [
             {
-                "value": "đã hoàn toàn kết thúc."
+                "value": "2 hành trình của pittong.\t\t"
             },
             {
-                "value": "bước vào giai đoạn kết thúc"
+                "value": "1/2 hành trình của pittong. "
             },
             {
-                "value": "đang diễn ra vô cùng khốc liệt"
+                "value": "1 hành trình của pittong. \t\t"
             },
             {
-                "value": "bùng nổ và ngày càng lan rộng"
+                "value": "4 hành trình của pittong."
             }
         ],
         "right_answer": [
             {
-                "value": "bước vào giai đoạn kết thúc"
+                "value": "2 hành trình của pittong.\t\t"
+            },
+            {
+                "value": "1/2 hành trình của pittong. "
+            },
+            {
+                "value": "1 hành trình của pittong. \t\t"
+            },
+            {
+                "value": "4 hành trình của pittong."
             }
         ]
     },
     {
-        "question": "Câu 3: Quyết định của Hội nghị Ianta (2-1945) và những thoả thuận sau đó giữa ba cường quốc Liên Xô, Mĩ, Anh đã trở thành khuôn khổ của một trật tự thế giới mới vì",
+        "question": "Câu 3: Ở động cơ Diesel 4 kỳ, cuối kỳ nén có hiện tượng gì xảy ra?",
         "answer": [
             {
-                "value": "Các nước tham chiến được hưởng nhiều quyền lợi sau chiến tranh."
+                "value": "Không khí nạp vào xilanh."
             },
             {
-                "value": "làm cho cục diện hai cực, hai phe được xác lập trên toàn thế giới."
+                "value": "Buzi bật tia lửa điện."
             },
             {
-                "value": "đã dẫn tới sự giải thể của chủ nghĩa thực dân ở các thuộc địa."
+                "value": "Hoà khí gồm xăng và không khí được nạp vào xilanh."
             },
             {
-                "value": "đã phân chia xong phạm vi ảnh hưởng giữa các nước thắng trận."
+                "value": "Vòi phun phun nhiên liệu vào xilanh dưới dạng sương."
             }
         ],
         "right_answer": [
             {
-                "value": "đã phân chia xong phạm vi ảnh hưởng giữa các nước thắng trận."
+                "value": "Không khí nạp vào xilanh."
+            },
+            {
+                "value": "Buzi bật tia lửa điện."
+            },
+            {
+                "value": "Hoà khí gồm xăng và không khí được nạp vào xilanh."
+            },
+            {
+                "value": "Vòi phun phun nhiên liệu vào xilanh dưới dạng sương."
             }
         ]
     },
     {
-        "question": "Câu 4: Hội nghị Ianta (2-1945) không đưa ra quyết định nào dưới đây?",
+        "question": "Câu 4: Ở động cơ xăng 4 kỳ, cuối kỳ nén có hiện tượng gì xảy ra?",
         "answer": [
             {
-                "value": "Thành lập tổ chức Liên hợp quốc."
+                "value": "Không khí nạp vào xilanh."
             },
             {
-                "value": "Giải pháp quân Nhật ở Đông Dương."
+                "value": "Bugi bật tia lửa điện."
             },
             {
-                "value": "Tiêu diệt tận gốc chủ nghĩa phát xít."
+                "value": "Hoà khí gồm xăng và không khí được nạp vào xilanh."
             },
             {
-                "value": "Phân chia phạm vi ảnh hưởng ở châu Âu, châu Á."
+                "value": "Vòi phun phun nhiên liệu vào xilanh dưới dạng sương."
             }
         ],
         "right_answer": [
             {
-                "value": "Giải pháp quân Nhật ở Đông Dương."
+                "value": "Không khí nạp vào xilanh."
+            },
+            {
+                "value": "Bugi bật tia lửa điện."
+            },
+            {
+                "value": "Hoà khí gồm xăng và không khí được nạp vào xilanh."
+            },
+            {
+                "value": "Vòi phun phun nhiên liệu vào xilanh dưới dạng sương."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5: Ở động cơ xăng 4 kỳ bugi bật tia lửa điện ở thời điểm nào?",
+        "answer": [
+            {
+                "value": "Cuối kỳ nén.\t"
+            },
+            {
+                "value": "Đầu kỳ nén. "
+            },
+            {
+                "value": "Đầu kỳ thải.\t            "
+            },
+            {
+                "value": "Cuối kỳ nổ"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cuối kỳ nén.\t"
+            },
+            {
+                "value": "Đầu kỳ nén. "
+            },
+            {
+                "value": "Đầu kỳ thải.\t            "
+            },
+            {
+                "value": "Cuối kỳ nổ"
+            }
+        ]
+    },
+    {
+        "question": "Câu 6: Vị trí điểm chết trên (ĐCT) của động cơ đốt trong ở đâu?",
+        "answer": [
+            {
+                "value": "Pittong gần tâm trục khuỷu \t\t\t\t"
+            },
+            {
+                "value": "Pittong ở trung tâm của trục khuỷu và đổi chiều chuyển động"
+            },
+            {
+                "value": "Pittong gần tâm trục khuỷu và đang đổi chiều chuyển động"
+            },
+            {
+                "value": "Pittong xa tâm trục khuỷu và đang đổi chiều chuyển động"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Pittong gần tâm trục khuỷu \t\t\t\t"
+            },
+            {
+                "value": "Pittong ở trung tâm của trục khuỷu và đổi chiều chuyển động"
+            },
+            {
+                "value": "Pittong gần tâm trục khuỷu và đang đổi chiều chuyển động"
+            },
+            {
+                "value": "Pittong xa tâm trục khuỷu và đang đổi chiều chuyển động"
+            }
+        ]
+    },
+    {
+        "question": "Câu 7: Hai xupap của ĐCĐT đều mở là khoảng thời gian của kỳ nào?",
+        "answer": [
+            {
+                "value": "Cuối kỳ thải - đầu kỳ hút (nạp)"
+            },
+            {
+                "value": "Cuối kỳ hút - đầu kỳ nén.   "
+            },
+            {
+                "value": "Cuối kỳ nén - đầu kỳ nổ. "
+            },
+            {
+                "value": "D.Cuối kỳ nổ - đầu kỳ thải."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cuối kỳ thải - đầu kỳ hút (nạp)"
+            },
+            {
+                "value": "Cuối kỳ hút - đầu kỳ nén.   "
+            },
+            {
+                "value": "Cuối kỳ nén - đầu kỳ nổ. "
+            },
+            {
+                "value": "D.Cuối kỳ nổ - đầu kỳ thải."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8: Thể tích - áp suất trong xilanh ở kỳ thải của ĐCĐT 4 kỳ như thế nào?",
+        "answer": [
+            {
+                "value": "Áp suất giảm - thể tích giảm.   "
+            },
+            {
+                "value": "Áp suất giảm - thể tích tăng. "
+            },
+            {
+                "value": "Áp suất tăng - thể tích giảm.    "
+            },
+            {
+                "value": "Áp suất tăng - thể tích tăng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Áp suất giảm - thể tích giảm.   "
+            },
+            {
+                "value": "Áp suất giảm - thể tích tăng. "
+            },
+            {
+                "value": "Áp suất tăng - thể tích giảm.    "
+            },
+            {
+                "value": "Áp suất tăng - thể tích tăng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 9: Khi Pittong ở ĐCT kết hợp với nắp máy tạo thành thể tích gì?",
+        "answer": [
+            {
+                "value": "Toàn phần \t"
+            },
+            {
+                "value": "Công tác \t"
+            },
+            {
+                "value": "Buồng cháy "
+            },
+            {
+                "value": "Không gian làm việc động cơ "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Toàn phần \t"
+            },
+            {
+                "value": "Công tác \t"
+            },
+            {
+                "value": "Buồng cháy "
+            },
+            {
+                "value": "Không gian làm việc động cơ "
+            }
+        ]
+    },
+    {
+        "question": "Câu 10: Công thức liên hệ giữa Vtp , Vbc , Vct là gì?",
+        "answer": [
+            {
+                "value": "Vtp = Vct – Vbc . \t"
+            },
+            {
+                "value": "Vct = Vbc + Vtp . \t"
+            },
+            {
+                "value": "Vbc = Vct – Vtp . \t"
+            },
+            {
+                "value": "d. Vtp = Vbc + Vct . "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Vtp = Vct – Vbc . \t"
+            },
+            {
+                "value": "Vct = Vbc + Vtp . \t"
+            },
+            {
+                "value": "Vbc = Vct – Vtp . \t"
+            },
+            {
+                "value": "d. Vtp = Vbc + Vct . "
+            }
+        ]
+    },
+    {
+        "question": "Câu 11: Chu trình làm việc của ĐCĐT lần lượt xảy ra các quá trình nào?",
+        "answer": [
+            {
+                "value": "Nạp – nén – nổ – xả.    "
+            },
+            {
+                "value": "Nạp – nổ – xả - nén.    "
+            },
+            {
+                "value": "Nạp – nổ – nén – xả.    "
+            },
+            {
+                "value": "Nổ – nạp – nén – xả."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Nạp – nén – nổ – xả.    "
+            },
+            {
+                "value": "Nạp – nổ – xả - nén.    "
+            },
+            {
+                "value": "Nạp – nổ – nén – xả.    "
+            },
+            {
+                "value": "Nổ – nạp – nén – xả."
+            }
+        ]
+    },
+    {
+        "question": "Câu 12: Tỷ số nén của ĐCĐT là?",
+        "answer": [
+            {
+                "value": "Tỷ số giữa Vtp và Vbc."
+            },
+            {
+                "value": "Tỷ số giữa Vtp và Vct."
+            },
+            {
+                "value": "Tỷ số giữa Vbc và Vct."
+            },
+            {
+                "value": "Tỷ số giữa Vtp và Vct."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tỷ số giữa Vtp và Vbc."
+            },
+            {
+                "value": "Tỷ số giữa Vtp và Vct."
+            },
+            {
+                "value": "Tỷ số giữa Vbc và Vct."
+            },
+            {
+                "value": "Tỷ số giữa Vtp và Vct."
+            }
+        ]
+    },
+    {
+        "question": "Câu 13: Tỷ số nén của ĐCxăng trong khoảng?",
+        "answer": [
+            {
+                "value": "6 đến 10 "
+            },
+            {
+                "value": "5 đến 11"
+            },
+            {
+                "value": "6 đến 11"
+            },
+            {
+                "value": "15 đến 21"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "6 đến 10 "
+            },
+            {
+                "value": "5 đến 11"
+            },
+            {
+                "value": "6 đến 11"
+            },
+            {
+                "value": "15 đến 21"
+            }
+        ]
+    },
+    {
+        "question": "Câu 14: Trong ĐC Diesel bơm cao áp không có nhiệm vụ nào?",
+        "answer": [
+            {
+                "value": "Cung cấp nhiên liệu với áp suất cao tới vòi phun"
+            },
+            {
+                "value": "Cung cấp nhiên liệu đúng thời điểm vào vòi phun"
+            },
+            {
+                "value": "Cung cấp nhiên liệu với lượng phù hợp với chế độ làm việc của động cơ tới vòi phun"
+            },
+            {
+                "value": "d. Giữ nhiên liệu trong bình không cạn"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cung cấp nhiên liệu với áp suất cao tới vòi phun"
+            },
+            {
+                "value": "Cung cấp nhiên liệu đúng thời điểm vào vòi phun"
+            },
+            {
+                "value": "Cung cấp nhiên liệu với lượng phù hợp với chế độ làm việc của động cơ tới vòi phun"
+            },
+            {
+                "value": "d. Giữ nhiên liệu trong bình không cạn"
+            }
+        ]
+    },
+    {
+        "question": "Câu 15: Quan hệ giữa hành trình pit-tông và bán kính quay của trục khuỷu là:",
+        "answer": [
+            {
+                "value": "S = R"
+            },
+            {
+                "value": "S = 1/R"
+            },
+            {
+                "value": "S = 2R"
+            },
+            {
+                "value": "S = R/2"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "S = R"
+            },
+            {
+                "value": "S = 1/R"
+            },
+            {
+                "value": "S = 2R"
+            },
+            {
+                "value": "S = R/2"
+            }
+        ]
+    },
+    {
+        "question": "Câu 16: Chi tiết nào sau đây không thuộc cấu tạo động cơ điêzen 4 kì?",
+        "answer": [
+            {
+                "value": "a.  Bugi"
+            },
+            {
+                "value": "b.  Pit-tông"
+            },
+            {
+                "value": "c.  Trục khuỷu"
+            },
+            {
+                "value": "d.  Vòi phun"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a.  Bugi"
+            },
+            {
+                "value": "b.  Pit-tông"
+            },
+            {
+                "value": "c.  Trục khuỷu"
+            },
+            {
+                "value": "d.  Vòi phun"
+            }
+        ]
+    },
+    {
+        "question": "Câu 17: Pit-tông được trục khuỷu dẫn động ở kì nào? Chọn đáp án sai:",
+        "answer": [
+            {
+                "value": "a.  Kì nạp"
+            },
+            {
+                "value": "b.  Kì nén"
+            },
+            {
+                "value": "c.  Kì cháy - dãn nở"
+            },
+            {
+                "value": "d.  Kì thải"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a.  Kì nạp"
+            },
+            {
+                "value": "b.  Kì nén"
+            },
+            {
+                "value": "c.  Kì cháy - dãn nở"
+            },
+            {
+                "value": "d.  Kì thải"
+            }
+        ]
+    },
+    {
+        "question": "Câu 18:. Kỳ nào cả hai xupap đều đóng trong động cơ 4 kỳ ?",
+        "answer": [
+            {
+                "value": "Kỳ 1"
+            },
+            {
+                "value": "Kỳ 2"
+            },
+            {
+                "value": "Kỳ 2 và kỳ 3"
+            },
+            {
+                "value": "Không có kỳ nào"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Kỳ 1"
+            },
+            {
+                "value": "Kỳ 2"
+            },
+            {
+                "value": "Kỳ 2 và kỳ 3"
+            },
+            {
+                "value": "Không có kỳ nào"
+            }
+        ]
+    },
+    {
+        "question": "Câu 19: Cuối kì nén, ở động cơ Điêzen diễn ra quá trình:",
+        "answer": [
+            {
+                "value": "bật tia lửa điện."
+            },
+            {
+                "value": "phun nhiên liệu"
+            },
+            {
+                "value": "đóng cửa quét"
+            },
+            {
+                "value": "đóng cửa thải"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "bật tia lửa điện."
+            },
+            {
+                "value": "phun nhiên liệu"
+            },
+            {
+                "value": "đóng cửa quét"
+            },
+            {
+                "value": "đóng cửa thải"
+            }
+        ]
+    },
+    {
+        "question": "Câu 20: Cơ cấu phân phối khí xupap treo có ưu điểm gì?",
+        "answer": [
+            {
+                "value": "Cấu tạo buồng cháy phức tạp"
+            },
+            {
+                "value": "Buồng cháy gọn."
+            },
+            {
+                "value": "Thải không sạch"
+            },
+            {
+                "value": "Dễ điều chỉnh khe hở xupap = Nạp đầy, thải sạch (đúng hơn)"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cấu tạo buồng cháy phức tạp"
+            },
+            {
+                "value": "Buồng cháy gọn."
+            },
+            {
+                "value": "Thải không sạch"
+            },
+            {
+                "value": "Dễ điều chỉnh khe hở xupap = Nạp đầy, thải sạch (đúng hơn)"
+            }
+        ]
+    },
+    {
+        "question": "Câu 21: Trong hệ thống nhiên liệu dùng bộ chế hòa khí, hòa khí được hình thành ở đâu?",
+        "answer": [
+            {
+                "value": "Xilanh\t"
+            },
+            {
+                "value": "Bơm xăng"
+            },
+            {
+                "value": "Bộ chế hòa khí\t"
+            },
+            {
+                "value": "Thùng xăng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Xilanh\t"
+            },
+            {
+                "value": "Bơm xăng"
+            },
+            {
+                "value": "Bộ chế hòa khí\t"
+            },
+            {
+                "value": "Thùng xăng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 22: Trong hệ thống phun xăng tự động (FI), bộ điều khiển phun sẽ nhận tín hiệu như nhiệt độ của động cơ, độ mở của bướm ga... từ bộ phận nào?",
+        "answer": [
+            {
+                "value": "Bộ điều chỉnh áp suất \t"
+            },
+            {
+                "value": "Bộ điều khiển phun"
+            },
+            {
+                "value": "Bơm xăng\t"
+            },
+            {
+                "value": "Các cảm biến"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Bộ điều chỉnh áp suất \t"
+            },
+            {
+                "value": "Bộ điều khiển phun"
+            },
+            {
+                "value": "Bơm xăng\t"
+            },
+            {
+                "value": "Các cảm biến"
+            }
+        ]
+    },
+    {
+        "question": "Câu 23: Cơ cấu phân phối khí có nhiệm vụ gì?",
+        "answer": [
+            {
+                "value": "Đưa dầu bôi trơn đến các bề mặt ma sát của các chi tiết."
+            },
+            {
+                "value": "Cung cấp hòa khí sạch vào xi-lanh của động cơ."
+            },
+            {
+                "value": "Đóng mở các cửa nạp, cửa thải đúng lúc."
+            },
+            {
+                "value": "Giữ cho nhiệt độ các chi tiết không vượt quá giới hạn cho phép."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Đưa dầu bôi trơn đến các bề mặt ma sát của các chi tiết."
+            },
+            {
+                "value": "Cung cấp hòa khí sạch vào xi-lanh của động cơ."
+            },
+            {
+                "value": "Đóng mở các cửa nạp, cửa thải đúng lúc."
+            },
+            {
+                "value": "Giữ cho nhiệt độ các chi tiết không vượt quá giới hạn cho phép."
+            }
+        ]
+    },
+    {
+        "question": "Câu 24: Để nạp đầy khí mới và thải sạch khí cháy ra ngoài thì các xupap (nạp và thải) phải như thế nào? ",
+        "answer": [
+            {
+                "value": "Mở muộn và đóng muộn. "
+            },
+            {
+                "value": "Mở sớm và đóng muộn. "
+            },
+            {
+                "value": "Mở sớm và đóng sớm. "
+            },
+            {
+                "value": "Mở muộn và đóng sớm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Mở muộn và đóng muộn. "
+            },
+            {
+                "value": "Mở sớm và đóng muộn. "
+            },
+            {
+                "value": "Mở sớm và đóng sớm. "
+            },
+            {
+                "value": "Mở muộn và đóng sớm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 25: Cơ cấu phân phối khí dùng xupap được đóng bằng?",
+        "answer": [
+            {
+                "value": "Lò xo phản kháng."
+            },
+            {
+                "value": "Vấu cam."
+            },
+            {
+                "value": "Con đội."
+            },
+            {
+                "value": "Cò mổ"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Lò xo phản kháng."
+            },
+            {
+                "value": "Vấu cam."
+            },
+            {
+                "value": "Con đội."
+            },
+            {
+                "value": "Cò mổ"
+            }
+        ]
+    },
+    {
+        "question": "Câu 26: Tác dụng của dầu bôi trơn:",
+        "answer": [
+            {
+                "value": "A. Bôi trơn các bề mặt ma sát"
+            },
+            {
+                "value": "B. Làm mát"
+            },
+            {
+                "value": "C. Bao kín và chống gỉ"
+            },
+            {
+                "value": "D. Cả 3 đáp án trên"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Bôi trơn các bề mặt ma sát"
+            },
+            {
+                "value": "B. Làm mát"
+            },
+            {
+                "value": "C. Bao kín và chống gỉ"
+            },
+            {
+                "value": "D. Cả 3 đáp án trên"
+            }
+        ]
+    },
+    {
+        "question": "Câu 27: Có những phương pháp bôi trơn nào?",
+        "answer": [
+            {
+                "value": "A. Bôi trơn bằng vung té"
+            },
+            {
+                "value": "B. Bôi trơn cưỡng bức"
+            },
+            {
+                "value": "C. Cả 3 đáp án trên"
+            },
+            {
+                "value": "D. Bôi trơn bằng pha dầu bôi trơn vào nhiên liệu"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Bôi trơn bằng vung té"
+            },
+            {
+                "value": "B. Bôi trơn cưỡng bức"
+            },
+            {
+                "value": "C. Cả 3 đáp án trên"
+            },
+            {
+                "value": "D. Bôi trơn bằng pha dầu bôi trơn vào nhiên liệu"
+            }
+        ]
+    },
+    {
+        "question": "Câu 28: Hệ thống bôi trơn có bộ phận nào sau đây?",
+        "answer": [
+            {
+                "value": "A. Cacte dầu"
+            },
+            {
+                "value": "B. Két làm mát"
+            },
+            {
+                "value": "C. Quạt gió"
+            },
+            {
+                "value": "D. Bơm nước"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Cacte dầu"
+            },
+            {
+                "value": "B. Két làm mát"
+            },
+            {
+                "value": "C. Quạt gió"
+            },
+            {
+                "value": "D. Bơm nước"
+            }
+        ]
+    },
+    {
+        "question": "Câu 29: Van an toàn bơm dầu mở khi:",
+        "answer": [
+            {
+                "value": "A. Động cơ làm việc bình thường"
+            },
+            {
+                "value": "B. Khi áp suất dầu trên các đường chính vượt giới hạn cho phép"
+            },
+            {
+                "value": "C. Khi nhiệt độ dầu cao quá giới hạn"
+            },
+            {
+                "value": "D. Luôn mở"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Động cơ làm việc bình thường"
+            },
+            {
+                "value": "B. Khi áp suất dầu trên các đường chính vượt giới hạn cho phép"
+            },
+            {
+                "value": "C. Khi nhiệt độ dầu cao quá giới hạn"
+            },
+            {
+                "value": "D. Luôn mở"
+            }
+        ]
+    },
+    {
+        "question": "Câu 30: Khi dầu qua két làm mát dầu thì:",
+        "answer": [
+            {
+                "value": "A. Van khống chế lượng dầu qua két mở"
+            },
+            {
+                "value": "B. Van khống chế lượng dầu qua két đóng"
+            },
+            {
+                "value": "C. Van an toàn bơm dầu mở"
+            },
+            {
+                "value": "D. Cả 3 đáp án đều đúng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Van khống chế lượng dầu qua két mở"
+            },
+            {
+                "value": "B. Van khống chế lượng dầu qua két đóng"
+            },
+            {
+                "value": "C. Van an toàn bơm dầu mở"
+            },
+            {
+                "value": "D. Cả 3 đáp án đều đúng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 31: Đâu là bề mặt ma sát?",
+        "answer": [
+            {
+                "value": "A. Bề mặt tiếp xúc của pit-tông với xilanh"
+            },
+            {
+                "value": "B. Bề mặt tiếp xúc của chốt khuỷu với bạc lót"
+            },
+            {
+                "value": "C. Cả 3 đáp án đều đúng"
+            },
+            {
+                "value": "D. Bề mặt tiếp xúc của chốt pit-tông với lỗ chốt pit-tông"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Bề mặt tiếp xúc của pit-tông với xilanh"
+            },
+            {
+                "value": "B. Bề mặt tiếp xúc của chốt khuỷu với bạc lót"
+            },
+            {
+                "value": "C. Cả 3 đáp án đều đúng"
+            },
+            {
+                "value": "D. Bề mặt tiếp xúc của chốt pit-tông với lỗ chốt pit-tông"
+            }
+        ]
+    },
+    {
+        "question": "Câu 32: Phát biểu nào sau đây sai?",
+        "answer": [
+            {
+                "value": "Trường hợp áp suất dầu trên các đường vượt quá giá trị cho phép, van an toàn bơm dầu mở."
+            },
+            {
+                "value": "Van an toàn bơm dầu mở để một phần dầu chảy ngược về trước bơm"
+            },
+            {
+                "value": "Van an toàn bơm dầu mở để một phần dầu chảy ngược về trước bơm, một phần chảy về cacte"
+            },
+            {
+                "value": "Dầu được bơm hút từ cacte lên"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Trường hợp áp suất dầu trên các đường vượt quá giá trị cho phép, van an toàn bơm dầu mở."
+            },
+            {
+                "value": "Van an toàn bơm dầu mở để một phần dầu chảy ngược về trước bơm"
+            },
+            {
+                "value": "Van an toàn bơm dầu mở để một phần dầu chảy ngược về trước bơm, một phần chảy về cacte"
+            },
+            {
+                "value": "Dầu được bơm hút từ cacte lên"
+            }
+        ]
+    },
+    {
+        "question": "Câu 33: Hệ thống bôi trơn không có bộ phận nào?",
+        "answer": [
+            {
+                "value": "Bơm dầu"
+            },
+            {
+                "value": "Lưới lọc dầu"
+            },
+            {
+                "value": "Van hằng nhiệt"
+            },
+            {
+                "value": "Đồng hồ báo áp suất dầu"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Bơm dầu"
+            },
+            {
+                "value": "Lưới lọc dầu"
+            },
+            {
+                "value": "Van hằng nhiệt"
+            },
+            {
+                "value": "Đồng hồ báo áp suất dầu"
+            }
+        ]
+    },
+    {
+        "question": "Câu 34: Hệ thống làm mát bằng nước có chi tiết đặc trưng nào?",
+        "answer": [
+            {
+                "value": "A. Trục khuỷu"
+            },
+            {
+                "value": "B. Áo nước"
+            },
+            {
+                "value": "C. Cánh tản nhiệt"
+            },
+            {
+                "value": "D. Bugi"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Trục khuỷu"
+            },
+            {
+                "value": "B. Áo nước"
+            },
+            {
+                "value": "C. Cánh tản nhiệt"
+            },
+            {
+                "value": "D. Bugi"
+            }
+        ]
+    },
+    {
+        "question": "Câu 35: Hệ thống làm mát bằng không khí có chi tiết đặc trưng nào?",
+        "answer": [
+            {
+                "value": "A. Trục khuỷu"
+            },
+            {
+                "value": "B. Vòi phun"
+            },
+            {
+                "value": "C. Cánh tản nhiệt"
+            },
+            {
+                "value": "D. Bugi"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Trục khuỷu"
+            },
+            {
+                "value": "B. Vòi phun"
+            },
+            {
+                "value": "C. Cánh tản nhiệt"
+            },
+            {
+                "value": "D. Bugi"
+            }
+        ]
+    },
+    {
+        "question": "Câu 36: Bộ phận nào sau đây thuộc hệ thống làm mát?",
+        "answer": [
+            {
+                "value": "A. Van hằng nhiệt"
+            },
+            {
+                "value": "B. Két nước"
+            },
+            {
+                "value": "C. Bơm nước"
+            },
+            {
+                "value": "D. Cả 3 đáp án trên"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Van hằng nhiệt"
+            },
+            {
+                "value": "B. Két nước"
+            },
+            {
+                "value": "C. Bơm nước"
+            },
+            {
+                "value": "D. Cả 3 đáp án trên"
+            }
+        ]
+    },
+    {
+        "question": "Câu 37: Bộ phận nào sau đây không thuộc hệ thống làm mát?",
+        "answer": [
+            {
+                "value": "A. Quạt gió"
+            },
+            {
+                "value": "B. Puli và đai truyền"
+            },
+            {
+                "value": "C. Áo nước"
+            },
+            {
+                "value": "D. Bầu lọc dầu"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Quạt gió"
+            },
+            {
+                "value": "B. Puli và đai truyền"
+            },
+            {
+                "value": "C. Áo nước"
+            },
+            {
+                "value": "D. Bầu lọc dầu"
+            }
+        ]
+    },
+    {
+        "question": "Câu 38: Khi nhiệt độ nước trong áo nước dưới giới hạn định trước, van hằng nhiệt sẽ:",
+        "answer": [
+            {
+                "value": "A. Đóng cả 2 cửa"
+            },
+            {
+                "value": "B. Mở cửa thông với đường nước nối tắt về bơm"
+            },
+            {
+                "value": "C. Mở cả 2 cửa"
+            },
+            {
+                "value": "D. Mở cửa thông với đường nước vào két làm mát"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Đóng cả 2 cửa"
+            },
+            {
+                "value": "B. Mở cửa thông với đường nước nối tắt về bơm"
+            },
+            {
+                "value": "C. Mở cả 2 cửa"
+            },
+            {
+                "value": "D. Mở cửa thông với đường nước vào két làm mát"
+            }
+        ]
+    },
+    {
+        "question": "Câu 39: Khi nhiệt độ nước trong áo nước xấp xỉ giới hạn đã định, van hằng nhiệt sẽ:",
+        "answer": [
+            {
+                "value": "A. Đóng cả 2 cửa"
+            },
+            {
+                "value": "B. Mở cửa thông với đường nước nối tắt về bơm"
+            },
+            {
+                "value": "C. Mở cả 2 cửa"
+            },
+            {
+                "value": "D. Mở cửa thông với đường nước vào két làm mát"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Đóng cả 2 cửa"
+            },
+            {
+                "value": "B. Mở cửa thông với đường nước nối tắt về bơm"
+            },
+            {
+                "value": "C. Mở cả 2 cửa"
+            },
+            {
+                "value": "D. Mở cửa thông với đường nước vào két làm mát"
+            }
+        ]
+    },
+    {
+        "question": "Câu 40: Hệ thống cung cấp nhiên liệu và không khí trong động cơ xăng có nhiệm vụ:",
+        "answer": [
+            {
+                "value": "Cung cấp xăng vào xilanh động cơ"
+            },
+            {
+                "value": "Cung cấp không khí sạch vào xilanh động cơ"
+            },
+            {
+                "value": "Cung cấp hòa khí vào xilanh động cơ"
+            },
+            {
+                "value": "Cung cấp hòa khí sạch vào xilanh động cơ"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cung cấp xăng vào xilanh động cơ"
+            },
+            {
+                "value": "Cung cấp không khí sạch vào xilanh động cơ"
+            },
+            {
+                "value": "Cung cấp hòa khí vào xilanh động cơ"
+            },
+            {
+                "value": "Cung cấp hòa khí sạch vào xilanh động cơ"
+            }
+        ]
+    },
+    {
+        "question": "Câu 41: Hệ thống nhiên liệu ở động cơ xăng có:",
+        "answer": [
+            {
+                "value": "A. Hệ thống dùng bộ chế hòa khí"
+            },
+            {
+                "value": "B. Hệ thống dùng bộ chế hòa khí dạng tự chảy"
+            },
+            {
+                "value": "C. Hệ thống dùng bộ chế hòa khí, hệ thống phun xăng"
+            },
+            {
+                "value": "D. Hệ thống dùng bộ chế hòa khí dạng bơm xăng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Hệ thống dùng bộ chế hòa khí"
+            },
+            {
+                "value": "B. Hệ thống dùng bộ chế hòa khí dạng tự chảy"
+            },
+            {
+                "value": "C. Hệ thống dùng bộ chế hòa khí, hệ thống phun xăng"
+            },
+            {
+                "value": "D. Hệ thống dùng bộ chế hòa khí dạng bơm xăng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 42: Khối nào sau đây không thuộc sơ đồ khối hệ thống nhiên liệu dùng bộ chế hòa khí ở động cơ xăng?",
+        "answer": [
+            {
+                "value": "Thùng xăng"
+            },
+            {
+                "value": "Bầu lọc xăng"
+            },
+            {
+                "value": "Bộ điều chỉnh áp suất"
+            },
+            {
+                "value": "Bộ chế hòa khí"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Thùng xăng"
+            },
+            {
+                "value": "Bầu lọc xăng"
+            },
+            {
+                "value": "Bộ điều chỉnh áp suất"
+            },
+            {
+                "value": "Bộ chế hòa khí"
+            }
+        ]
+    },
+    {
+        "question": "Câu 43: Sơ đồ khối hệ thống phun xăng không có khối nào sau đây?",
+        "answer": [
+            {
+                "value": "Các cảm biến"
+            },
+            {
+                "value": "Bộ điều khiển phun"
+            },
+            {
+                "value": "Bộ điều chỉnh áp suất"
+            },
+            {
+                "value": "Bộ chế hòa khí"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Các cảm biến"
+            },
+            {
+                "value": "Bộ điều khiển phun"
+            },
+            {
+                "value": "Bộ điều chỉnh áp suất"
+            },
+            {
+                "value": "Bộ chế hòa khí"
+            }
+        ]
+    },
+    {
+        "question": "Câu 44: Ở hệ thống nhiên liệu dùng bộ chế hòa khí, xăng và không khí hòa trộn với nhau tại:",
+        "answer": [
+            {
+                "value": "Buồng phao"
+            },
+            {
+                "value": "Thùng xăng"
+            },
+            {
+                "value": "Họng khuếch tán"
+            },
+            {
+                "value": "Đường ống nạp"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Buồng phao"
+            },
+            {
+                "value": "Thùng xăng"
+            },
+            {
+                "value": "Họng khuếch tán"
+            },
+            {
+                "value": "Đường ống nạp"
             }
         ]
     }
