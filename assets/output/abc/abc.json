@@ -1,0 +1,90 @@
+[
+    {
+        "question": "Câu 1: Nguyên thủ quốc gia nào sau đây tham dự Hội nghị Ianta (tháng 2-1945)?",
+        "answer": [
+            {
+                "value": "Nhật Bản"
+            },
+            {
+                "value": "Pháp"
+            },
+            {
+                "value": "Đức"
+            },
+            {
+                "value": "Mĩ"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Mĩ"
+            }
+        ]
+    },
+    {
+        "question": "Câu 2: Hội nghị Ianta (2-1945) diễn ra khi cuộc Chiến tranh thế giới thứ hai",
+        "answer": [
+            {
+                "value": "đã hoàn toàn kết thúc."
+            },
+            {
+                "value": "bước vào giai đoạn kết thúc"
+            },
+            {
+                "value": "đang diễn ra vô cùng khốc liệt"
+            },
+            {
+                "value": "bùng nổ và ngày càng lan rộng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "bước vào giai đoạn kết thúc"
+            }
+        ]
+    },
+    {
+        "question": "Câu 3: Quyết định của Hội nghị Ianta (2-1945) và những thoả thuận sau đó giữa ba cường quốc Liên Xô, Mĩ, Anh đã trở thành khuôn khổ của một trật tự thế giới mới vì",
+        "answer": [
+            {
+                "value": "Các nước tham chiến được hưởng nhiều quyền lợi sau chiến tranh."
+            },
+            {
+                "value": "làm cho cục diện hai cực, hai phe được xác lập trên toàn thế giới."
+            },
+            {
+                "value": "đã dẫn tới sự giải thể của chủ nghĩa thực dân ở các thuộc địa."
+            },
+            {
+                "value": "đã phân chia xong phạm vi ảnh hưởng giữa các nước thắng trận."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "đã phân chia xong phạm vi ảnh hưởng giữa các nước thắng trận."
+            }
+        ]
+    },
+    {
+        "question": "Câu 4: Hội nghị Ianta (2-1945) không đưa ra quyết định nào dưới đây?",
+        "answer": [
+            {
+                "value": "Thành lập tổ chức Liên hợp quốc."
+            },
+            {
+                "value": "Giải pháp quân Nhật ở Đông Dương."
+            },
+            {
+                "value": "Tiêu diệt tận gốc chủ nghĩa phát xít."
+            },
+            {
+                "value": "Phân chia phạm vi ảnh hưởng ở châu Âu, châu Á."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Giải pháp quân Nhật ở Đông Dương."
+            }
+        ]
+    }
+]
