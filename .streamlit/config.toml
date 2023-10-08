@@ -8,6 +8,3 @@ fastReruns = true
 maxUploadSize = 500
 maxMessageSize = 500
 port = 8080
-[browser]
-serverAddress = "localhost"
-serverPort = 8080
