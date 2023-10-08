@@ -1,7 +1,7 @@
 from apiclient import discovery
 from httplib2 import Http
 from oauth2client import client, file, tools
-
+import argparse
 
 class GoogleFormGenerator:
     def __init__(self):
@@ -30,7 +30,8 @@ class GoogleFormGenerator:
     def authenticate(self):
         if not self.creds or self.creds.invalid:
             flow = client.flow_from_clientsecrets(self.client_secret, self.SCOPES)
-            flags = ['--noauth_local_webserver']
+            parser = argparse.ArgumentParser(parents=[tools.argparser])
+            flags = tools.argparser.parse_args(args=['--auth_host_port', '8501'])
             self.creds = tools.run_flow(flow, self.store, flags=flags)
             self.form_service = discovery.build('forms', 'v1', http=self.creds.authorize(Http()), discoveryServiceUrl=self.DISCOVERY_DOC, static_discovery=False)
 
