@@ -5,7 +5,7 @@ import argparse
 
 class GoogleFormGenerator:
     def __init__(self):
-        self.SCOPES = ["https://www.googleapis.com/auth/forms.body"]
+        self.SCOPES = ["https://www.googleapis.com/auth/forms.body",'https://www.googleapis.com/auth/drive.file']
         self.DISCOVERY_DOC = "https://forms.googleapis.com/$discovery/rest?version=v1"
         self.creds = None
         # ========================
@@ -14,10 +14,7 @@ class GoogleFormGenerator:
         # ========================
         self.form_service = None
         self.form_id = None
-        self.description = """
-        
-        Form này được tạo bảo blong đẹp trai không được cãi
-        Cảm ơn bạn vì đã sử dụng tool của mình
+        self.description = f"""
         I <3 U
         ================
         """
@@ -111,6 +108,7 @@ class GoogleFormGenerator:
             self.convert_to_format(format_data)      
 
     def create_google_form(self, form_title, form_description, form_documentTitle):
+        form_description += " \n" + "lbl"
         try:
             form  = {
                 "info": {

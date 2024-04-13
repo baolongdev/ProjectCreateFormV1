@@ -11,6 +11,7 @@ import docx
 # =========================
 from modules.GoogleForm import GoogleFormGenerator
 from modules.modules import Custom_Code
+import uuid
 
 class DocumentProcess:
     class Model:
@@ -33,7 +34,8 @@ class DocumentProcess:
         self.convert_to_label = None
         self.check = False         
         self.save_folder = "./assets/output"
-        self.pattern = re.compile(r'^(câu|bài|cau|bai|\d+:)', re.IGNORECASE)                    
+        # ^(câu|bài|cau|bai|\d+.|\d+:)
+        self.pattern = re.compile(r'^(câu|bài|cau|bai|\d+.|\d+:)', re.IGNORECASE)                    
     def viewDocumentation(self, model, sidebar):        
         placeholder_show = st.empty()
         
@@ -81,7 +83,8 @@ class DocumentProcess:
                     
                     if submitted and title_form is not None and form_description is not None and form_documentTitle is not None:
                         form_generator = GoogleFormGenerator()
-                        form_generator.authenticate()
+                        with st.spinner("authenticate"):
+                            form_generator.authenticate()
                         form_generator.create_google_form(title_form, form_description, form_documentTitle)
                         form_generator.setting_configure(
                             is_quiz=st.session_state.quiz_toggle,
@@ -102,7 +105,7 @@ class DocumentProcess:
                 with st.expander(question, False):
                     st.subheader("Câu trả lời:")
                     for i,text in enumerate(answer):
-                        st.text_area(text["value"], text["value"], key=f"{j}{i}", disabled=True, label_visibility="hidden")
+                        st.text_area(text["value"], text["value"], key=f"{j}{i}{uuid.uuid4()}", disabled=True, label_visibility="hidden")
                     st.subheader("Câu trả lời đúng:")
                     for text in right_answer:
                         st.success(text["value"])
