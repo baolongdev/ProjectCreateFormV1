@@ -2,6 +2,7 @@ from apiclient import discovery
 from httplib2 import Http
 from oauth2client import client, file, tools
 import argparse
+import os
 
 class GoogleFormGenerator:
     def __init__(self):
@@ -12,6 +13,7 @@ class GoogleFormGenerator:
         self.store = file.Storage('assets/data/token.json')
         self.client_secret = "assets/data/keyGoogleFrom.json"
         # ========================
+        self.drive_service = None
         self.form_service = None
         self.form_id = None
         self.description = f"""
@@ -22,6 +24,8 @@ class GoogleFormGenerator:
         self.required = True
         self.shuffle = True
         
+        self.clear = lambda: os.system('clear')
+        
         
                 
     def authenticate(self):
@@ -29,6 +33,7 @@ class GoogleFormGenerator:
             flow = client.flow_from_clientsecrets(self.client_secret, self.SCOPES)
             self.creds = tools.run_flow(flow, self.store)
             self.form_service = discovery.build('forms', 'v1', http=self.creds.authorize(Http()), discoveryServiceUrl=self.DISCOVERY_DOC, static_discovery=False)
+            self.drive_service = discovery.build('drive', 'v3', http=self.creds.authorize(Http()))
 
     def setting_configure(self, is_quiz = True, is_required = True, is_shuffle = True):
         self.quiz = is_quiz
@@ -47,6 +52,22 @@ class GoogleFormGenerator:
             }
         ]}
         self.update_google_form(update)
+
+
+    def update_permissions(self, email_address, role='writer'):
+        try:
+            # Build the permission body
+            permission = {
+                'type': 'user',
+                'role': role,
+                'emailAddress': email_address
+            }
+            # Call the Drive API to create the permission
+            self.drive_service.permissions().create(fileId=self.form_id['formId'], body=permission).execute()
+            print(f"Permission added for {email_address}")
+            self.clear()
+        except Exception as e:
+            print(f"Error adding permission: {str(e)}")
 
 
     def update_google_form(self, json_data):
@@ -135,6 +156,7 @@ class GoogleFormGenerator:
         except Exception as e:
             print(f"Error creating Google Form: {str(e)}")
             return None
+        
     def get_link_form(self):
         form_id = self.form_id['formId']
         return f"https://docs.google.com/forms/d/{form_id}"

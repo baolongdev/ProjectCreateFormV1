@@ -6,7 +6,7 @@
                 "value": "tự tay bỏ phiếu vào hòm phiếu. "
             },
             {
-                "value": "ủy quyền thực hiện nghĩa vụ bầu cử. "
+                "value": "ủy quyền thực hiện nghĩa vụ bầu cử.  "
             },
             {
                 "value": "giữ bí mật nội dung trong phiếu bầu. "
@@ -17,7 +17,16 @@
         ],
         "right_answer": [
             {
-                "value": "ủy quyền thực hiện nghĩa vụ bầu cử. "
+                "value": "tự tay bỏ phiếu vào hòm phiếu. "
+            },
+            {
+                "value": "ủy quyền thực hiện nghĩa vụ bầu cử.  "
+            },
+            {
+                "value": "giữ bí mật nội dung trong phiếu bầu. "
+            },
+            {
+                "value": "theo dõi kết quả kiểm phiếu. "
             }
         ]
     },
@@ -25,7 +34,7 @@
         "question": "Câu 2. Ở nước ta, việc nhờ người thân trong gia đình đi bỏ phiếu hộ khi bầu cử đại biểu Quốc hội  là vi phạm nguyên tắc bầu cử nào theo Luật bầu cử? ",
         "answer": [
             {
-                "value": "Nguyên tắc trực tiếp"
+                "value": "Nguyên tắc trực tiếp "
             },
             {
                 "value": "Nguyên tắc bỏ phiếu kín. "
@@ -39,7 +48,16 @@
         ],
         "right_answer": [
             {
-                "value": "Nguyên tắc trực tiếp"
+                "value": "Nguyên tắc trực tiếp "
+            },
+            {
+                "value": "Nguyên tắc bỏ phiếu kín. "
+            },
+            {
+                "value": "Nguyên tắc bình đẳng. "
+            },
+            {
+                "value": "Nguyên tắc phổ thông. "
             }
         ]
     },
@@ -50,7 +68,7 @@
                 "value": "Quyền tham gia quản lí nhà nước và xã hội. "
             },
             {
-                "value": "Quyền bầu cử, ứng cử."
+                "value": "Quyền bầu cử, ứng cử. "
             },
             {
                 "value": "Quyền khiếu nại. "
@@ -61,7 +79,16 @@
         ],
         "right_answer": [
             {
-                "value": "Quyền bầu cử, ứng cử."
+                "value": "Quyền tham gia quản lí nhà nước và xã hội. "
+            },
+            {
+                "value": "Quyền bầu cử, ứng cử. "
+            },
+            {
+                "value": "Quyền khiếu nại. "
+            },
+            {
+                "value": "Quyền tố cáo. "
             }
         ]
     },
@@ -78,12 +105,21 @@
                 "value": "Lbl 21/5/2002 "
             },
             {
-                "value": "Lbl 21/5/2000"
+                "value": "Lbl 21/5/2000 "
             }
         ],
         "right_answer": [
             {
-                "value": "Lbl 21/5/2000"
+                "value": "Lbl 21/5/2003 "
+            },
+            {
+                "value": "Lbl 21/4/2001 "
+            },
+            {
+                "value": "Lbl 21/5/2002 "
+            },
+            {
+                "value": "Lbl 21/5/2000 "
             }
         ]
     },
@@ -91,7 +127,7 @@
         "question": "Câu 5. Trước diễn biến phức tạp của dịch Covid 19, nhà nước đã sử dụng nhiều loại phương tiện  khác nhau để có thể cung cấp đầy đủ thông tin cho người dân hiểu rõ mức độ nguy hiểm của dịch  bệnh và cách phòng tránh. Việc làm này thể hiện Nhà nước ta đang thực hiện tốt cơ chế nào của  quyền tham gia quản lí nhà nước và xã hội? ",
         "answer": [
             {
-                "value": "Dân biết."
+                "value": "Dân biết. "
             },
             {
                 "value": "Dân bàn. "
@@ -105,7 +141,16 @@
         ],
         "right_answer": [
             {
-                "value": "Dân biết."
+                "value": "Dân biết. "
+            },
+            {
+                "value": "Dân bàn. "
+            },
+            {
+                "value": "Dân làm. "
+            },
+            {
+                "value": "Dân kiểm tra. "
             }
         ]
     },
@@ -116,7 +161,7 @@
                 "value": "Dân biết. "
             },
             {
-                "value": "Dân bàn."
+                "value": "Dân bàn. "
             },
             {
                 "value": "Dân làm. "
@@ -127,7 +172,16 @@
         ],
         "right_answer": [
             {
-                "value": "Dân bàn."
+                "value": "Dân biết. "
+            },
+            {
+                "value": "Dân bàn. "
+            },
+            {
+                "value": "Dân làm. "
+            },
+            {
+                "value": "Dân kiểm tra "
             }
         ]
     },
@@ -135,7 +189,7 @@
         "question": "Câu 7. Ở phạm vi cơ sở, dân chủ trực tiếp của công dân được thực hiện theo cơ chế nào? ",
         "answer": [
             {
-                "value": "“Dân biết, dân bàn, dân làm, dân kiểm tra”."
+                "value": "“Dân biết, dân bàn, dân làm, dân kiểm tra”. "
             },
             {
                 "value": "“Dân biết, dân cần, dân làm, dân kiểm tra”. "
@@ -149,7 +203,16 @@
         ],
         "right_answer": [
             {
-                "value": "“Dân biết, dân bàn, dân làm, dân kiểm tra”."
+                "value": "“Dân biết, dân bàn, dân làm, dân kiểm tra”. "
+            },
+            {
+                "value": "“Dân biết, dân cần, dân làm, dân kiểm tra”. "
+            },
+            {
+                "value": "“Phổ thông, bình đẳng, dân chủ, trực tiếp” "
+            },
+            {
+                "value": "“Phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín”. "
             }
         ]
     },
@@ -157,7 +220,7 @@
         "question": "Câu 8. Anh A đề nghị thủ trưởng cơ quan xem xét lại quyết định cho thôi việc của mình. Ta nói  anh A đang thực hiện quyền gì? ",
         "answer": [
             {
-                "value": "Quyền khiếu nại."
+                "value": "Quyền khiếu nại. "
             },
             {
                 "value": "Quyền ứng cử.  "
@@ -171,7 +234,16 @@
         ],
         "right_answer": [
             {
-                "value": "Quyền khiếu nại."
+                "value": "Quyền khiếu nại. "
+            },
+            {
+                "value": "Quyền ứng cử.  "
+            },
+            {
+                "value": "Quyền bãi nại. "
+            },
+            {
+                "value": "Quyền tố cáo. "
             }
         ]
     },
@@ -185,7 +257,7 @@
                 "value": "Quyền ứng cử. "
             },
             {
-                "value": "Quyền khiếu nại."
+                "value": "Quyền khiếu nại. "
             },
             {
                 "value": "Quyền tố cáo. "
@@ -193,7 +265,16 @@
         ],
         "right_answer": [
             {
-                "value": "Quyền khiếu nại."
+                "value": "Quyền bãi nại. "
+            },
+            {
+                "value": "Quyền ứng cử. "
+            },
+            {
+                "value": "Quyền khiếu nại. "
+            },
+            {
+                "value": "Quyền tố cáo. "
             }
         ]
     },
@@ -201,7 +282,7 @@
         "question": "Câu 10. Trường hợp nào sau đây cần sử dụng quyền khiếu nại? ",
         "answer": [
             {
-                "value": "Chị X nhận được giấy báo đền bù đất đai thấp hơn các nhà hàng xóm."
+                "value": "Chị X nhận được giấy báo đền bù đất đai thấp hơn các nhà hàng xóm. "
             },
             {
                 "value": "Ông Y tình cờ chứng kiến một vụ đưa tiền hối lộ. "
@@ -215,7 +296,16 @@
         ],
         "right_answer": [
             {
-                "value": "Chị X nhận được giấy báo đền bù đất đai thấp hơn các nhà hàng xóm."
+                "value": "Chị X nhận được giấy báo đền bù đất đai thấp hơn các nhà hàng xóm. "
+            },
+            {
+                "value": "Ông Y tình cờ chứng kiến một vụ đưa tiền hối lộ. "
+            },
+            {
+                "value": "Anh H phát hiện một nhóm người đang mua bán ma túy trái phép. "
+            },
+            {
+                "value": "Chị M phát hiện một chủ cơ sở kinh doanh đánh đập một lao động nữ. "
             }
         ]
     },
@@ -223,7 +313,7 @@
         "question": "Câu 11. Mục đích của khiếu nại là gì? ",
         "answer": [
             {
-                "value": "Khôi phục quyền và lợi ích hợp pháp của công dân."
+                "value": "Khôi phục quyền và lợi ích hợp pháp của công dân. "
             },
             {
                 "value": "Khôi phục nhân phẩm và danh dự của công dân. "
@@ -237,7 +327,16 @@
         ],
         "right_answer": [
             {
-                "value": "Khôi phục quyền và lợi ích hợp pháp của công dân."
+                "value": "Khôi phục quyền và lợi ích hợp pháp của công dân. "
+            },
+            {
+                "value": "Khôi phục nhân phẩm và danh dự của công dân. "
+            },
+            {
+                "value": "Phát hiện, ngăn chặn việc làm trái pháp luật. "
+            },
+            {
+                "value": "Phát hiện, ngăn ngừa việc làm trái pháp luật. "
             }
         ]
     },
@@ -254,12 +353,21 @@
                 "value": "Khôi phục nhân phẩm và danh dự của công dân. "
             },
             {
-                "value": "Phát hiện, ngăn ngừa việc làm vi phạm pháp luật."
+                "value": "Phát hiện, ngăn ngừa việc làm vi phạm pháp luật. "
             }
         ],
         "right_answer": [
             {
-                "value": "Phát hiện, ngăn ngừa việc làm vi phạm pháp luật."
+                "value": "Phát hiện, ngăn chặn việc làm vi phạm đạo đức."
+            },
+            {
+                "value": "Khôi phục quyền và lợi ích hợp pháp của công dân. "
+            },
+            {
+                "value": "Khôi phục nhân phẩm và danh dự của công dân. "
+            },
+            {
+                "value": "Phát hiện, ngăn ngừa việc làm vi phạm pháp luật. "
             }
         ]
     },
@@ -267,7 +375,7 @@
         "question": "Câu 13. Công dân có thể thực hiện quyền tố cáo trong trường hợp phát hiện  ",
         "answer": [
             {
-                "value": "hành vi khai thác gỗ trái phép."
+                "value": "hành vi khai thác gỗ trái phép. "
             },
             {
                 "value": "thông tin niêm yết chứng khoán. "
@@ -281,7 +389,16 @@
         ],
         "right_answer": [
             {
-                "value": "hành vi khai thác gỗ trái phép."
+                "value": "hành vi khai thác gỗ trái phép. "
+            },
+            {
+                "value": "thông tin niêm yết chứng khoán. "
+            },
+            {
+                "value": "sự thay đổi của chủng virus mới. "
+            },
+            {
+                "value": "dấu hiệu biến đổi khí hậu. "
             }
         ]
     },
@@ -289,7 +406,7 @@
         "question": "Câu 14. Khi đang bỏ phiếu bầu cử giúp chồng mình là anh A thì chị B thấy anh H và anh M đang  trao đổi với nhau về việc chọn ai. Chị nhắc nhở hai anh không nên trao đổi khi bầu cử, sau đó bỏ  phiếu rồi ra về. Trong tình huống trên ai vi phạm nguyên tắc trực tiếp trong bầu cử? ",
         "answer": [
             {
-                "value": "Chị B và anh A."
+                "value": "Chị B và anh A. "
             },
             {
                 "value": "Anh H và anh M. "
@@ -303,7 +420,16 @@
         ],
         "right_answer": [
             {
-                "value": "Chị B và anh A."
+                "value": "Chị B và anh A. "
+            },
+            {
+                "value": "Anh H và anh M. "
+            },
+            {
+                "value": "Chị B, anh H và anh M. "
+            },
+            {
+                "value": "Vợ chồng chị B, anh H và anh M. "
             }
         ]
     },
@@ -311,7 +437,7 @@
         "question": "Câu 15. Xã A tổ chức họp với người dân để lấy ý kiến về việc xây dựng nhà thiếu nhi ở xã, anh H  đã tham gia cuộc họp, sau đó anh còn cùng người dân giám sát việc thu tiền quyên góp từ các hộ  gia đình của cán bộ xã. Anh H đã thực hiện quyền gì? ",
         "answer": [
             {
-                "value": "Quyền tham gia quản lí nhà nước và xã hội."
+                "value": "Quyền tham gia quản lí nhà nước và xã hội. "
             },
             {
                 "value": "Quyền tự do ngôn luận. "
@@ -325,7 +451,16 @@
         ],
         "right_answer": [
             {
-                "value": "Quyền tham gia quản lí nhà nước và xã hội."
+                "value": "Quyền tham gia quản lí nhà nước và xã hội. "
+            },
+            {
+                "value": "Quyền tự do ngôn luận. "
+            },
+            {
+                "value": "Quyền kiểm tra hoạt động nhà nước. "
+            },
+            {
+                "value": "Quyền tố cáo. "
             }
         ]
     },
@@ -333,7 +468,7 @@
         "question": "Câu 16. Bà N bị Chủ tịch Ủy ban nhân dân huyện ra quyết định buộc tháo dỡ công trình xây dựng  nhà ở. Khi cho rằng quyết định xây dựng trên là trái pháp luật, xâm phạm quyền và lợi ích hợp pháp của mình, bà N cần làm đơn gì và gửi đến chủ thể nào dưới đây cho đúng pháp luật? ",
         "answer": [
             {
-                "value": "Đơn khiếu nại, gửi tới Chủ tịch Ủy ban nhân dân huyện."
+                "value": "Đơn khiếu nại, gửi tới Chủ tịch Ủy ban nhân dân huyện. "
             },
             {
                 "value": "Đơn tố cáo, gửi Thanh tra xây dựng huyện. "
@@ -347,7 +482,16 @@
         ],
         "right_answer": [
             {
-                "value": "Đơn khiếu nại, gửi tới Chủ tịch Ủy ban nhân dân huyện."
+                "value": "Đơn khiếu nại, gửi tới Chủ tịch Ủy ban nhân dân huyện. "
+            },
+            {
+                "value": "Đơn tố cáo, gửi Thanh tra xây dựng huyện. "
+            },
+            {
+                "value": "Đơn tố cáo, gửi cơ quan công an phường, nơi có công trình bị tháo dỡ. "
+            },
+            {
+                "value": "Đơn khiếu nại, gửi Ủy ban nhân dân tỉnh. "
             }
         ]
     },
@@ -355,7 +499,7 @@
         "question": "Câu 17. Sau khi nhận năm trăm triệu đồng tiền đặt hàng của chị A và chị B, với mong muốn chiếm đoạt số tiền trên, chị N nói với chồng đó là tiền trúng xổ số rồi hai vợ chồng về quê mua  đất làm trang trại. Quá hạn giao hàng đã lâu, tìm gặp chị N nhiều lần không được, chị A và chị B  đã đến nhà dọa nạt, đập phá đồ đạc và hành hung gây thương tích cho con chị N. Trong lúc mọi người tập trung cấp cứu cháu bé, chị A và chị B lấy xe máy Honda SH của chị N để siết nợ.  Những ai dưới đây cần bị tố cáo? ",
         "answer": [
             {
-                "value": "Chị N, chị A và chị B."
+                "value": "Chị N, chị A và chị B. "
             },
             {
                 "value": "Vợ chồng chị N. "
@@ -369,7 +513,16 @@
         ],
         "right_answer": [
             {
-                "value": "Chị N, chị A và chị B."
+                "value": "Chị N, chị A và chị B. "
+            },
+            {
+                "value": "Vợ chồng chị N. "
+            },
+            {
+                "value": "Chị A và chị B "
+            },
+            {
+                "value": "Vợ chồng chị N, chị A và chị B. "
             }
         ]
     },
@@ -377,7 +530,7 @@
         "question": "Câu 18. Ngày 22/5/2021, Việt Nam tiến hành bầu cử đại biểu Quốc hội và Hội đồng nhân dân  các cấp. Công dân có ngày sinh nào dưới đây đủ điều kiện được bầu cử? ",
         "answer": [
             {
-                "value": "Lbl 21/5/2003"
+                "value": "Lbl 21/5/2003 "
             },
             {
                 "value": "Lbl 21/4/2004 "
@@ -391,7 +544,16 @@
         ],
         "right_answer": [
             {
-                "value": "Lbl 21/5/2003"
+                "value": "Lbl 21/5/2003 "
+            },
+            {
+                "value": "Lbl 21/4/2004 "
+            },
+            {
+                "value": "Lbl 21/5/2005 "
+            },
+            {
+                "value": "Lbl 21/5/2006 "
             }
         ]
     },
@@ -402,7 +564,7 @@
                 "value": "Mọi công dân. "
             },
             {
-                "value": "Cá nhân, tổ chức bị xâm phạm quyền và lợi ích hợp pháp."
+                "value": "Cá nhân, tổ chức bị xâm phạm quyền và lợi ích hợp pháp. "
             },
             {
                 "value": "Những cán bộ công chức nhà nước bị xâm phạm quyền và lợi ích hợp pháp. "
@@ -413,7 +575,16 @@
         ],
         "right_answer": [
             {
-                "value": "Cá nhân, tổ chức bị xâm phạm quyền và lợi ích hợp pháp."
+                "value": "Mọi công dân. "
+            },
+            {
+                "value": "Cá nhân, tổ chức bị xâm phạm quyền và lợi ích hợp pháp. "
+            },
+            {
+                "value": "Những cán bộ công chức nhà nước bị xâm phạm quyền và lợi ích hợp pháp. "
+            },
+            {
+                "value": "Mọi cơ quan, tổ chức bị xâm phạm quyền và lợi ích hợp pháp. "
             }
         ]
     },
@@ -421,7 +592,7 @@
         "question": "Câu 20. Trước diễn biến phức tạp của dịch Covid 19, học sinh cả nước chấp hành quy định và  khai báo y tế theo yêu cầu. Việc làm này của học sinh cho thấy các em đang thực hiện quyền  tham gia quản lí nhà nước và xã hội qua cơ chế nào sau đây? ",
         "answer": [
             {
-                "value": "Dân làm."
+                "value": "Dân làm. "
             },
             {
                 "value": "Dân bàn. "
@@ -435,7 +606,16 @@
         ],
         "right_answer": [
             {
-                "value": "Dân làm."
+                "value": "Dân làm. "
+            },
+            {
+                "value": "Dân bàn. "
+            },
+            {
+                "value": "Dân biết. "
+            },
+            {
+                "value": "Dân kiểm tra. "
             }
         ]
     },
@@ -443,7 +623,7 @@
         "question": "Câu 21. Ủy ban nhân dân xã X tổ chức lấy ý kiến của người dân về kế hoạch xây nhà sinh hoạt  cộng đồng là thực hiện quyền tham gia quản lí nhà nước và xã hội ở phạm vi cơ sở theo cơ chế nào dưới đây? ",
         "answer": [
             {
-                "value": "Dân bàn."
+                "value": "Dân bàn. "
             },
             {
                 "value": "Dân hiểu. "
@@ -457,7 +637,16 @@
         ],
         "right_answer": [
             {
-                "value": "Dân bàn."
+                "value": "Dân bàn. "
+            },
+            {
+                "value": "Dân hiểu. "
+            },
+            {
+                "value": "Dân giám sát. "
+            },
+            {
+                "value": "Dân kiểm tra."
             }
         ]
     },
@@ -479,7 +668,16 @@
         ],
         "right_answer": [
             {
+                "value": "Dân hiểu và đồng tình."
+            },
+            {
                 "value": "Dân giám sát và kiểm tra."
+            },
+            {
+                "value": "Dân bàn và quyết định. "
+            },
+            {
+                "value": "Dân thảo luận và góp ý kiến. "
             }
         ]
     },
@@ -490,7 +688,7 @@
                 "value": "Ông B tình cờ chứng kiến một vụ đưa tiền hối lộ. "
             },
             {
-                "value": "Chị Y nhận được giấy báo đền bù đất đai thấp hơn các nhà hàng xóm."
+                "value": "Chị Y nhận được giấy báo đền bù đất đai thấp hơn các nhà hàng xóm. "
             },
             {
                 "value": "Anh H phát hiện một nhóm người đang mua bán ma túy trái phép. "
@@ -501,7 +699,16 @@
         ],
         "right_answer": [
             {
-                "value": "Chị Y nhận được giấy báo đền bù đất đai thấp hơn các nhà hàng xóm."
+                "value": "Ông B tình cờ chứng kiến một vụ đưa tiền hối lộ. "
+            },
+            {
+                "value": "Chị Y nhận được giấy báo đền bù đất đai thấp hơn các nhà hàng xóm. "
+            },
+            {
+                "value": "Anh H phát hiện một nhóm người đang mua bán ma túy trái phép. "
+            },
+            {
+                "value": "Chị M phát hiện một chủ cơ sở kinh doanh đánh đập một lao động nữ. "
             }
         ]
     },
@@ -509,7 +716,7 @@
         "question": "Câu 24. Quyền ứng cử của công dân được hiểu như thế nào? ",
         "answer": [
             {
-                "value": "Công dân từ đủ 21 tuổi có đủ các điều kiện pháp luật quy định có quyền ứng cử đại biểu Quốc  hội ở một nơi."
+                "value": "Công dân từ đủ 21 tuổi có đủ các điều kiện pháp luật quy định có quyền ứng cử đại biểu Quốc  hội ở một nơi. "
             },
             {
                 "value": "Công dân từ đủ 18 tuổi trở lên có đủ điều kiện mà pháp luật quy định có thể được nhiều nơi  giới thiệu ứng cử đại biểu Quốc hội. "
@@ -523,7 +730,16 @@
         ],
         "right_answer": [
             {
-                "value": "Công dân từ đủ 21 tuổi có đủ các điều kiện pháp luật quy định có quyền ứng cử đại biểu Quốc  hội ở một nơi."
+                "value": "Công dân từ đủ 21 tuổi có đủ các điều kiện pháp luật quy định có quyền ứng cử đại biểu Quốc  hội ở một nơi. "
+            },
+            {
+                "value": "Công dân từ đủ 18 tuổi trở lên có đủ điều kiện mà pháp luật quy định có thể được nhiều nơi  giới thiệu ứng cử đại biểu Quốc hội. "
+            },
+            {
+                "value": "Công dân có quyền tự mình ra ứng cửa đại biểu Quốc hội ở nhiều nơi. "
+            },
+            {
+                "value": "Công dân có đủ các điều kiện pháp luật quy định có quyền ứng cử đại biểu Quốc hội ở nhiều  nơi. "
             }
         ]
     },
@@ -540,12 +756,21 @@
                 "value": "Mọi công dân từ đủ 20 tuổi trở lên. "
             },
             {
-                "value": "Mọi công dân từ đủ 18 tuổi trở lên."
+                "value": "Mọi công dân từ đủ 18 tuổi trở lên. "
             }
         ],
         "right_answer": [
             {
-                "value": "Mọi công dân từ đủ 18 tuổi trở lên."
+                "value": "Mọi công dân từ đủ 25 tuổi trở lên. "
+            },
+            {
+                "value": "Mọi công dân từ đủ 21 tuổi trở lên. "
+            },
+            {
+                "value": "Mọi công dân từ đủ 20 tuổi trở lên. "
+            },
+            {
+                "value": "Mọi công dân từ đủ 18 tuổi trở lên. "
             }
         ]
     },
@@ -559,7 +784,7 @@
                 "value": "Mọi công dân từ đủ 20 tuổi trở lên."
             },
             {
-                "value": "Mọi công dân từ đủ 21 tuổi trở lên."
+                "value": "Mọi công dân từ đủ 21 tuổi trở lên. "
             },
             {
                 "value": "Mọi công dân từ đủ 25 tuổi trở lên. "
@@ -567,7 +792,16 @@
         ],
         "right_answer": [
             {
-                "value": "Mọi công dân từ đủ 21 tuổi trở lên."
+                "value": "Mọi công dân từ đủ 18 tuổi trở lên. "
+            },
+            {
+                "value": "Mọi công dân từ đủ 20 tuổi trở lên."
+            },
+            {
+                "value": "Mọi công dân từ đủ 21 tuổi trở lên. "
+            },
+            {
+                "value": "Mọi công dân từ đủ 25 tuổi trở lên. "
             }
         ]
     },
@@ -581,7 +815,7 @@
                 "value": "Đàm phán. "
             },
             {
-                "value": "Tố cáo."
+                "value": "Tố cáo. "
             },
             {
                 "value": "Khiếu nại. "
@@ -589,7 +823,16 @@
         ],
         "right_answer": [
             {
-                "value": "Tố cáo."
+                "value": "Kiến nghị. "
+            },
+            {
+                "value": "Đàm phán. "
+            },
+            {
+                "value": "Tố cáo. "
+            },
+            {
+                "value": "Khiếu nại. "
             }
         ]
     },
@@ -603,7 +846,7 @@
                 "value": "phản biện. "
             },
             {
-                "value": "khiếu nại."
+                "value": "khiếu nại. "
             },
             {
                 "value": "tố cáo. "
@@ -611,7 +854,16 @@
         ],
         "right_answer": [
             {
-                "value": "khiếu nại."
+                "value": "phán quyết. "
+            },
+            {
+                "value": "phản biện. "
+            },
+            {
+                "value": "khiếu nại. "
+            },
+            {
+                "value": "tố cáo. "
             }
         ]
     },
@@ -619,13 +871,13 @@
         "question": "Câu 29. Quyền khiếu nại, tố cáo là quyền dân chủ của công dân được quy định như thế nào trong  Hiến pháp? ",
         "answer": [
             {
-                "value": "Cơ bản."
+                "value": "Cơ bản. "
             },
             {
-                "value": "Quan trọng."
+                "value": "Quan trọng. "
             },
             {
-                "value": "cần thiết."
+                "value": "cần thiết. "
             },
             {
                 "value": "không thể thiếu. "
@@ -633,13 +885,13 @@
         ],
         "right_answer": [
             {
-                "value": "Cơ bản."
+                "value": "Cơ bản. "
             },
             {
-                "value": "Quan trọng."
+                "value": "Quan trọng. "
             },
             {
-                "value": "cần thiết."
+                "value": "cần thiết. "
             },
             {
                 "value": "không thể thiếu. "
@@ -653,7 +905,7 @@
                 "value": "Dân hiểu và đồng tình."
             },
             {
-                "value": "Dân giám sát và kiểm tra."
+                "value": "Dân giám sát và kiểm tra. "
             },
             {
                 "value": "Dân bàn và quyết định."
@@ -664,7 +916,16 @@
         ],
         "right_answer": [
             {
-                "value": "Dân giám sát và kiểm tra."
+                "value": "Dân hiểu và đồng tình."
+            },
+            {
+                "value": "Dân giám sát và kiểm tra. "
+            },
+            {
+                "value": "Dân bàn và quyết định."
+            },
+            {
+                "value": "Dân thảo luận và góp ý kiến. "
             }
         ]
     },
@@ -672,7 +933,7 @@
         "question": "Câu 31. Công dân tham gia quản lí nhà nước và xã hội là thực hiện hình thức dân chủ ",
         "answer": [
             {
-                "value": "trực tiếp."
+                "value": "trực tiếp. "
             },
             {
                 "value": "gián tiếp. "
@@ -686,7 +947,16 @@
         ],
         "right_answer": [
             {
-                "value": "trực tiếp."
+                "value": "trực tiếp. "
+            },
+            {
+                "value": "gián tiếp. "
+            },
+            {
+                "value": "chuyên chế. "
+            },
+            {
+                "value": "đại diện. "
             }
         ]
     },
@@ -703,12 +973,21 @@
                 "value": "Quyền bãi nại. "
             },
             {
-                "value": "Quyền khiếu nại."
+                "value": "Quyền khiếu nại. "
             }
         ],
         "right_answer": [
             {
-                "value": "Quyền khiếu nại."
+                "value": "Quyền tố cáo. "
+            },
+            {
+                "value": "Quyền ứng cử. "
+            },
+            {
+                "value": "Quyền bãi nại. "
+            },
+            {
+                "value": "Quyền khiếu nại. "
             }
         ]
     },
@@ -719,7 +998,7 @@
                 "value": "Nhà nước tổ chức trưng cầu ý dân. "
             },
             {
-                "value": "Biểu quyết xây dựng hương ước làng xã."
+                "value": "Biểu quyết xây dựng hương ước làng xã. "
             },
             {
                 "value": "Góp ý sửa đổi dự thảo Hiến pháp. "
@@ -730,7 +1009,16 @@
         ],
         "right_answer": [
             {
-                "value": "Biểu quyết xây dựng hương ước làng xã."
+                "value": "Nhà nước tổ chức trưng cầu ý dân. "
+            },
+            {
+                "value": "Biểu quyết xây dựng hương ước làng xã. "
+            },
+            {
+                "value": "Góp ý sửa đổi dự thảo Hiến pháp. "
+            },
+            {
+                "value": "Hoàn thiện Bộ luật Tố tụng Hình sự. "
             }
         ]
     },
@@ -747,12 +1035,21 @@
                 "value": "Ủy quyền. "
             },
             {
-                "value": "Trực tiếp."
+                "value": "Trực tiếp. "
             }
         ],
         "right_answer": [
             {
-                "value": "Trực tiếp."
+                "value": "Gián tiếp. "
+            },
+            {
+                "value": "Đại diện. "
+            },
+            {
+                "value": "Ủy quyền. "
+            },
+            {
+                "value": "Trực tiếp. "
             }
         ]
     },
@@ -766,7 +1063,7 @@
                 "value": "gián tiếp. "
             },
             {
-                "value": "trực tiếp."
+                "value": "trực tiếp. "
             },
             {
                 "value": "tập trung. "
@@ -774,7 +1071,16 @@
         ],
         "right_answer": [
             {
-                "value": "trực tiếp."
+                "value": "chỉ định. "
+            },
+            {
+                "value": "gián tiếp. "
+            },
+            {
+                "value": "trực tiếp. "
+            },
+            {
+                "value": "tập trung. "
             }
         ]
     },
@@ -796,6 +1102,15 @@
         ],
         "right_answer": [
             {
+                "value": "độc lập phán quyết. "
+            },
+            {
+                "value": "tự do ngôn luận, "
+            },
+            {
+                "value": "khiếu nại và tố cáo. "
+            },
+            {
                 "value": "bầu cử và ứng cử."
             }
         ]
@@ -813,12 +1128,21 @@
                 "value": "tự quyết. "
             },
             {
-                "value": "kiểm tra."
+                "value": "kiểm tra. "
             }
         ],
         "right_answer": [
             {
-                "value": "kiểm tra."
+                "value": "quản lí. "
+            },
+            {
+                "value": "điều hành. "
+            },
+            {
+                "value": "tự quyết. "
+            },
+            {
+                "value": "kiểm tra. "
             }
         ]
     },
@@ -832,7 +1156,7 @@
                 "value": "bổ sung phiếu bầu. "
             },
             {
-                "value": "chịu trách nhiệm pháp lí."
+                "value": "chịu trách nhiệm pháp lí. "
             },
             {
                 "value": "công khai xin lỗi. "
@@ -840,7 +1164,16 @@
         ],
         "right_answer": [
             {
-                "value": "chịu trách nhiệm pháp lí."
+                "value": "thay đổi hệ tư tưởng. "
+            },
+            {
+                "value": "bổ sung phiếu bầu. "
+            },
+            {
+                "value": "chịu trách nhiệm pháp lí. "
+            },
+            {
+                "value": "công khai xin lỗi. "
             }
         ]
     },
@@ -848,7 +1181,7 @@
         "question": "Câu 39. Công dân thực hiện quyền ứng cử bằng hình thức tự ứng cử và được ",
         "answer": [
             {
-                "value": "giới thiệu ứng cử."
+                "value": "giới thiệu ứng cử. "
             },
             {
                 "value": "bí mật tranh cử. "
@@ -862,7 +1195,16 @@
         ],
         "right_answer": [
             {
-                "value": "giới thiệu ứng cử."
+                "value": "giới thiệu ứng cử. "
+            },
+            {
+                "value": "bí mật tranh cử. "
+            },
+            {
+                "value": "tác động đề cử. "
+            },
+            {
+                "value": "nhờ người tuyển cử."
             }
         ]
     },
@@ -876,7 +1218,7 @@
                 "value": "phản biện. "
             },
             {
-                "value": "khiếu nại."
+                "value": "khiếu nại. "
             },
             {
                 "value": "tố cáo."
@@ -884,7 +1226,16 @@
         ],
         "right_answer": [
             {
-                "value": "khiếu nại."
+                "value": "phán quyết. "
+            },
+            {
+                "value": "phản biện. "
+            },
+            {
+                "value": "khiếu nại. "
+            },
+            {
+                "value": "tố cáo."
             }
         ]
     }

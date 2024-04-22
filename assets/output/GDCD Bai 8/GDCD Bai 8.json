@@ -17,7 +17,16 @@
         ],
         "right_answer": [
             {
+                "value": "Quyền học bất cứ ngành, nghề nào. "
+            },
+            {
+                "value": "Quyền học thường xuyên, học suốt đời.  "
+            },
+            {
                 "value": "Quyền học tập khi có sự đồng ý của các cơ quan có thẩm quyền. "
+            },
+            {
+                "value": "Quyền học tập không hạn chế. "
             }
         ]
     },
@@ -39,7 +48,16 @@
         ],
         "right_answer": [
             {
+                "value": "A. bất bình đẳng trong giáo dục."
+            },
+            {
                 "value": "công bằng xã hội trong giáo dục "
+            },
+            {
+                "value": "định hướng đổi mới giáo dục. "
+            },
+            {
+                "value": "chủ trương phát triển giáo dục."
             }
         ]
     },
@@ -62,6 +80,15 @@
         "right_answer": [
             {
                 "value": "Quyền tác giả. "
+            },
+            {
+                "value": "Quyền sở hữu công nghiệp. "
+            },
+            {
+                "value": "Quyền phát minh sáng chế. "
+            },
+            {
+                "value": "Quyền được phát triển. "
             }
         ]
     },
@@ -83,7 +110,16 @@
         ],
         "right_answer": [
             {
+                "value": "Ứng dụng. "
+            },
+            {
                 "value": "Sáng tạo. "
+            },
+            {
+                "value": "Ủy nhiệm. "
+            },
+            {
+                "value": "Chuyển nhượng.  "
             }
         ]
     },
@@ -105,7 +141,16 @@
         ],
         "right_answer": [
             {
+                "value": "văn hóa. "
+            },
+            {
+                "value": "hành chính. "
+            },
+            {
                 "value": "xã hội. "
+            },
+            {
+                "value": "công vụ. "
             }
         ]
     },
@@ -128,6 +173,15 @@
         "right_answer": [
             {
                 "value": "sáng tạo. "
+            },
+            {
+                "value": "sáng chế. "
+            },
+            {
+                "value": "sáng tác. "
+            },
+            {
+                "value": "phát minh. "
             }
         ]
     },
@@ -150,6 +204,15 @@
         "right_answer": [
             {
                 "value": "phát triển. "
+            },
+            {
+                "value": "bình chọn. "
+            },
+            {
+                "value": "khuyến khích tài năng. "
+            },
+            {
+                "value": "phán quyết. "
             }
         ]
     },
@@ -170,6 +233,15 @@
             }
         ],
         "right_answer": [
+            {
+                "value": "tất cả giáo hình nâng cao. "
+            },
+            {
+                "value": "những cách thức thống nhất. "
+            },
+            {
+                "value": "các phương tiện hiện đại. "
+            },
             {
                 "value": "nhiều hình thức khác nhau. "
             }
@@ -193,7 +265,16 @@
         ],
         "right_answer": [
             {
+                "value": "kinh tế. "
+            },
+            {
                 "value": "xã hội. "
+            },
+            {
+                "value": "chính trị. "
+            },
+            {
+                "value": "văn hóa, du lịch. "
             }
         ]
     },
@@ -216,6 +297,15 @@
         "right_answer": [
             {
                 "value": "Xử lí thông tin liên ngành. "
+            },
+            {
+                "value": "Nghỉ ngơi, vui chơi, giải trí. "
+            },
+            {
+                "value": "Khuyến khích bồi dưỡng tài năng. "
+            },
+            {
+                "value": "Tham gia các hoạt động văn hóa. "
             }
         ]
     },
@@ -238,6 +328,15 @@
         "right_answer": [
             {
                 "value": "quyền. "
+            },
+            {
+                "value": "nghĩa vụ. "
+            },
+            {
+                "value": "trách nhiệm. "
+            },
+            {
+                "value": "trách nhiệm pháp lí. "
             }
         ]
     },
@@ -258,6 +357,15 @@
             }
         ],
         "right_answer": [
+            {
+                "value": "Học theo chỉ định. "
+            },
+            {
+                "value": "Học vượt cấp, vượt lớp. "
+            },
+            {
+                "value": "Học thường xuyên, liên tục. "
+            },
             {
                 "value": "Học bất cứ ngành, nghề nào. "
             }
@@ -281,7 +389,16 @@
         ],
         "right_answer": [
             {
+                "value": "sáng chế. "
+            },
+            {
+                "value": "sáng tác. "
+            },
+            {
                 "value": "sáng tạo. "
+            },
+            {
+                "value": "tác giả. "
             }
         ]
     },
@@ -303,7 +420,16 @@
         ],
         "right_answer": [
             {
+                "value": "sở thích riêng biệt. "
+            },
+            {
+                "value": "nhu cầu cụ thể. "
+            },
+            {
                 "value": "khả năng của mỗi người. "
+            },
+            {
+                "value": "nguyện vọng của cá nhân. "
             }
         ]
     },
@@ -324,6 +450,15 @@
             }
         ],
         "right_answer": [
+            {
+                "value": "dự thi lấy chứng chi nghề. "
+            },
+            {
+                "value": "đổi mới giáo trình nâng cao. "
+            },
+            {
+                "value": "lựa chọn chương trình song ngữ. "
+            },
             {
                 "value": "học thường xuyên, học suốt đời. "
             }
@@ -347,6 +482,15 @@
         ],
         "right_answer": [
             {
+                "value": "Học thay người đại diện. "
+            },
+            {
+                "value": "Học theo sự ủy quyền."
+            },
+            {
+                "value": "Học khi được chỉ định. "
+            },
+            {
                 "value": "Học từ thấp đến cao. "
             }
         ]
@@ -368,6 +512,15 @@
             }
         ],
         "right_answer": [
+            {
+                "value": "Thay đổi thông tin. "
+            },
+            {
+                "value": "Phát minh sáng chế. "
+            },
+            {
+                "value": "Ứng dụng kĩ thuật tiên tiến."
+            },
             {
                 "value": "Bồi dưỡng phát triển tài năng.  "
             }
@@ -391,7 +544,16 @@
         ],
         "right_answer": [
             {
+                "value": "phát huy. "
+            },
+            {
                 "value": "phát triển. "
+            },
+            {
+                "value": "giám sát. "
+            },
+            {
+                "value": "phán quyết. "
             }
         ]
     },
@@ -412,6 +574,15 @@
             }
         ],
         "right_answer": [
+            {
+                "value": "theo chỉ định. "
+            },
+            {
+                "value": "trực tuyến. "
+            },
+            {
+                "value": "liên thông. "
+            },
             {
                 "value": "không hạn chế. "
             }
@@ -435,7 +606,16 @@
         ],
         "right_answer": [
             {
+                "value": "chuyển nhượng. "
+            },
+            {
                 "value": "bảo vệ. "
+            },
+            {
+                "value": "chuyển giao. "
+            },
+            {
+                "value": "bảo mật. "
             }
         ]
     },
@@ -457,7 +637,16 @@
         ],
         "right_answer": [
             {
+                "value": "Học bất cứ ngành, nghề nào phù hợp. "
+            },
+            {
+                "value": "Học từ thấp đến cao. "
+            },
+            {
                 "value": "Học theo sự ủy quyền. "
+            },
+            {
+                "value": "Học bằng nhiều hình thức khác nhau. "
             }
         ]
     },
@@ -479,7 +668,16 @@
         ],
         "right_answer": [
             {
+                "value": "sáng tác. "
+            },
+            {
                 "value": "tác giả. "
+            },
+            {
+                "value": "Sáng chế. "
+            },
+            {
+                "value": "Sở hữu công nghiệp. "
             }
         ]
     },
@@ -501,7 +699,16 @@
         ],
         "right_answer": [
             {
+                "value": "sáng kiến. "
+            },
+            {
+                "value": "sáng tác. "
+            },
+            {
                 "value": "sáng tạo. "
+            },
+            {
+                "value": "phát minh. "
             }
         ]
     },
@@ -522,6 +729,15 @@
             }
         ],
         "right_answer": [
+            {
+                "value": "học tập. "
+            },
+            {
+                "value": "sáng tạo. "
+            },
+            {
+                "value": "sáng chế. "
+            },
             {
                 "value": "phát triển. "
             }
@@ -545,7 +761,13 @@
         ],
         "right_answer": [
             {
+                "value": "Chuyển giao quy trình quản lí. "
+            },
+            {
                 "value": "Làm giả nhãn hiệu hàng hóa. "
+            },
+            {
+                "value": "Chủ động đăng kí bản quyền. "
             }
         ]
     },
@@ -568,6 +790,15 @@
         "right_answer": [
             {
                 "value": "Quyền được phát triển. "
+            },
+            {
+                "value": "Quyền được tham gia.  "
+            },
+            {
+                "value": "Quyền được sáng tạo. "
+            },
+            {
+                "value": "Quyền tác giả. "
             }
         ]
     },
@@ -588,6 +819,15 @@
             }
         ],
         "right_answer": [
+            {
+                "value": "bảo vệ. "
+            },
+            {
+                "value": "sáng tạo. "
+            },
+            {
+                "value": "học tập. "
+            },
             {
                 "value": "phát triển.  "
             }
@@ -612,6 +852,15 @@
         "right_answer": [
             {
                 "value": "Học thường xuyên, suốt đời. "
+            },
+            {
+                "value": "Học không hạn chế. "
+            },
+            {
+                "value": "Học từ thấp đến cao. "
+            },
+            {
+                "value": "Bình đẳng trong học tập. "
             }
         ]
     },
@@ -634,6 +883,15 @@
         "right_answer": [
             {
                 "value": "Quyền phát triển. "
+            },
+            {
+                "value": "Quyền chăm sóc sức khỏe. "
+            },
+            {
+                "value": "Quyền trẻ em. "
+            },
+            {
+                "value": "Quyền được bảo vệ. "
             }
         ]
     },
@@ -655,7 +913,16 @@
         ],
         "right_answer": [
             {
+                "value": "Quyền được phát triển của công dân. "
+            },
+            {
+                "value": "Quyền dân chủ của công dân. "
+            },
+            {
                 "value": "Quyền học tập của công dân. "
+            },
+            {
+                "value": "Quyền sáng tạo của công dân. "
             }
         ]
     },
@@ -677,7 +944,16 @@
         ],
         "right_answer": [
             {
+                "value": "Học từ thấp đến cao. "
+            },
+            {
                 "value": "Tự do nghiên cứu khoa học. "
+            },
+            {
+                "value": "Học từ thường xuyên, suốt đời. "
+            },
+            {
+                "value": "“Học, học nữa, học mãi”. "
             }
         ]
     },
@@ -700,6 +976,15 @@
         "right_answer": [
             {
                 "value": "tạo điều kiện để ai cũng được học hành. "
+            },
+            {
+                "value": "tạo điều kiện để ai cũng được phát triển. "
+            },
+            {
+                "value": "tạo điều kiện để ai cũng được sáng tạo. "
+            },
+            {
+                "value": "tạo điều kiện để ai cũng được nghiên cứu khoa học. "
             }
         ]
     },
@@ -721,7 +1006,16 @@
         ],
         "right_answer": [
             {
+                "value": "học tập thường xuyên. "
+            },
+            {
+                "value": "phát triển năng khiếu. "
+            },
+            {
                 "value": "nghiên cứu khoa học. "
+            },
+            {
+                "value": "hưởng thụ đời sống. "
             }
         ]
     },
@@ -743,7 +1037,16 @@
         ],
         "right_answer": [
             {
+                "value": "quyền học tập của công dân. "
+            },
+            {
                 "value": "quyền sáng tạo của công dân. "
+            },
+            {
+                "value": "quyền phát triển của công dân. "
+            },
+            {
+                "value": "quyền tự do của công dân. "
             }
         ]
     },
@@ -765,7 +1068,16 @@
         ],
         "right_answer": [
             {
+                "value": "Học thường xuyên. "
+            },
+            {
                 "value": "Học không hạn chế. "
+            },
+            {
+                "value": "Học bất cứ ngành nghề nào."
+            },
+            {
+                "value": "Học bằng nhiều hình thức. "
             }
         ]
     },
@@ -786,6 +1098,15 @@
             }
         ],
         "right_answer": [
+            {
+                "value": "quyền phát triển cá nhân, quyền tác giả, quyền sở hữu. "
+            },
+            {
+                "value": "quyền tìm hiểu khoa học, quyền sở hữu, khám phá cái mới. "
+            },
+            {
+                "value": "quyền tự do sáng tác, quyền phát triển cá nhân. "
+            },
             {
                 "value": "quyền tác giả, quyền sở hữu công nghiệp, hoạt động khoa học công nghệ. "
             }
@@ -808,6 +1129,15 @@
             }
         ],
         "right_answer": [
+            {
+                "value": "Công dân được quyền thưởng thức các tác phẩm văn học, nghệ thuật. "
+            },
+            {
+                "value": "Công dân được quyền phát triển tài năng của mình. "
+            },
+            {
+                "value": "Công dân được học tập, tìm hiểu công trình khoa học. "
+            },
             {
                 "value": "Công dân được quyền sáng tạo các sáng chế, kiểu dáng công nghiệp. "
             }
@@ -832,6 +1162,15 @@
         "right_answer": [
             {
                 "value": "Quyền được phát triển."
+            },
+            {
+                "value": "Quyền học tập. "
+            },
+            {
+                "value": "Quyền sáng tạo. "
+            },
+            {
+                "value": "Quyền bình đẳng. "
             }
         ]
     },
@@ -853,7 +1192,16 @@
         ],
         "right_answer": [
             {
+                "value": "Tất cả công dân đều được bồi dưỡng để phát triển tài năng. "
+            },
+            {
                 "value": "Công dân được khuyến khích, bồi dưỡng để phát triển tài năng. "
+            },
+            {
+                "value": "Mọi công dân có quyền học tập suốt đời để phát triển tài năng.  "
+            },
+            {
+                "value": "Công dân được hưởng đời sống vật chất đầy đủ nhất theo mong muốn của mình. "
             }
         ]
     },
@@ -876,6 +1224,15 @@
         "right_answer": [
             {
                 "value": "Quyền được phát triển. "
+            },
+            {
+                "value": "Quyền tự do cơ bản. "
+            },
+            {
+                "value": "Quyền sáng tạo. "
+            },
+            {
+                "value": "Quyền dân chủ."
             }
         ]
     }

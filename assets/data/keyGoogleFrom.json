@@ -1,11 +1,11 @@
 {
     "web": {
-        "client_id": "1073141791640-cph1fr9nq0o7b5kgpr55rqhrook0ju2b.apps.googleusercontent.com",
+        "client_id": "1073141791640-fi2pt2b1rjheesq64shldf1h3n69t937.apps.googleusercontent.com",
         "project_id": "projectcreateform",
         "auth_uri": "https://accounts.google.com/o/oauth2/auth",
         "token_uri": "https://oauth2.googleapis.com/token",
         "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-        "client_secret": "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",
+        "client_secret": "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",
         "redirect_uris": [
             "http://localhost:8501/",
             "http://localhost:8080/",

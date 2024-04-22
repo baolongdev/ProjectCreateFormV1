@@ -34,6 +34,8 @@ class DocumentProcess:
         self.convert_to_label = None
         self.check = False         
         self.save_folder = "./assets/output"
+        self.email_address = "longle12042006a@gmail.com"
+        self.role = "writer"
         # ^(câu|bài|cau|bai|\d+.|\d+:)
         self.pattern = re.compile(r'^(câu|bài|cau|bai|\d+.|\d+:)', re.IGNORECASE)                    
     def viewDocumentation(self, model, sidebar):        
@@ -92,7 +94,8 @@ class DocumentProcess:
                             is_shuffle=st.session_state.shuffle_toggle,
                         )     
                         with st.spinner("Wait for it..."):
-                            form_generator.read_data_from_json(dataJSON)     
+                            form_generator.read_data_from_json(dataJSON) 
+                            form_generator.update_permissions(self.email_address, self.role)    
                         st.link_button("Link form 😘", form_generator.get_link_form())
                         pass
                     else:
@@ -161,7 +164,9 @@ class DocumentProcess:
                     text = paragraphs[i].text
                     runs = paragraphs[i].runs
                     data_json[indexOfJson]["answer"].append({"value":text})
-                    if runs[0].font.color.rgb is not None or runs[0].bold or runs[0].underline:
+                    print("Test runs[0].bold: ", (runs[0].font.color.rgb is not None, runs[0].bold, runs[0].underline))
+                    # runs[0].font.color.rgb is not None or
+                    if runs[0].bold or runs[0].underline:
                         data_json[indexOfJson]["right_answer"].append({"value":text})
                 
             json_data = json.dumps(data_json, ensure_ascii=False, indent=4)
