@@ -1,0 +1,3601 @@
+[
+    {
+        "question": "Câu 1 . Sự phụ thuộc của chiết suất vào bước sóng",
+        "answer": [
+            {
+                "value": "xảy ra với mọi chất rắn, lỏng, hoặc khí."
+            },
+            {
+                "value": "chỉ xảy ra với chất rắn vàlỏng."
+            },
+            {
+                "value": "chỉ xảy ra với chất rắn."
+            },
+            {
+                "value": "làhiện tượng đặc trưng của thuỷ tinh."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "xảy ra với mọi chất rắn, lỏng, hoặc khí."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Chiết suất của một môi trường trong suốt đối với các ánh sáng đơn sắc khác nhau làđại lượng",
+        "answer": [
+            {
+                "value": "không đổi, cógiátrị như nhau đối với tất cả các ánh sáng cómàu từ đỏ đến tím."
+            },
+            {
+                "value": "thay đổi, chiết suất làlớn nhất đối với ánh sáng đỏ vànhỏ nhất đối với ánh sáng tím."
+            },
+            {
+                "value": "thay đổi, chiết suất làl ớn nhất đối với ánh sáng tím vànhỏ nhất đối với ánh sáng đỏ ."
+            },
+            {
+                "value": "thay đổi, chiết suất lớn nhất đối với ánh sáng màu lục vànhỏ nhất đối với ánh sáng đỏ . "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "thay đổi, chiết suất làl ớn nhất đối với ánh sáng tím vànhỏ nhất đối với ánh sáng đỏ ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Ánh sáng đơn sắc làánh sáng",
+        "answer": [
+            {
+                "value": "cómột màu vàbước sóng nhất định, khi điqua lăng kính sẽ bị tán sắcómột màu nhất định vàbước sóng không xác định, khi điqua lăng kính không bị tán sắ"
+            },
+            {
+                "value": "cómột màu vàmột bước sóng xác định, khi điqua lăng kính không bị tán sắ"
+            },
+            {
+                "value": "cómột màu nhất định vàbước sóng không xác định, khi điqua lăng kính sẽ bị tán sắc. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "cómột màu vàmột bước sóng xác định, khi điqua lăng kính không bị tán sắ"
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Khẳng định nào sau đây làsai?",
+        "answer": [
+            {
+                "value": "Ánh sáng đơn sắc không bị tán sắc khi truyền qua lăng kính."
+            },
+            {
+                "value": "Vận tốc của ánh sáng đơn sắc không phụ thuộc vào môi trường truyền."
+            },
+            {
+                "value": "Chiết suất của chất làm lăng kính đối với ánh sáng đỏ nhỏ hơn đối với ánh sáng màu lụÁnh sáng đơn sắc bị lệch đường truyền khi điqua lăng kính."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Vận tốc của ánh sáng đơn sắc không phụ thuộc vào môi trường truyền."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Khi ánh sáng truyền từ môi trường trong suốt này sang môi trường trong suốt khác thì ",
+        "answer": [
+            {
+                "value": "A. bước sóng thay đổi nhưng tần số không đổi. "
+            },
+            {
+                "value": "B. bước sóng không đổi nhưng tần số thay đổi."
+            },
+            {
+                "value": "C. bước sóng vàtần số đều thay đổi."
+            },
+            {
+                "value": "bước sóng vàtần số đều không đổi."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. bước sóng thay đổi nhưng tần số không đổi. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Để hai sóng kết hợp cóbước sóng ---[HÌNH ẢNH]--- tăng cường lẫn nhau khi giao thoa thìhiệu được đicủa chúng ",
+        "answer": [
+            {
+                "value": "bằng ---[HÌNH ẢNH]--- ."
+            },
+            {
+                "value": "bằng 0."
+            },
+            {
+                "value": "bằng ---[HÌNH ẢNH]--- ."
+            },
+            {
+                "value": "bằng ---[HÌNH ẢNH]--- ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "bằng ---[HÌNH ẢNH]--- ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Trong thínghiệm giao thoa với ánh sáng đơn sắc của Y-âng, khoảng cách giữa vân sáng và vân tối liên tiếp bằng",
+        "answer": [
+            {
+                "value": "một khoảng vân."
+            },
+            {
+                "value": "một nửa khoảng vân."
+            },
+            {
+                "value": "một phần tư khoảng vân."
+            },
+            {
+                "value": "hai lần khoảng vân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "một nửa khoảng vân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Trong các thínghiệm sau, thínghiệm nào được sử dụng để đo bước sóng ánh sáng?",
+        "answer": [
+            {
+                "value": "Thínghiệm tổng hợp ánh sáng trắng."
+            },
+            {
+                "value": "Thínghiệm về sự tán sắc ánh sáng của Niu-tơn."
+            },
+            {
+                "value": "Thínghiệm với ánh sáng đơn sắc của Niu-tơn."
+            },
+            {
+                "value": "Thínghiệm Y-âng về giao thoa ánh sáng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Thínghiệm Y-âng về giao thoa ánh sáng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Trong thínghiệm Y-âng về giao thoa ánh sáng, khoảng cách giữa hai khe bằng 1 mm và khoảng cách từ hai khe đến màn bằng 2m. Chiếu sáng hai khe bằng ánh sáng đơn sắc cóbước sóng  ---[HÌNH ẢNH]--- , người ta đo được khoảng cách từ vân sáng trung tâm đến vân sáng bậc bốn là4, 5mm. Bước sóng của ánh sáng đơn sắc đól à",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,76---[HÌNH ẢNH]---m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,6---[HÌNH ẢNH]---m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 5625---[HÌNH ẢNH]---m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,4---[HÌNH ẢNH]---m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 1 0. Trong thínghiệm giao thoa ánh sáng của Y- âng, gọi i làkhoảng cách giữa hai vân sáng liên tiếp. Khoảng cách từ vân sáng bậc 3 đến vân sáng bậc 9 nằm cùng phíađối với vân sáng trung tâm là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "5i.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6i.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "7i.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "8i.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 1 1 . Trong thínghiệm Y-âng về giao thoa ánh sáng, khoảng cách giữa hai khe a = 0, 5mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sátD = 2m. Hai khe được chiếu bằng ánh sáng trắng. Khoảng cách từ vân sáng bậc 1 màu đỏ (---[HÌNH ẢNH]---đ = 0,75---[HÌNH ẢNH]---m) đến vân sáng bậc 1 màu tím (---[HÌNH ẢNH]---t",
+        "answer": [
+            {
+                "value": "= 0,4 ---[HÌNH ẢNH]---m) nằm cùng một phíađối với vân sáng trung tâm là"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "4,2mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "42mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 ,4mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2, 1 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 1 2. Trong thínghiệm Y-âng, các khe được chiếu bằng ánh sáng trắng. Biết khoảng cách giữa hai khe làa = 0,3mm; khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát D = 2m. Khoảng cách giữa vân sáng bậc 1 của màu đỏ (---[HÌNH ẢNH]---đ = 0,76---[HÌNH ẢNH]---m) vàvân sáng bậc 2 của màu tím (---[HÌNH ẢNH]---t = 0,40---[HÌNH ẢNH]---m) nằm cùng một phíađối với vân sáng trung tâm là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 ,253mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 548mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 1 04mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,267mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 1 3. Trong thínghiệm Iâng về giao thoa ánh sáng, khoảng cách giữa 5 vân sáng liên tiếp trên màn là2mm. Tại điểm M trên màn cách vân sáng trung tâm một khoảng 1 ,75mm là",
+        "answer": [
+            {
+                "value": "vân sáng bậc 3."
+            },
+            {
+                "value": "vân tối thứ b"
+            },
+            {
+                "value": "vân sáng bậc 4."
+            },
+            {
+                "value": "vân tối thứ tư."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "vân tối thứ tư."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 4. Thínghiệm Y-âng về giao thoa ánh sáng được thực hiện trong không khí.Nếu thínghiệm được thực hiện trong nước cóchiết suất n thìbước sóng của ánh sáng",
+        "answer": [
+            {
+                "value": "tăng n lần."
+            },
+            {
+                "value": "giảm n lần."
+            },
+            {
+                "value": "không thay đổi."
+            },
+            {
+                "value": "giảm ---[HÌNH ẢNH]---lần."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "giảm n lần."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 5. Trong thínghiệm Y-âng, bước sóng đơn sắc dùng trong thínghiệm là0,6---[HÌNH ẢNH]--- . Hiệu đường đi của ánh sáng từ hai khe đến vân sáng bậc hai trên màn bằng",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 ,2---[HÌNH ẢNH]--- .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2,4---[HÌNH ẢNH]--- .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 ,8---[HÌNH ẢNH]--- .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,6---[HÌNH ẢNH]--- .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 1 6. Trong thínghiệm Y-âng về giao thoa ánh sáng, hai khe cách nhau 1 mm, khoảng cách từ hai khe tới màn là1 m. Khoảng cách giữa 3 vân sáng liên tiếp là0,9mm. Bước sóng đơn sắc dùng trong thínghiệm là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,6---[HÌNH ẢNH]--- .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,65---[HÌNH ẢNH]--- .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,45---[HÌNH ẢNH]--- .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 51 ---[HÌNH ẢNH]--- .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 1 7. Trong thínghiệm Y-âng về giao thoa ánh sáng, các khe được chiếu sáng bởi ánh sáng đơn",
+        "answer": [
+            {
+                "value": "sắc cóbước sóng 0, 5---[HÌNH ẢNH]---m. Biết khoảng cách giữa hai khe là2mm, khoảng cách từ hai khe tới màn là 1 m. Khoảng cách giữa hai vân sáng bậc bốn là"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "1 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 1 8. Trong thínghiệm Y-âng, nếu khoảng cách giữa hai vân sáng liên tiếp lài thìv ân tối thứ hai xuất hiện trên màn tại vị trícách vân sáng trung tâm một khoảng bằng",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 5i.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2i.",
+        "answer": [
+            {
+                "value": "i."
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "1 , 5i.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 1 9. Một sóng ánh sáng đơn sắc cóbước sóng trong không khíbằng 0,6μm.Bước sóng của ánh sáng đơn sắc này trong nước (n = 4/3) là",
+        "answer": [
+            {
+                "value": "A.0,8μm"
+            },
+            {
+                "value": "B.0,45μm"
+            },
+            {
+                "value": "C.0,75μm"
+            },
+            {
+                "value": "D.0,4μm"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D.0,4μm"
+            }
+        ]
+    },
+    {
+        "question": "Câu 20. Trong 1 thínghiệm giao thoa ánh sáng trong môi trường không khíkhoảng cách giữa 2 vân sáng bậc 2 ở 2 bên vân trung tâm đo được là3,2mm. Nếu làm lại thínghiệm trên trong môi trường nước cóchiết suất là4/3 thìkhoảng vân là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,85 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,6 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,64 mm",
+        "answer": [
+            {
+                "value": "D.1 mm"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 21 . Trong thínghiệm giao thoa Iâng cókhoảng vân giao thoa lài, khoảng cách từ vân sáng bậc 5 bên này đến vân tối thứ 4 bên kia vân trung tâm là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "8, 5i",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "7, 5i",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6, 5i",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "9, 5i",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 22. Trong thínghiệm I âng , khi dùng ánh sáng đơn sắc cóbước sóng 0, 589---[HÌNH ẢNH]--- thìquan sát",
+        "answer": [
+            {
+                "value": "được 1 3 vân sáng còn khi dùng ánh sáng đơn sắc cóbước sóng---[HÌNH ẢNH]--- thìquan sát được 1 1 vân sáng. Bước sóng ---[HÌNH ẢNH]--- cógiátrị"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "0,696 ---[HÌNH ẢNH]---",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,6608---[HÌNH ẢNH]---",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,6860 ---[HÌNH ẢNH]---",
+        "answer": [
+            {
+                "value": "D.0,6706---[HÌNH ẢNH]---"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 23.Trong thínghiệm Young về giao thoa ánh sáng, a = 1 , 5mm; D = 2m, hai khe được chiếu sáng đồng thời hai bức xạ ---[HÌNH ẢNH]--- 1= 0, 5---[HÌNH ẢNH]---m và---[HÌNH ẢNH]--- 2 = 0,6---[HÌNH ẢNH]---m. Vị trí2 vân sáng của hai bức xạ nóitrên trùng nhau gần vân trung tâm nhất, cách vân trung tâm một khoảng:",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "5 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3,6 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 24. Trong th́i nghiệm v ---[HÌNH ẢNH]--- giao thoa ánh sáng của Y- âng, hai khe sáng cách nhau 0,8mm. Khoảng cáchtừ hai khe đ---[HÌNH ẢNH]---n màn là 2m, ánh sáng đơn sắc chi---[HÌNH ẢNH]---u vào hai khe có bước sóng ---[HÌNH ẢNH]--- = 0,64---[HÌNH ẢNH]---m. Vân sáng bậc 4 và bậc 6 (cùng ph́ia so với vân ch́inh giữa) cách nhau đoạn",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 ,6 mm.",
+        "answer": [
+            {
+                "value": "B. 3,2 mm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. 3,2 mm."
+            }
+        ]
+    },
+    {
+        "question": "4,8 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6,4 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 25. Trong thínghiệm giao thoa ánh sáng với khe Y- âng, bước sóng ánh sáng dùng trong thí",
+        "answer": [
+            {
+                "value": "nghiệm ---[HÌNH ẢNH]--- . Khoảng cách giữa hai khe a = 1 mm. Tại một điểm M trên màn cách vân trung tâm 2, 5mm ta cóvân sáng bậc 5, để tại đól àvân sáng bậc 2, phải dời màn một đoạn làbao nhiêu? Theo chiều nào? "
+            },
+            {
+                "value": "Ra xa mặt phẳng chứa hai khe một đoạn 1 , 5m"
+            },
+            {
+                "value": "Ra xa mặt phẳng chứa hai khe một đoạn 0, 1 5m"
+            },
+            {
+                "value": "Lại gần mặt phẳng chứa hai khe một đoạn 1 , 5m"
+            },
+            {
+                "value": "Lại gần mặt phẳng chứa hai khe một đoạn 0, 1 5m"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Ra xa mặt phẳng chứa hai khe một đoạn 1 , 5m"
+            }
+        ]
+    },
+    {
+        "question": "Câu 26. Trong thínghiệm giao thoa ánh sáng dùng hai khe Y- âng, khoảng cách giữa hai vân sáng",
+        "answer": [
+            {
+                "value": "bậc 4 (ở hai phía của vân trung tâm) đo được là9,6 mm. Vân tối thứ 3 cách vân trung tâm một khoảng"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "6,4 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6 mm",
+        "answer": [
+            {
+                "value": "C.7,2 mm"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "3 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 27. Ta chiếu sáng hai khe Y- âng bằng ánh sáng trắng với bước sóng ánh sáng đỏ ---[HÌNH ẢNH]--- đ = 0,75 ---[HÌNH ẢNH]---m vàánh sáng tím ---[HÌNH ẢNH]---t = 0,4 ---[HÌNH ẢNH]---m. Biết a = 0, 5 mm, D = 2 m. Khoảng cách giữa vân sáng bậc 4 màu đỏ và vân sáng bậc 4 màu tím cùng phía đối với vân trắng chính giữa là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2,8 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "5,6 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4,8 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6,4 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 28. Hai khe Y- âng cách nhau a = 0,8 mm vàcách màn D = 1 ,2 m. Chiếu đồng thời hai bức xạ đơn sắc λ1 = 0,75μm vàλ2 = 0,45μm vào 2 khe. Khoảng cách ngắn nhất giữa hai vân sáng cómàu giống như màu của của vân trung tâm là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4,275 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3,375 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2,025 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "5,625 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 29. Trong thínghiệm Y- âng về giao thoa ánh sáng, hai khe cách nhau a = 0, 5 mm vàđược chiếu sáng bằng một ánh sáng đơn sắc. Khoảng cách từ hai khe đến màn quan sátlà2 m. Trên màn quan",
+        "answer": [
+            {
+                "value": "sát, trong vùng giữa M vàN (MN = 2 cm) người ta đếm được có1 0 vân tối vàthấy tại M vàN đều là"
+            },
+            {
+                "value": "vân sáng. Bước sóng của ánh sáng đơn sắc dùng trong thínghiệm này là"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "0,700 µm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,600 µm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 500 µm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,400 µm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 30. Trong thínghiệm Y-âng về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng đơn sắc cóbước sóng 0,6---[HÌNH ẢNH]---m. Khoảng cách giữa hai khe là1 mm, khoảng cách từ mặt phẳng chứa hai khe tới màn quan sát là2, 5m, bề rộng của miền giao thoa là1 ,25cm. Tổng số vân sáng vàvân tối cótrong miền giao thoa là:",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "21 vân",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "15 vân",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "17 vân",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "19 vân",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 31 .Trong thínghiệm Y-âng về giao thoa ánh sáng với ánh sáng đơn sắc. Biết khoảng cách giữa hai khe hẹp là1 ,2 mm vàkhoảng cách từ mặt phẳng chứa hai khe hẹp đến màn quan sát là0,9 m. Quan sát được hệ vân giao thoa trên màn với khoảng cách giữa 9 vân sáng liên tiếp là3,6 mm. Bước sóng của ánh sáng dùng trong thínghiệm là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 50.1 0-6 m",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 55.1 0-6 m",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,45.1 0-6 m",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,60.1 0-6 m",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 32. Trong thínghiệm Y-âng về giao thoa ánh sáng khoảng cách giữa hai khe là2mm, khoảng cách từ hai khe đến màn là2m, ánh sáng đơn sắc cóbước sóng 0,64---[HÌNH ẢNH]---m. Vân sáng bậc 3 cách vân sáng trung tâm một khoảng",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 ,20 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 ,66 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 ,92 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6,48 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 33. Trong thínghiệm Y-âng , các khe sáng được chiếu bằng ánh sáng trắng, biết ánh sáng đổ và tím cóbước sóng lần lượt: λđ = 760 nm vàλt = 400 nm. Khoảng cách giữa hai khe là0,3 mm, khoảng cách từ hai khe đến màn là2 m. Bề rộng quang phổ bậc 2 trên màn là",
+        "answer": [
+            {
+                "value": "A 1 ,2 mm"
+            },
+            {
+                "value": "B. 2,4 mm"
+            },
+            {
+                "value": "C 9,6 mm"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "4,8 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 1 . Phátbiểu nào sau đây làđúng?",
+        "answer": [
+            {
+                "value": "Tia hồng ngoại làmột bức xạ đơn sắc cómàu hồng."
+            },
+            {
+                "value": "Tia hồng ngoại làsóng điện từ cóbước sóng nhỏ hơn 0,4 ---[HÌNH ẢNH]--- ."
+            },
+            {
+                "value": "Tia hồng ngoại do các vật cónhiệt độ cao hơn nhiệt độ môi trường xung quanh phátr"
+            },
+            {
+                "value": "Tia hồng ngoại bị lệch trong điện trường vàtừ trường. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia hồng ngoại do các vật cónhiệt độ cao hơn nhiệt độ môi trường xung quanh phátr"
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Phátbiểu nào sau đây làkhông đúng?",
+        "answer": [
+            {
+                "value": "Tia hồng ngoại do các vật bị nung nóng phátr"
+            },
+            {
+                "value": "Tia hồng ngoại làsóng điện từ cóbước sóng lớn hơn 0,76 ---[HÌNH ẢNH]--- ."
+            },
+            {
+                "value": "Tia hồng ngoại cótác dụng lên mọi kính ảnh."
+            },
+            {
+                "value": "Tia hồng ngoại cótác dụng nhiệt rất mạnh. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia hồng ngoại cótác dụng lên mọi kính ảnh."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Phátbiểu nào sau đây làđúng?",
+        "answer": [
+            {
+                "value": "Tia hồng ngoại cókhả năng đâm xuyên rất mạnh."
+            },
+            {
+                "value": "Tia hồng ngoại cóthể kích thích cho một số chất phátquang."
+            },
+            {
+                "value": "Tia hồng ngoại chỉ được phátra từ các vật bị nung nóng cónhiệt độ trên 5000"
+            },
+            {
+                "value": "Tia hồng ngoại mắt người không nhìnthấy đượ"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia hồng ngoại mắt người không nhìnthấy đượ"
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Phátbiểu nào sau đây làkhông đúng?",
+        "answer": [
+            {
+                "value": "Vật cónhiệt độ trên 30000C phát ra tia tử ngoại rất mạnh."
+            },
+            {
+                "value": "Tia tử ngoại không bị thuỷ tinh hấp thụ ."
+            },
+            {
+                "value": "Tia tử ngoại làsóng điện từ cóbước sóng nhỏ hơn bước sóng của ánh sáng đỏ . "
+            },
+            {
+                "value": "Tia tử ngoại cótác dụng nhiệt ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia tử ngoại không bị thuỷ tinh hấp thụ ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Phátbiểu nào sau đây làkhông đúng?",
+        "answer": [
+            {
+                "value": "Tia tử ngoại cótác dụng sinh lý ."
+            },
+            {
+                "value": "Tia tử ngoại cóthể kích thích cho một số chất phát quang."
+            },
+            {
+                "value": "Tia tử ngoại cótác dụng mạnh lên kính ảnh."
+            },
+            {
+                "value": "Tia tử ngoại cókhả năng đâm xuyên. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia tử ngoại cótác dụng sinh lý ."
+            }
+        ]
+    },
+    {
+        "question": "Câu6.Phátbiểu nào sau đây làđúng?",
+        "answer": [
+            {
+                "value": "Tia hồng ngoại làmột bức xạ đơn sắc cómàu hồng."
+            },
+            {
+                "value": "Tia hồng ngoại làsóng điện từ cóbước sóng nhỏ hơn 0,4 ."
+            },
+            {
+                "value": "Tia hồng ngoại do các vật cónhiệt độ cao hơn 00 K phátr"
+            },
+            {
+                "value": "Tia hồng ngoại bị lệch trong điện trường vàtừ trường. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia hồng ngoại do các vật cónhiệt độ cao hơn 00 K phátr"
+            }
+        ]
+    },
+    {
+        "question": "Câu7.Phátbiểu nào sau đây làkhông đúng?",
+        "answer": [
+            {
+                "value": "Tia hồng ngoại do các vật bị nung nóng phat r"
+            },
+            {
+                "value": "Tia hồng ngoại làsóng điện từ cóbước sóng lớn hơn 0,76---[HÌNH ẢNH]--- ."
+            },
+            {
+                "value": "Tia hồng ngoại cótác dụng lên mọi kính ảnh."
+            },
+            {
+                "value": "Tia hồng ngoại cótác dụng nhiệt rất mạnh."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia hồng ngoại làsóng điện từ cóbước sóng lớn hơn 0,76---[HÌNH ẢNH]--- ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Tia X được tạo ra bằng cách nào sau đây?",
+        "answer": [
+            {
+                "value": "Cho một chùm electron nhanh bắn vào một kim loại khónóng chảy cónguyên tử lượng lớn."
+            },
+            {
+                "value": "Cho một chùm electron chậm bắn vào một kim loại."
+            },
+            {
+                "value": "Chiếu tia tử ngoại vào kim loại cónguyên tử lượng lớn."
+            },
+            {
+                "value": "Chiếu tia hồng ngoại vào một kim loại. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cho một chùm electron chậm bắn vào một kim loại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Chọn câu không đúng.",
+        "answer": [
+            {
+                "value": "Tia X cókhả năng xuyên qua một lánhôm mỏng."
+            },
+            {
+                "value": "B. Tia X cótác dụng mạnh lên kính ảnh."
+            },
+            {
+                "value": "Tia X làbức xạ cóthể trông thấy được vìn ól àm cho một số chất phátquang."
+            },
+            {
+                "value": "Tia X làbức xạ cóhại đối với sức khoẻ con người."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia X làbức xạ cóthể trông thấy được vìn ól àm cho một số chất phátquang."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 0. Bức xạ cóbước sóng trong khoảng tử 1 0-9 m đến 4.1 0-7 m thuộc loại nào trong các loại sóng dưới đây?",
+        "answer": [
+            {
+                "value": "Tia X."
+            },
+            {
+                "value": "Ánh sáng nhìnthấy."
+            },
+            {
+                "value": "Tia hồng ngoại."
+            },
+            {
+                "value": "Tia tử ngoại. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia tử ngoại. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 1 . Thân thể con người bình thường cóthể phátra được bức xạ nào dưới đây?",
+        "answer": [
+            {
+                "value": "Tia X."
+            },
+            {
+                "value": "Ánh sáng nhìnthấy."
+            },
+            {
+                "value": "Tia hồng ngoại."
+            },
+            {
+                "value": "Tia tử ngoại. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia hồng ngoại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 2. Phátbiểu nào sau đây làkhông đúng?",
+        "answer": [
+            {
+                "value": "Tia hồng ngoại vàtia tử ngoại đều cócùng bản chất làsóng điện từ."
+            },
+            {
+                "value": "Tia hồng ngoại cóbước sóng nhỏ hơn tia tử ngoại."
+            },
+            {
+                "value": "Tia hồng ngoại vàtia tử ngoại đều lànhững bức xạ không nhìnthấy."
+            },
+            {
+                "value": "Tia hồng ngoại vàtia tử ngoại đều cótác dụng nhiệt . \\"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia hồng ngoại cóbước sóng nhỏ hơn tia tử ngoại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 3. Phátbiểu nào sau đây làkhông đúng?",
+        "answer": [
+            {
+                "value": "Tia X vàtia tử ngoại đều cóbản chất làsóng điện từ."
+            },
+            {
+                "value": "Tia X vàtia tử ngoại đều cótác dụng mạnh lên kính ảnh."
+            },
+            {
+                "value": "Tia X vàtia tử ngoại đều kích thích cho một số chất phátquang."
+            },
+            {
+                "value": "Tia X vàtia tử ngoại đều bị lệch khi điqua một điện trường mạnh."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia X vàtia tử ngoại đều bị lệch khi điqua một điện trường mạnh."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 4.Phátbiểu nào sau đây làkhông đúng?",
+        "answer": [
+            {
+                "value": "Tia hồng ngoại vàtia tử ngoại đều cócùng bản chất làsóng điện từ."
+            },
+            {
+                "value": "Tia hồng ngoại cóbước sóng nhỏ hơn tia tử ngoại."
+            },
+            {
+                "value": "Tia hồng ngoại vàtia tử ngoại đều lànhững bức xạ không nhìnthấy."
+            },
+            {
+                "value": "Tia hồng ngoại vàtia tử ngoại đều cótác dụng nhiệt. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia hồng ngoại cóbước sóng nhỏ hơn tia tử ngoại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 5. Phátbiểu nào sau đây làkhông đúng?",
+        "answer": [
+            {
+                "value": "Tia X vàtia tử ngoại đều cóbản chất làsóng điện từ."
+            },
+            {
+                "value": "Tia X vàtia tử ngoại đều tác dụng mạnh lên kính ảnh."
+            },
+            {
+                "value": "Tia X vàtia tử ngoại đều kích thích một số chất phátquang."
+            },
+            {
+                "value": "Tia X vàtia tử ngoại đều bị lệch khi điqua một điện trường mạnh."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia X vàtia tử ngoại đều bị lệch khi điqua một điện trường mạnh."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 6. Khi nóivề tia hồng ngoại, phátbiểu nào sau đây làsai?",
+        "answer": [
+            {
+                "value": "Tia hồng ngoại cótác dụng diệt khuẩn, khử trùng."
+            },
+            {
+                "value": "Tia hồng ngoại phátra từ các vật bị nung nóng."
+            },
+            {
+                "value": "Tia hồng ngoại làbức xạ điện từ cóbước sóng lớn hơn bước sóng của ánh sáng đỏ ."
+            },
+            {
+                "value": "Tia hồng ngoại cótác dụng nhiệt"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia hồng ngoại cótác dụng diệt khuẩn, khử trùng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 17. Trong các loại tia: tia Rơnghen, tia hồng ngoại, tia tử ngoại, tia đơn sắc màu lục thìtia có tần số nhỏ nhất là",
+        "answer": [
+            {
+                "value": "tia hồng ngoại."
+            },
+            {
+                "value": "tia đơn sắc màu lụtia tử ngoại."
+            },
+            {
+                "value": "tia Rơnghen."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "tia hồng ngoại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 18. Tính chất giống nhau giữa tia Rơnghen vàtia tử ngoại là",
+        "answer": [
+            {
+                "value": "bị hấp thụ bởi thủy tinh vànướ"
+            },
+            {
+                "value": "làm phátquang một số chất."
+            },
+            {
+                "value": "cótính đâm xuyên mạnh."
+            },
+            {
+                "value": "đều tăng tốc trong điện trường mạnh "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "làm phátquang một số chất."
+            }
+        ]
+    },
+    {
+        "question": "Câu 19. Tia hồng ngoại làsóng điện từ cóbước sóng",
+        "answer": [
+            {
+                "value": "---[HÌNH ẢNH]--- < 0,4 ---[HÌNH ẢNH]---m"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "0,4 ---[HÌNH ẢNH]---m < ---[HÌNH ẢNH]--- < 0,75 ---[HÌNH ẢNH]---m",
+        "answer": [
+            {
+                "value": "---[HÌNH ẢNH]--- > 0,75 ---[HÌNH ẢNH]---m"
+            },
+            {
+                "value": "---[HÌNH ẢNH]--- > 0,4 ---[HÌNH ẢNH]---m "
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 20. Chọn câu đúng.",
+        "answer": [
+            {
+                "value": "Tia X làsóng điện từ cóbước sóng nhỏ hơn bước sóng của tia tử ngoại."
+            },
+            {
+                "value": "Tia X cóthể được phátra từ các đèn điện."
+            },
+            {
+                "value": "Tia X do các vật bị nung nóng ở nhiệt độ cao phátr"
+            },
+            {
+                "value": "Tia X cóthể xuyên qua tất cả mọi vật ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia X làsóng điện từ cóbước sóng nhỏ hơn bước sóng của tia tử ngoại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 21. Bức xạ cóbước sóng trong khoảng từ 1 0 –1 1m đến 1 0 –8 m thuộc loại nào trong các loại sóng dưới đây?",
+        "answer": [
+            {
+                "value": "Tia X."
+            },
+            {
+                "value": "Ánh sáng nhìnthấy. "
+            },
+            {
+                "value": "C. Tia hồng ngoại."
+            },
+            {
+                "value": "Tia tử ngoại. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia X."
+            }
+        ]
+    },
+    {
+        "question": "Câu 22. Tia tử ngoại không cótác dụng nào sau đây?",
+        "answer": [
+            {
+                "value": "Quang điện."
+            },
+            {
+                "value": "Chiếu sáng."
+            },
+            {
+                "value": "Kích thích sự phátquang."
+            },
+            {
+                "value": "Sinh lí. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Chiếu sáng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 23. Điều nào sau đây làsai khi so sánh tia hồng ngoại với tia tử ngoại?",
+        "answer": [
+            {
+                "value": "Cùng bản chất làsóng điện từ"
+            },
+            {
+                "value": "Tia hồng ngoại của bước sóng nhỏ hơi tia tử ngoại"
+            },
+            {
+                "value": "Tia hồng ngoại vàtia tử ngoại đều tác dụng lên kính ảnh"
+            },
+            {
+                "value": "Tia hồng ngoại vàtia tử ngoại đều không nhìnthấy bằng mắt thường "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia hồng ngoại của bước sóng nhỏ hơi tia tử ngoại"
+            }
+        ]
+    },
+    {
+        "question": "Câu 24. Phátbiểu nào sau đây làđúng?",
+        "answer": [
+            {
+                "value": "Tia hồng ngoại làl àmột bức xạ đơn sắc cómàu hồng."
+            },
+            {
+                "value": "Tia hồng ngoại làsóng điện từ cóbước sóng nhỏ hơn 0,4 ---[HÌNH ẢNH]---m."
+            },
+            {
+                "value": "Tia hồng ngoại do các vật cónhiệt độ cao hơn nhiệt độ môi trường xung quanh phátr"
+            },
+            {
+                "value": "Tia hồng ngoại bị lệch trong điện trường vàtừ trường. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia hồng ngoại do các vật cónhiệt độ cao hơn nhiệt độ môi trường xung quanh phátr"
+            }
+        ]
+    },
+    {
+        "question": "Câu 25.",
+        "answer": [
+            {
+                "value": "Phátbiểu nào sau đây làkhông đúng?"
+            },
+            {
+                "value": "Tia tử ngoại cótác dụng sinh lý ."
+            },
+            {
+                "value": "Tia tử ngoại cóthể kích thích cho một số chất phátquang."
+            },
+            {
+                "value": "Tia tử ngoại cótác dụng mạnh lên kính ảnh."
+            },
+            {
+                "value": "Tia tử ngoại cókhông khả năng đâm xuyên."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia tử ngoại cókhông khả năng đâm xuyên."
+            }
+        ]
+    },
+    {
+        "question": "Câu 26.Phátbiểu nào sau đây làđúng?",
+        "answer": [
+            {
+                "value": "Tia hồng ngoại cótần số cao hơn tần số của tia sáng vàng."
+            },
+            {
+                "value": "Tia tử ngoại cóbước sóng lớn hơn bước sóng của tia sáng đỏ ."
+            },
+            {
+                "value": "Bức xạ tử ngoại cótần số cao hơn tần số của bức xạ hồng ngoại."
+            },
+            {
+                "value": "Bức xạ tử ngoại cóchu kỳ lớn hơn chu kỳ của bức xạ hồng ngoại. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Bức xạ tử ngoại cótần số cao hơn tần số của bức xạ hồng ngoại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 27. Tính chất nào sau đây không phải làđặc điểm của tia X?",
+        "answer": [
+            {
+                "value": "Huỷ tế bào."
+            },
+            {
+                "value": "Gây ra hiện tượng quang điện."
+            },
+            {
+                "value": "làm ion hoákhông khí."
+            },
+            {
+                "value": "Xuyên qua tấm chìd ày hàng cm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Xuyên qua tấm chìd ày hàng cm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 28. Bức xạ cóbước sóng trong khoảng từ 1 0 - 9 m đến 4.1 0 - 7 m thuộc loại nào trong các loại sóng dưới đây?",
+        "answer": [
+            {
+                "value": "Tia X"
+            },
+            {
+                "value": "Ánh sáng nhìnthấy"
+            },
+            {
+                "value": "Tia hồng ngoại"
+            },
+            {
+                "value": "Tia tử ngoại. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia tử ngoại. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 29. Phátbiểu nào sau đây làkhông đúng?",
+        "answer": [
+            {
+                "value": "Tia X vàtia tử ngoại đều cóbản chất làsóng điện từ."
+            },
+            {
+                "value": "Tia X vàtia tử ngoại đều tác dụng mạnh lên kính ảnh."
+            },
+            {
+                "value": "Tia X vàtia tử ngoại đều kích thích một số chất phátquang."
+            },
+            {
+                "value": "Tia X vàtia tử ngoại đều bị lệch khi điqua một điện trường mạnh."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia X vàtia tử ngoại đều bị lệch khi điqua một điện trường mạnh."
+            }
+        ]
+    },
+    {
+        "question": "Câu 30. Chọn đáp án đúng về tia hồng ngoại. ",
+        "answer": [
+            {
+                "value": "Bị lệch trong điện trường vàtrong từ trường"
+            },
+            {
+                "value": "Các vật cónhiệt độ lớn hơn 0 K đềuO phát ra tia hồng ngoại"
+            },
+            {
+                "value": "Chỉ các vật cónhiệt độ cao hơn 37 C phát ra tia hồngo ngoại"
+            },
+            {
+                "value": "Tia hồng ngoại không cócác tính chất giao thoa, nhiễu xạ, phản xạ"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Các vật cónhiệt độ lớn hơn 0 K đềuO phát ra tia hồng ngoại"
+            }
+        ]
+    },
+    {
+        "question": "Câu 31 . Tia hồng ngoại vàtia Rơnghen đều cóbản chất làsóng điện từ, cóbước sóng dàingắn khác nhau nên",
+        "answer": [
+            {
+                "value": "chúng bị lệch khác nhau trong từ trường đều."
+            },
+            {
+                "value": "cókhả năng đâm xuyên khác nhau."
+            },
+            {
+                "value": "chúng bị lệch khác nhau trong điện trường đều."
+            },
+            {
+                "value": "chúng đều được sử dụng trong y tế để chụp X-quang (chụp điện) . "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "cókhả năng đâm xuyên khác nhau."
+            }
+        ]
+    },
+    {
+        "question": "Câu 32. Trong các phátbiểu sau đây, phátbiểu nào làsai?",
+        "answer": [
+            {
+                "value": "Ánh sáng trắng làtổng hợp (hỗn hợp) của nhiều ánh sáng đơn sắc cómàu biến thiên liên tục từ đỏ tới tím."
+            },
+            {
+                "value": "Ánh sáng đơn sắc làánh sáng không bị tán sắc khi điqua lăng kính."
+            },
+            {
+                "value": "Hiện tượng chùm sáng trắng, khi điqua một lăng kính, bị tách ra thành nhiều chùm sáng cómàu sắc khác nhau làhiện tượng tán sắc ánh sáng."
+            },
+            {
+                "value": "Ánh sáng do Mặt Trời phátra làánh sáng đơn sắc vìn ócómàu trắng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Ánh sáng do Mặt Trời phátra làánh sáng đơn sắc vìn ócómàu trắng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 33. Trong thínghiệm Iâng (Y-âng) về giao thoa ánh sáng, hai khe hẹp cách nhau một khoảng a = 0, 5 mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sátlàD = 1 , 5 m. Hai khe được chiếu bằng bức xạ cóbước sóng λ= 0,6 μm. Trên màn thu được hình ảnh giao thoa. Tại điểm M trên màn cách vân sáng trung tâm (chính giữa) một khoảng 5,4 mm cóvân sáng bậc (thứ)",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 34. Một dải sóng điện từ trong chân không cótần số từ 4,0.1 01 4 Hz đến 7, 5.1 014 Hz. Biết vận tốc ánh sáng trong chân không c = 3.1 08 m/s. Dải sóng trên thuộc vùng nào trong thang sóng điện từ?",
+        "answer": [
+            {
+                "value": "Vùng tia Rơnghen."
+            },
+            {
+                "value": "Vùng tia tử ngoại."
+            },
+            {
+                "value": "Vùng ánh sáng nhìnthấy."
+            },
+            {
+                "value": "Vùng tia hồng ngoại. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Vùng ánh sáng nhìnthấy."
+            }
+        ]
+    },
+    {
+        "question": "Câu 35. Bước sóng của một trong các bức xạ màu lục cótrị số là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 55 nm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 55 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 55 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "55 nm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 36. Các bức xạ cóbước sóng trong khoảng từ 3.1 0-9 m đến 3.1 0-7 m là",
+        "answer": [
+            {
+                "value": "tia tử ngoại."
+            },
+            {
+                "value": "ánh sáng nhìnthấy."
+            },
+            {
+                "value": "tia hồng ngoại."
+            },
+            {
+                "value": "tia Rơnghen."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "tia tử ngoại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 37. Trong thínghiệm Y-âng về giao thoa của ánh sáng đơn sắc, hai khe hẹp cách nhau 1 mm, mặt phẳng chứa hai khe cách màn quan sát 1 , 5 m. Khoảng cách giữa 5 vân sáng liên tiếp là3,6 mm. Bước sóng của ánh sáng dùng trong thínghiệm này bằng",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,48 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,40 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,60 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,76 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 38. Từ không khíngười ta chiếu xiên tới mặt nước nằm ngang một chùm tia sáng hẹp song song gồm hai ánh sáng đơn sắc: màu vàng, màu chàm. Khi đóchùm tia khúc xạ",
+        "answer": [
+            {
+                "value": "gồm hai chùm tia sáng hẹp là"
+            },
+            {
+                "value": "chùm màu vàng vàchùm màu chàm, trong đógóc khúc xạ của chùm màu vàng nhỏ hơn góc khúc xạ của chùm màu chàm."
+            },
+            {
+                "value": "vẫn chỉ làmột chùm tia sáng hẹp song song."
+            },
+            {
+                "value": "gồm hai chùm tia sáng hẹp làchùm màu vàng vàchùm màu chàm, trong đógóc khúc xạ của chùm màu vàng lớn hơn góc khúc xạ của chùm màu chàm."
+            },
+            {
+                "value": "chỉ làchùm tia màu vàng còn chùm tia màu chàm bị phản xạ toàn phần. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "gồm hai chùm tia sáng hẹp làchùm màu vàng vàchùm màu chàm, trong đógóc khúc xạ của chùm màu vàng lớn hơn góc khúc xạ của chùm màu chàm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 39. Trong một thínghiệm Y-âng về giao thoa ánh sáng với ánh sáng đơn sắc cóbước sóng λ1 = 540 nm thìthu được hệ vân giao thoa trên màn quan sát cókhoảng vân i1 = 0,36 mm. Khi thay ánh sáng trên bằng ánh sáng đơn sắc cóbước sóng λ2 = 600 nm thìthu được hệ vân giao thoa trên màn quan sát cókhoảng vân",
+        "answer": [
+            {
+                "value": "i2 = 0,60 mm."
+            },
+            {
+                "value": "i2 = 0,40 mm."
+            },
+            {
+                "value": "i2 = 0, 50 mm."
+            },
+            {
+                "value": "i2 = 0,45 mm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "i2 = 0,40 mm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 40. Trong thínghiệm Iâng (Y-âng) về giao thoa ánh sáng với ánh sáng đơn sắc. Biết khoảng cách giữa hai khe hẹp là1 ,2 mm vàkhoảng cách từ mặt phẳng chứa hai khe hẹp đến màn quan sát là0,9 m. Quan sát được hệ vân giao thoa trên màn với khoảng cách giữa 9 vân sáng liên tiếp là3,6 mm. Bước sóng của ánh sáng dùng trong thínghiệm là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 50.1 0-6 m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 55.1 0-6 m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,45.1 0-6 m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,60.1 0-6 m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 41 . Khi nóivề tia tử ngoại, phátbiểu nào dưới đây làsai?",
+        "answer": [
+            {
+                "value": "Tia tử ngoại cótác dụng mạnh lên kính ảnh."
+            },
+            {
+                "value": "Tia tử ngoại cóbản chất làsóng điện từ."
+            },
+            {
+                "value": "Tia tử ngoại cóbước sóng lớn hơn bước sóng của ánh sáng tím."
+            },
+            {
+                "value": "Tia tử ngoại bị thuỷ tinh hấp thụ mạnh vàl àm ion hoákhông khí."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia tử ngoại cóbước sóng lớn hơn bước sóng của ánh sáng tím."
+            }
+        ]
+    },
+    {
+        "question": "Câu 42. Trong thínghiệm giao thoa ánh sáng với khe Iâng (Y-âng), khoảng cách giữa hai khe là2mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là1 ,2m. Chiếu sáng hai khe bằng ánh sáng hỗn hợp gồm hai ánh sáng đơn sắc cóbước sóng 500 nm và660 nm thìthu được hệ vân giao thoa trên màn. Biết vân sáng chính giữa (trung tâm) ứng với hai bức xạ trên trùng nhau. Khoảng cách từ vân chính giữa đến vân gần nhất cùng màu với vân chính giữa là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4,9 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 9,8 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "9,9 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "29,7 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 43. Tia Rơnghen có",
+        "answer": [
+            {
+                "value": "cùng bản chất với sóng âm."
+            },
+            {
+                "value": "bước sóng lớn hơn bước sóng của tia hồng ngoại."
+            },
+            {
+                "value": "cùng bản chất với sóng vô tuyến."
+            },
+            {
+                "value": "điện tích âm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "cùng bản chất với sóng vô tuyến."
+            }
+        ]
+    },
+    {
+        "question": "Câu 44. Phátbiểu nào sau đây làsai khi nóivề ánh sáng đơn sắc? ",
+        "answer": [
+            {
+                "value": "Chiết suất của một môi trường trong suốt đối với ánh sáng đỏ lớn hơn chiết suất của môi trường đóđối với ánh sáng tím."
+            },
+            {
+                "value": "Ánh sáng đơn sắc làánh sáng không bị tán sắc khi điqua lăng kính."
+            },
+            {
+                "value": "Trong cùng một môi trường truyền, vận tốc ánh sáng tím nhỏ hơn vận tốc ánh sáng đỏ ."
+            },
+            {
+                "value": "Trong chân không, các ánh sáng đơn sắc khác nhau truyền đi với cùng vận tố"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Chiết suất của một môi trường trong suốt đối với ánh sáng đỏ lớn hơn chiết suất của môi trường đóđối với ánh sáng tím."
+            }
+        ]
+    },
+    {
+        "question": "Câu 45. Trong thínghiệm Y-âng về giao thoa với ánh sáng đơn sắc, khoảng cách giữa hai khe là1 mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là2m vàkhoảng vân là0,8 mm. Cho c = 3.1 08 m/s. Tần số ánh sáng đơn sắc dùng trong thínghiệm là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "5, 5.1 01 4 Hz.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4, 5. 1 01 4 Hz.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "7, 5.1 01 4 Hz.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6, 5. 1 01 4 Hz.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 46. Trong thínghiệm Y-âng về giao thoa ánh sáng, khoảng cách giữa hai khe là0, 5 mm, khoảng cách từ mặt phẳng chứa hai khe đến màn là2 m. Ánh sáng đơn sắc dùng trong thínghiệm cóbước sóng 0, 5 ---[HÌNH ẢNH]---m. Vùng giao thoa trên màn rộng 26 mm (vân trung tâm ở chính giữa) . Số vân sáng là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 5.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 7.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 3.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 1 .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 47. Trong thínghiệm Y-âng về giao thoa ánh sáng, nguồn sáng gồm các bức xạ cóbước sóng",
+        "answer": [
+            {
+                "value": "lần lượt là---[HÌNH ẢNH]--- 1 = 750 nm, ---[HÌNH ẢNH]--- 2 = 675 nm và---[HÌNH ẢNH]--- 3 = 600 nm. Tại điểm M trong vùng giao thỏa trên màn mà hiệu khoảng cách đến hai khe bằng 1 , 5 ---[HÌNH ẢNH]---m cóvân sáng của bức xạ"
+            },
+            {
+                "value": "---[HÌNH ẢNH]--- 2 và---[HÌNH ẢNH]--- 3 ."
+            },
+            {
+                "value": "---[HÌNH ẢNH]--- 3 ."
+            },
+            {
+                "value": "---[HÌNH ẢNH]--- 1 ."
+            },
+            {
+                "value": "---[HÌNH ẢNH]--- 2."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "---[HÌNH ẢNH]--- 1 ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 48. Trong thínghiệm Y-âng về giao thoa với nguồn sáng đơn sắc, hệ vân trên màn cókhoảng vân i. Nếu khoảng cách giữa hai khe còn một nửa vàkhoảng cách từ hai khe đến màn gấp đôi so với ban đầu thìkhoảng vân giao thoa trên màn",
+        "answer": [
+            {
+                "value": "giảm đibốn lần."
+            },
+            {
+                "value": "không đổi."
+            },
+            {
+                "value": "tăng lên hai lần."
+            },
+            {
+                "value": "tăng lên bốn lần."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "tăng lên bốn lần."
+            }
+        ]
+    },
+    {
+        "question": "Câu 49. Trong thínghiệm Y-âng về giao thoa với ánh sáng đơn sắc, khoảng cách giữa hai khe là 1 mm, khoảng cách từ mặt phẳng chứa hai khe đến màn là2m. Trong hệ vân trên màn, vân sáng bậc 3 cách vân trung tâm 2,4 mm. Bước sóng của ánh sáng đơn sắc dùng trong thínghiệm là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 5 ---[HÌNH ẢNH]---m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,7 ---[HÌNH ẢNH]---m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,4 ---[HÌNH ẢNH]---m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,6 ---[HÌNH ẢNH]---m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 50. Phátbiểu nào sau đây làđúng?",
+        "answer": [
+            {
+                "value": "Ánh sáng đơn sắc làánh sáng bị tán sắc khi điqua lăng kính."
+            },
+            {
+                "value": "Ánh sáng trắng làhỗn hợp của vô số ánh sáng đơn sắc cómàu biến thiên liên tục từ đỏ đến tím."
+            },
+            {
+                "value": "Chỉ cóánh sáng trắng mới bị tán sắc khi truyền qua lăng kính."
+            },
+            {
+                "value": "Tổng hợp các ánh sáng đơn sắc sẽ luôn được ánh sáng trắng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Ánh sáng trắng làhỗn hợp của vô số ánh sáng đơn sắc cómàu biến thiên liên tục từ đỏ đến tím."
+            }
+        ]
+    },
+    {
+        "question": "Câu 51 . Chiếu xiên một chùm sáng hẹp gồm hai ánh sáng đơn sắc làvàng vàlam từ không khítới mặt nước thì",
+        "answer": [
+            {
+                "value": "chùm sáng bị phản xạ toàn phần."
+            },
+            {
+                "value": "so với phương tia tới, tia khúc xạ vàng bị lệch íthơn tia khúc xạ lam."
+            },
+            {
+                "value": "tia khúc xạ chỉ làánh sáng vàng, còn tia sáng lam bị phản xạ toàn phần."
+            },
+            {
+                "value": "so với phương tia tới, tia khúc xạ lam bị lệch íthơn tia khúc xạ vàng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "so với phương tia tới, tia khúc xạ vàng bị lệch íthơn tia khúc xạ lam."
+            }
+        ]
+    },
+    {
+        "question": "Câu 52. Trong chân không, các bức xạ được sắp xếp theo thứ tự bước sóng giảm dần là",
+        "answer": [
+            {
+                "value": "tia hồng ngoại, ánh sáng tím, tia tử ngoại, tia Rơn-ghen."
+            },
+            {
+                "value": "tia hồng ngoại, ánh sáng tím, tia Rơn-ghen, tia tử ngoại."
+            },
+            {
+                "value": "ánh sáng tím, tia hồng ngoại, tia tử ngoại, tia Rơn-ghen."
+            },
+            {
+                "value": "tia Rơn-ghen, tia tử ngoại, ánh sáng tím, tia hồng ngoại."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "tia hồng ngoại, ánh sáng tím, tia tử ngoại, tia Rơn-ghen."
+            }
+        ]
+    },
+    {
+        "question": "Câu 53. Trong thínghiệm Y-âng về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng trắng có bước sóng từ 0,38 ---[HÌNH ẢNH]---m đến 0,76---[HÌNH ẢNH]---m. Tại vị trív ân sáng bậc 4 của ánh sáng đơn sắc cóbước sóng 0,76 ---[HÌNH ẢNH]---m còn cóbao nhi êu vân sáng nữa của các ánh sáng đơn sắc khác?",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "8.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "7.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 54. Trong thínghiệm Y-âng về giao thoa ánh sáng, khoảng cách giữa hai khe là0, 5 mm, khoảng cách từ hai khe đến màn quan sát là2m. Nguồn sáng dùng trong thínghiệm gồm hai bức xạ có bước sóng ---[HÌNH ẢNH]--- 1 = 450 nm và---[HÌNH ẢNH]--- 2 = 600 nm. Trên màn quan sát, gọi M, N làhai điểm ở cùng một phíaso với vân trung tâm vàcách vân trung tâm lần lượt là5, 5 mm và22 mm. Trên đoạn MN, số vị trív ân sáng trùng nhau của hai bức xạ là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "5.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 55. Khi nóivề tia hồng ngoại, phátbiểu nào sau đây làsai?",
+        "answer": [
+            {
+                "value": "Tia hồng ngoại cóbản chất làsóng điện từ."
+            },
+            {
+                "value": "Các vật ở nhiệt độ trên 2000 C chỉ phát ra tia hồng0 ngoại."
+            },
+            {
+                "value": "Tia hồng ngoại cótần số nhỏ hơn tần số của ánh sáng tím."
+            },
+            {
+                "value": "Tác dụng nổi bật của tia hồng ngoại làtác dụng nhiệt ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Các vật ở nhiệt độ trên 2000 C chỉ phát ra tia hồng0 ngoại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 56. Trong thínghiệm Y-âng về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng đơn sắc có bước sóng 0,6 μm. Khoảng cách giữa hai khe là1 mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sátlà2,5 m, bề rộng miền giao thoa là1 ,25 cm. Tổng số vân sáng vàvân tối cótrong miền giao thoa là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "21 vân.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "15 vân.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "17 vân.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "19 vân.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 57. Tia tử ngoại được dùng",
+        "answer": [
+            {
+                "value": "để tìm vết nứt trên bề mặt sản phẩm bằng kim loại."
+            },
+            {
+                "value": "trong y tế để chụp điện, chiếu điện."
+            },
+            {
+                "value": "để chụp ảnh bề mặt Trái Đất từ vệ tinh."
+            },
+            {
+                "value": "để tìm khuyết tật bên trong sản phẩm bằng"
+            },
+            {
+                "value": "kim loại."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "để tìm vết nứt trên bề mặt sản phẩm bằng kim loại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 58. Trong thínghiệm Y-âng về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng trắng có bước sóng từ 380 nm đến 760 nm. Khoảng cách giữa hai khe là0,8 mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sátlà2 m. Trên màn, tại vị trícách vân trung tâm 3 mm cóvân sáng của các bức xạ với bước sóng",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,48 μm và0,56 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,40 μm và0,60 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,45 μm và0,60 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,40 μm và0,64 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 59. Trong thínghiệm Y-âng về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng đơn sắc",
+        "answer": [
+            {
+                "value": "cóbước sóng λ. Nếu tại điểm M trên màn quan sátcóvân tối thứ ba (tính từ vân sáng trung tâm) thì hiệu đường đi của ánh sáng từ hai khe S1 , S2 đến M cóđộ lớn bằng"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "2λ.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 ,5λ.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3λ.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2,5λ.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 60. Trong thínghiệm Y-âng về giao thoa ánh sáng, các khe hẹp được chiếu sáng bởi ánh sáng đơn sắc. Khoảng vân trên màn là1 ,2mm. Trong khoảng giữa hai điểm M vàN trên màn ở cùng một phíaso với vân sáng trung tâm, cách vân trung tâm lần lượt 2 mm và4, 5 mm, quan sát được",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2 vân sáng và2 vân tối.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3 vân sáng và2 vân tối.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2 vân sáng và3 vân tối.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2 vân sáng và1 vân tối.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 61 . Khi nóivề tia hồng ngoại, phátbiểu nào dưới đây làsai?",
+        "answer": [
+            {
+                "value": "Tia hồng ngoại cũng cóthể biến điệu được như sóng điện từ cao tần."
+            },
+            {
+                "value": "Tia hồng ngoại cókhả năng gây ra một số phản ứng hóa họ"
+            },
+            {
+                "value": "Tia hồng ngoại cótần số lớn hơn tần số của ánh sáng đỏ ."
+            },
+            {
+                "value": "Tác dụng nổi bật nhất của tia hồng ngoại làtác dụng nhiệt."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tia hồng ngoại cótần số lớn hơn tần số của ánh sáng đỏ ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 62. Trong các loại tia: Rơn-ghen, hồng ngoại, tự ngoại, đơn sắc màu lục; tia cótần số nhỏ nhất là",
+        "answer": [
+            {
+                "value": "tia tử ngoại."
+            },
+            {
+                "value": "tia hồng ngoại."
+            },
+            {
+                "value": "tia đơn sắc màu lụ"
+            },
+            {
+                "value": "tia Rơn-ghen."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "tia hồng ngoại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 63. Trong thínghiệm I- âng về giao thoa ánh sáng, hai khe được chiếu sáng đồng thời bởi hai bức xạ đơn sắc cóbước sóng lần lượt là---[HÌNH ẢNH]--- và---[HÌNH ẢNH]--- . Trên màn quan sát cóvân sáng bậc 1 2 của ---[HÌNH ẢNH]---",
+        "answer": [
+            {
+                "value": "trùng với vân sáng bậc 1 0 của ---[HÌNH ẢNH]--- . Tỉ số ---[HÌNH ẢNH]--- bằng"
+            },
+            {
+                "value": "---[HÌNH ẢNH]--- ."
+            },
+            {
+                "value": "---[HÌNH ẢNH]---"
+            },
+            {
+                "value": "---[HÌNH ẢNH]---"
+            },
+            {
+                "value": "---[HÌNH ẢNH]---"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 64. Trong các nguồn bức xạ đang hoạt động: hồ quang điện, màn hình máy vô tuyến, lòsưởi điện, lòvi sóng; nguồn phát ra tia tử ngoại mạnh nhất là",
+        "answer": [
+            {
+                "value": "màn hình máy vô tuyến."
+            },
+            {
+                "value": "lòvi sóng."
+            },
+            {
+                "value": "lòsưởi điện."
+            },
+            {
+                "value": "hồ quang điện."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "hồ quang điện."
+            }
+        ]
+    },
+    {
+        "question": "Câu 65. Trong thínghiệm Y-âng về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng đơn sắc, khoảng cách giữa hai khe là0,6 mm. Khoảng vân trên màn quan sátđo được là1 mm. Từ vị tríban đầu, nếu tịnh tiến màn quan sátmột đoạn 25 cm lại gần mặt phẳng chứa hai khe thìkhoảng vân mới trên màn là0,8 mm. Bước sóng của ánh sáng dùng thínghiệm là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 50 ---[HÌNH ẢNH]--- .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,48 ---[HÌNH ẢNH]--- .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,64 ---[HÌNH ẢNH]--- .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,45 ---[HÌNH ẢNH]--- . ",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 66. Khi nóivề tia Rơn-ghen vàtia tử ngoại, phátbiểu nào sau đây sai?",
+        "answer": [
+            {
+                "value": "Tia Rơn-ghen vàtia tử ngoại đều cócùng bản chất làsóng điện từ."
+            },
+            {
+                "value": "Tần số của tia Rơn-ghen nhỏ hơn tần số của tia tử ngoại."
+            },
+            {
+                "value": "Tần số của tia Rơn-ghen lớn hơn tần số của tia tử ngoại."
+            },
+            {
+                "value": "Tia Rơn-ghen vàtia tử ngoại đều cókhả năng gây phátquang một số chất."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tần số của tia Rơn-ghen nhỏ hơn tần số của tia tử ngoại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 67. Một ánh sáng đơn sắc màu cam cótần số f được truyền từ chân không vào một chất lỏng cóchiết suất là1 , 5 đối với ánh sáng này. Trong chất lỏng trên, ánh sáng này có",
+        "answer": [
+            {
+                "value": "màu tím vàtần số f."
+            },
+            {
+                "value": "màu cam vàtần số 1 , 5f."
+            },
+            {
+                "value": "màu cam vàtần số f."
+            },
+            {
+                "value": "màu tím vàtần số 1 , 5f."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "màu cam vàtần số f."
+            }
+        ]
+    },
+    {
+        "question": "Câu 68. Trong thínghiệm Y-âng về giao thoa ánh sáng, nguồn sáng phát đồng thời hai ánh sáng đơn sắc ---[HÌNH ẢNH]--- 1 , ---[HÌNH ẢNH]--- 2 cóbước sóng lần lượt là0,48 ---[HÌNH ẢNH]---m và0,60 ---[HÌNH ẢNH]---m. Trên màn quan sát, trong khoảng giữa hai vân sáng gần nhau nhất vàcùng màu với vân sáng trung tâm có",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4 vân sáng ---[HÌNH ẢNH]--- 1 và3 vân sáng ---[HÌNH ẢNH]--- ¬2.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "5 vân sáng ---[HÌNH ẢNH]--- 1 và4vân sáng ---[HÌNH ẢNH]--- ¬2.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4 vân sáng ---[HÌNH ẢNH]--- 1 và5vân sáng ---[HÌNH ẢNH]--- ¬2.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3 vân sáng ---[HÌNH ẢNH]--- 1 và4vân sáng ---[HÌNH ẢNH]--- ¬2.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 69. Trong thínghiệm Y-âng về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng đơn sắc cóbước sống 0,6---[HÌNH ẢNH]---m. Khoảng cách giữa hai khe sáng là1 mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sátlà1 , 5m. Trên màn quan sát, hai vân tối liên tiếp cách nhau một đoạn là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,45 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,6 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,9 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 ,8 mm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 70. Trong thínghiệm Y-âng về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng đơn sắc. Khoảng vân giao thoa trên màn quan sát lài. Khoảng cách giữa hai vân sáng bậc 3 nằm ở hai bên vân sáng trung tâm là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "5i.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3i.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4i.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6i.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 71 . Khi nóivề ánh sáng, phátbiểu nào sau đây sai?",
+        "answer": [
+            {
+                "value": "Ánh sáng trắng làhỗn hợp của nhiều ánh sáng đơn sắc cómàu biến thiên liên tục từ đỏ đến tím."
+            },
+            {
+                "value": "Ánh sáng đơn sắc không bị tán sắc khi điqua lăng kính."
+            },
+            {
+                "value": "Chiết suất của chất làm lăng kính đối với các ánh sáng đơn sắc khác nhau đều bằng nhau."
+            },
+            {
+                "value": "Chiết suất của chất làm lăng kính đối với các ánh sáng đơn sắc khác nhau thìkhác nhau."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Chiết suất của chất làm lăng kính đối với các ánh sáng đơn sắc khác nhau đều bằng nhau."
+            }
+        ]
+    },
+    {
+        "question": "Câu 72. Bức xạ cótần số nhỏ nhất trong số các bức xạ hồng ngoại, tử ngoại, Rơn-ghen, gamma là",
+        "answer": [
+            {
+                "value": "gamma"
+            },
+            {
+                "value": "B. hồng ngoại."
+            },
+            {
+                "value": "Rơn-ghen."
+            },
+            {
+                "value": "tử ngoại."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. hồng ngoại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 73. Trong một thínghiệm Y-âng về giao thoa ánh sáng, bước sóng ánh sáng đơn sắc là600 nm, khoảng cách giữa hai khe hẹp là1 mm. Khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là2 m. Khoảng vân quan sát được trên màn cógiátrị bằng",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 ,2 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 , 5 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,9 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,3 mm",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 74. Trong thínghiệm Y-âng về giao thoa ánh sáng, nếu thay ánh sáng đơn sắc màu lam bằng ánh sáng đơn sắc màu vàng vàgiữ nguyên các điều kiện khác thìtrên màn quan sát",
+        "answer": [
+            {
+                "value": "khoảng vân không thay đổi"
+            },
+            {
+                "value": "khoảng vân tăng lên"
+            },
+            {
+                "value": "vị trívân trung tâm thay đổi"
+            },
+            {
+                "value": "khoảng vân giảm xuống."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "khoảng vân tăng lên"
+            }
+        ]
+    },
+    {
+        "question": "Câu 75. Thực hiện thínghiệm Y-âng về giao thoa với ánh sáng đơn sắc cóbước sóng ---[HÌNH ẢNH]--- . Khoảng cách giữa hai khe hẹp là1 mm. Trên màn quan sát, tại điểm M cách vân trung tâm 4,2mm cóvân sáng bậc 5. Giữ cố định các điều kiện khác, di chuyển dần màn quan sát dọc theo đường thẳng vuông góc với mặt phẳng chứa hai khe ra xa cho đến khi vân giao thoa tại M chuyển thành vân tối lần thứ hai thìkhoảng dịch màn là0,6 m. Bước sóng ---[HÌNH ẢNH]--- bằng",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,6---[HÌNH ẢNH]---",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 5---[HÌNH ẢNH]---",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,4---[HÌNH ẢNH]---",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,7---[HÌNH ẢNH]---",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 76. Phátbiểu nào sau đây đúng?",
+        "answer": [
+            {
+                "value": "Ánh sáng đơn sắc làánh sáng bị tán sắc khi truyền qua lăng kính."
+            },
+            {
+                "value": "Ánh sáng trắng làhổn hợp của nhiều ánh sáng đơn sắc cómàu biến thiên liên tục từ đỏ đến tím."
+            },
+            {
+                "value": "Tổng hợp các ánh sáng đơn sắc sẽ luôn được ánh sáng trắng."
+            },
+            {
+                "value": "Chỉ cóánh sáng trắng mới bị tán sắc khi truyền qua lăng kính."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Ánh sáng trắng làhổn hợp của nhiều ánh sáng đơn sắc cómàu biến thiên liên tục từ đỏ đến tím."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 . Hiện tượng quang điện được giải thích bằng thuyết",
+        "answer": [
+            {
+                "value": "electron cổ điển."
+            },
+            {
+                "value": "lượng tử ánh sáng."
+            },
+            {
+                "value": "động học phân tử."
+            },
+            {
+                "value": "điện từ về ánh sáng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "lượng tử ánh sáng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Trạng tháidừng của nguyên tử là",
+        "answer": [
+            {
+                "value": "trạng thái đứng yên của nguyên tử."
+            },
+            {
+                "value": "trạng tháichuyển động đều của nguyên tử."
+            },
+            {
+                "value": "trạng tháitrong đómọi electron của nguyên tử đều không chuyển động đối với hạt nhân."
+            },
+            {
+                "value": "một trong số các trạng tháicónăng lượng xác định, mànguyên tử cóthể tồn tại."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "một trong số các trạng tháicónăng lượng xác định, mànguyên tử cóthể tồn tại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Nguyên tắc hoạt động của pin quang điện dựa vào hiện tượng",
+        "answer": [
+            {
+                "value": "chất bán dẫn phátquang do được nung nóng"
+            },
+            {
+                "value": "quang –phátquang."
+            },
+            {
+                "value": "quang điện ngoài."
+            },
+            {
+                "value": "quang điện trong."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "quang điện trong."
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. K---[HÌNH ẢNH]---t luận nào là sai đối với pin quang điện?",
+        "answer": [
+            {
+                "value": "Nguyên t ắc hoạt động d ựa vào hiện tượng quang điện trong."
+            },
+            {
+                "value": "Nguyênt ắc hoạt động d ựa vào hiện tượng quang điện ngoài."
+            },
+            {
+                "value": "Trong pin, quang năng bi---[HÌNH ẢNH]---n đổi trực ti---[HÌNH ẢNH]---p thành điện năng."
+            },
+            {
+                "value": "Được cấu tạo từ chất bán d ẫn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Nguyênt ắc hoạt động d ựa vào hiện tượng quang điện ngoài."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Nhận xét nào sau đây làđúng về thuyết lượng tử ánh sáng?",
+        "answer": [
+            {
+                "value": "Ánh sáng được cấu tạo bỡi chùm các hạt gọi làphôtôn, phôtôn cónăng lượng xác định bởi ε= ---[HÌNH ẢNH]--- trong đóh làhằng số plăng, c làtốc độ ánh sáng trong chân không, λl àbước sóng ánh sáng."
+            },
+            {
+                "value": "Trong mọi môi trường trong suốt phôtôn luôn chuyển động với tốc độ bằng tốc độ của ánh sáng trong chân không."
+            },
+            {
+                "value": "Năng lượng của phôtôn càng lớn thìtần số ánh sáng càng nhỏ"
+            },
+            {
+                "value": "Nguyên tử kim loại kiềm vàkiềm thổ cókhả năng hấp thụ trọn vẹn năng lượng của mọi phôtôn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Ánh sáng được cấu tạo bỡi chùm các hạt gọi làphôtôn, phôtôn cónăng lượng xác định bởi ε= ---[HÌNH ẢNH]--- trong đóh làhằng số plăng, c làtốc độ ánh sáng trong chân không, λl àbước sóng ánh sáng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Sự phân biệt hai loại quang phátquang làhuỳnh quang vàl ân quang làdựa vào",
+        "answer": [
+            {
+                "value": "thời gian phátquang."
+            },
+            {
+                "value": "màu sắc ánh sáng phátquang."
+            },
+            {
+                "value": "bước sóng ánh sáng kích thích."
+            },
+            {
+                "value": "các ứng dụng hiện tượng phátquang. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "thời gian phátquang."
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Phátbiểu nào sau đây làsai?",
+        "answer": [
+            {
+                "value": "Khi nguyên tử ở trạng tháidừng cónăng lượng thấp chuyển sang trạng tháidừng cónăng lượng cao, nguyên tử sẽ phátra photon."
+            },
+            {
+                "value": "Nguyên tử cónăng lượng xác định khi nguyên tử đóở trạng tháidừng."
+            },
+            {
+                "value": "Trong các trạng tháidừng, nguyên tử không bức xạ hay hấp thụ năng lượng."
+            },
+            {
+                "value": "Ở trạng tháidừng khác nhau năng lượng của nguyên tử cógiátrị khác nhau."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Khi nguyên tử ở trạng tháidừng cónăng lượng thấp chuyển sang trạng tháidừng cónăng lượng cao, nguyên tử sẽ phátra photon."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Theo quan điểm của thuyết lượng tử ánh sáng. Phátbiểu nào sau đây sai?",
+        "answer": [
+            {
+                "value": "Khi ánh sáng truyền đinăng lượng các phôtôn ánh sáng giảm tỉ lệ với khoảng cách đến nguồn."
+            },
+            {
+                "value": "Cường độ chùm sáng tỉ lệ thuận với số phôtôn phátra trong một giây."
+            },
+            {
+                "value": "Chùm ánh sáng làmột dòng hạt, mỗi hạt làmột phôtôn mang năng lượng."
+            },
+            {
+                "value": "Trong chân không các phôtôn cócùng tốc độ ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Khi ánh sáng truyền đinăng lượng các phôtôn ánh sáng giảm tỉ lệ với khoảng cách đến nguồn."
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Một nguyên tử khi phátxạ một phôtôn thì",
+        "answer": [
+            {
+                "value": "phải ở trạng tháicơ bản."
+            },
+            {
+                "value": "phải nhận kích thích nhưng vẫn còn ở trạng tháicơ bản."
+            },
+            {
+                "value": "electron chuyển từ quỹ đạo cómức năng lượng cao xuống quỹ đạo cómức năng lượng thấp hơn."
+            },
+            {
+                "value": "phải cómột động năng lớn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "electron chuyển từ quỹ đạo cómức năng lượng cao xuống quỹ đạo cómức năng lượng thấp hơn."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 0. Sự phát quang của một chất lỏng vàmột chất rắn. Câu nào sau đây đúng?",
+        "answer": [
+            {
+                "value": "Cả hai trường hợp phátquang đều làhuỳnh quang."
+            },
+            {
+                "value": "Cả hai trường hợp phátquang đều làl ân quang."
+            },
+            {
+                "value": "Sự phát quang của chất lỏng làhuỳnh quang, của chất rắn làlân quang."
+            },
+            {
+                "value": "Sự phát quang của chất lỏng làl ân quang, của chất rắn làhuỳnh quang. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Sự phát quang của chất lỏng làhuỳnh quang, của chất rắn làlân quang."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 1 . Laze lànguồn sáng phátra",
+        "answer": [
+            {
+                "value": "chùm sáng đa sắc song song, kết hợp, cường độ lớn."
+            },
+            {
+                "value": "một số bức xạ đơn sắc song song, kết hợp, cường độ lớn."
+            },
+            {
+                "value": "chùm sáng trắng song song, kết hợp, cường độ lớn."
+            },
+            {
+                "value": "chùm sáng đơn sắc song song, kết hợp vàcócường độ lớn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "chùm sáng đơn sắc song song, kết hợp vàcócường độ lớn."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 2. Gọi bước sóng λo làgiới hạn quang điện ngoàicủa một kim loại, λl àbước sóng ánh sáng kích thích chiếu vào kim loại đó, để hiện tượng quang điện ngoàixảy ra thì",
+        "answer": [
+            {
+                "value": "chỉ cần điều kiện λ≤λo."
+            },
+            {
+                "value": "phải cócả hai điều kiện: λ> λo vàcường độ ánh sáng kích thích phải lớn."
+            },
+            {
+                "value": "phải cócả hai điều kiện: λ> λo vàcường độ ánh sáng kích thích phải nhỏ ."
+            },
+            {
+                "value": "chỉ cần điều kiện λ> λo."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "chỉ cần điều kiện λ≤λo."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 3. Hiện tượng quang điện không xảy ra nếu chiếu ánh sáng hồ quang vào một tấm kẽm",
+        "answer": [
+            {
+                "value": "được chắn bởi tấm thủy tinh dày."
+            },
+            {
+                "value": "tích điện âm."
+            },
+            {
+                "value": "tích điện dương với giátrị nhỏ ."
+            },
+            {
+                "value": "không tích điện."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "được chắn bởi tấm thủy tinh dày."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 4. Theo thuyết lượng tử ánh sáng, phátbiểu nào sau đây đúng?",
+        "answer": [
+            {
+                "value": "Phôtôn ứng với ánh sáng đơn sắc cónăng lượng càng lớn nếu ánh đócótần số càng lớn."
+            },
+            {
+                "value": "Năng lượng của phôtôn giảm dần khi phôtôn ra xa dần nguồn sáng."
+            },
+            {
+                "value": "Phôtôn tồn tại trong cả trạng thái đứng yên vàtrạng tháichuyển động."
+            },
+            {
+                "value": "Năng lượng của mọi loại phôtôn đều bằng nhau."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Phôtôn ứng với ánh sáng đơn sắc cónăng lượng càng lớn nếu ánh đócótần số càng lớn."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 5. Sự phát sáng nào sau đây làhiện tượng quang - phát quang?",
+        "answer": [
+            {
+                "value": "Sự phát sáng của con đom đóm."
+            },
+            {
+                "value": "Sự phát sáng của đèn dây tó"
+            },
+            {
+                "value": "Sự phát sáng của đèn ống thông dụng."
+            },
+            {
+                "value": "Sự phát sáng của đèn LED"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Sự phát sáng của đèn ống thông dụng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 6. Theo mẫu nguyên tử Bo, trạng tháidừng của nguyên tử",
+        "answer": [
+            {
+                "value": "cóthể làtrạng tháicơ bản hoặc trạng tháikích thích."
+            },
+            {
+                "value": "chỉ làtrạng tháikích thích."
+            },
+            {
+                "value": "làtrạng tháimàcác electron trong nguyên tử dừng chuyển động."
+            },
+            {
+                "value": "chỉ làtrạng tháicơ bản."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "cóthể làtrạng tháicơ bản hoặc trạng tháikích thích."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 7. Chiếu tia tử ngoại vào dung dịch fluorexein thìphátra ánh sáng màu lục, đól àhiện tượng",
+        "answer": [
+            {
+                "value": "hóa –phátquang."
+            },
+            {
+                "value": "phản quang."
+            },
+            {
+                "value": "lân quang."
+            },
+            {
+                "value": "huỳnh quang."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "huỳnh quang."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 8. Phátbiểu sau đây làđúng?",
+        "answer": [
+            {
+                "value": "Hiện tượng điện trở của chất bán dẫn giảm khi bị nung nóng gọi làhiện tượng quang dẫn."
+            },
+            {
+                "value": "Pin quang điện làthiết bị thu nhiệt của ánh sáng mặt trời."
+            },
+            {
+                "value": "Hiện tượng quang dẫn làhiện tượng dẫn điện vàt ínhiệu điện từ bằng cáp quang."
+            },
+            {
+                "value": "Hiện tượng ánh sáng giải phóng các electron liên kết để cho chúng trở thành các electron dẫn gọi làhiện tượng quang điện trong."
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 1 9. Tia laze cótính đơn sắc rất cao vìcác phôtôn do laze phátra cóđộ sai lệch",
+        "answer": [
+            {
+                "value": "bước sóng làrất lớn."
+            },
+            {
+                "value": "năng lượng làrất lớn."
+            },
+            {
+                "value": "tần số làrất nhỏ ."
+            },
+            {
+                "value": "tần số làrất lớn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "tần số làrất nhỏ ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 20. Hiện tượng quang điện ngoàilàhiện tượng êlectron bị bứt ra khỏi tấm kim loại khi",
+        "answer": [
+            {
+                "value": "chiếu vào tấm kim loại này một bức xạ điện từ cóbước sóng thích hợp."
+            },
+            {
+                "value": "cho dòng điện chạy qua tấm kim loại này."
+            },
+            {
+                "value": "tấm kim loại này bị nung nóng bởi một nguồn nhiệt."
+            },
+            {
+                "value": "chiếu vào tấm kim loại này một chùm sáng cường độ mạnh."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "chiếu vào tấm kim loại này một bức xạ điện từ cóbước sóng thích hợp."
+            }
+        ]
+    },
+    {
+        "question": "Câu 21 . Một kim loại cógiới hạn quang điện là0, 55 ---[HÌNH ẢNH]---m. Hiện tượng quang điện cóthể xảy ra khi chiếu vào tấm kim loại này bức xạ",
+        "answer": [
+            {
+                "value": "màu cam."
+            },
+            {
+                "value": "hồng ngoại."
+            },
+            {
+                "value": "màu đỏ ."
+            },
+            {
+                "value": "tử ngoại."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "tử ngoại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 22. Trong nguyên tử hiđrô, bán kính quỹ đạo dừng thứ 2 làr thìbán kính quỹ đạo thứ 4",
+        "answer": [
+            {
+                "value": "là"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "4r",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2r",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 6r",
+        "answer": [
+            {
+                "value": "r/2"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 23. Chiếu một chùm bức xạ đơn sắc vào một tấm kẽm cógiới hạn quang điện ngoàilà0,35 ---[HÌNH ẢNH]---m. Hiện tượng quang điện ngoài không xảy ra khi chùm bức xạ cóbước sóng",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,4 ---[HÌNH ẢNH]---m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,2 ---[HÌNH ẢNH]---m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,3 ---[HÌNH ẢNH]---m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 1 ---[HÌNH ẢNH]---m.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 24. Theo thuy---[HÌNH ẢNH]---t lượng tử ánh sáng, phát biểu nào sau đây đú ng?",
+        "answer": [
+            {
+                "value": "Năng lượng của mọi loại photon đ---[HÌNH ẢNH]---u bằng nhau."
+            },
+            {
+                "value": "Năng lượng của photon giảm đikhi đitừ không kh́i vào nướPhoton t ồn tại trong cả trạng thái đứng yên và trạng thái chuyển động."
+            },
+            {
+                "value": "Photon ứng với ánh sáng t́im có năng lượng lớn hơn photon ứng với ánh sáng đỏ ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Photon ứng với ánh sáng t́im có năng lượng lớn hơn photon ứng với ánh sáng đỏ ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 25. Theo quan điểm của thuyết lượng tử, phátbiểu nào sau đây không đúng?",
+        "answer": [
+            {
+                "value": "Chùm ánh sáng làmột chùm hạt, mỗi hạt làmột phôtôn cómang năng lượng."
+            },
+            {
+                "value": "Mỗi lần nguyên tử hay phân tử phát xạ hay hấp thụ ánh sáng thìchúng phát ra hay hấp thụ một phôtôn."
+            },
+            {
+                "value": "Các phôtôn của các bức xạ khác nhau đều cónăng lượng như nhau vàlan truyền với tốc độ bằng tốc độ ánh sáng."
+            },
+            {
+                "value": "Khi ánh sáng truyền đi, các phôtôn ánh sáng không đổi, không phụ thuộc vào khoảng cách đến nguồn sáng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Các phôtôn của các bức xạ khác nhau đều cónăng lượng như nhau vàlan truyền với tốc độ bằng tốc độ ánh sáng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 26. Phôtôn của một ánh sáng đơn sắc cónăng lượng là2,65.1 0 - 1 9 J . Tần số của ánh sáng đơn sắc đól à",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2, 5.1 0-15 Hz.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2, 5.1 01 5 Hz.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4.1 01 4 Hz.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4.1 015 Hz.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 27. Theo thuyết lượng tử ánh sáng, phátbiểu nào dưới đây làđúng?",
+        "answer": [
+            {
+                "value": "Những nguyên tử hay phần tử vật chất hấp thụ hay bức xạ ánh sáng một cách liên tụNăng lượng của các phôtôn ánh sáng ứng với các ánh sáng đơn sắc khác nhau thìcógiá trị như nhau, không phụ thuộc vào bước sóng ánh sáng."
+            },
+            {
+                "value": "Chùm ánh sáng làdòng hạt, mỗi hạt gọi làmột lượng tử ánh sáng (photon) ."
+            },
+            {
+                "value": "Khi ánh sáng truyền đi, các lượng tử ánh sáng càng ở xa nguồn sáng cónăng lượng càng"
+            },
+            {
+                "value": "nhỏ ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Chùm ánh sáng làdòng hạt, mỗi hạt gọi làmột lượng tử ánh sáng (photon) ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 28. Theo thuyết lượng tử ánh sáng, phátbiểu nào dưới đây làsai?",
+        "answer": [
+            {
+                "value": "Ánh sáng được tạo thành bởi các hạt gọi làphôtôn."
+            },
+            {
+                "value": "Năng lượng của các phôtôn ánh sáng lànhư nhau, không phụ thuộc tần số của ánh sáng."
+            },
+            {
+                "value": "Trong chân không, các phôtôn bay dọc theo tia sáng với tốc độ c = 3.1 08 m/s."
+            },
+            {
+                "value": "Phân tử, nguyên tử phát xạ hay hấp thụ ánh sáng, cũng cónghĩa làchúng phát xạ hay hấp thụ phôtôn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Năng lượng của các phôtôn ánh sáng lànhư nhau, không phụ thuộc tần số của ánh sáng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 29. Theo thuyết lượng tử ánh sáng thì",
+        "answer": [
+            {
+                "value": "Trong chân không, năng lượng phôtôn của tất cả các bức xạ đơn sắc đều như nhau."
+            },
+            {
+                "value": "Bước sóng cóthể thay đổi nhưng năng lượng của mỗi hạt phôtôn thìkhông thay đổi khi ánh sáng truyền từ môi trường này sang môi trường khátốc độ chuyển động của các phôtôn làkhông đổi khi ánh sáng tuyền qua các môi trường khác nhau."
+            },
+            {
+                "value": "trong môi trường nước, tốc độ chuyển động của các phôtôn ánh sáng đỏ nhỏ hơn so với tốc độ chuyển động của các phôtôn ánh sáng tím."
+            },
+            {
+                "value": "Ánh sáng đitừ môi trường này sang môi trường khác tần số không đổi, tốc độ vàbước song thay đổi"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Bước sóng cóthể thay đổi nhưng năng lượng của mỗi hạt phôtôn thìkhông thay đổi khi ánh sáng truyền từ môi trường này sang môi trường khátốc độ chuyển động của các phôtôn làkhông đổi khi ánh sáng tuyền qua các môi trường khác nhau."
+            },
+            {
+                "value": "Ánh sáng đitừ môi trường này sang môi trường khác tần số không đổi, tốc độ vàbước song thay đổi"
+            }
+        ]
+    },
+    {
+        "question": "Câu 30. Chọn câu đúng khi nóivề ánh sáng?",
+        "answer": [
+            {
+                "value": "Chỉ những ánh sáng nhìnthấy mới cókhả năng tán sắc, giao thoPhôton cóbước sóng càng dàithìcónăng lượng càng lớn."
+            },
+            {
+                "value": "Ánh sáng cóbước sóng ngắn thể hiện rõ tính chất hạt, ánh sáng cóbước sóng dàithể hiện rõ tính chất sóng."
+            },
+            {
+                "value": "Tia hồng ngoại không cótính hạt, tia tử ngoại không cótính chất sóng. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Ánh sáng cóbước sóng ngắn thể hiện rõ tính chất hạt, ánh sáng cóbước sóng dàithể hiện rõ tính chất sóng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 31 . Dùng thuyết lượng tử ánh sáng không giải thích được",
+        "answer": [
+            {
+                "value": "nguyên tắc hoạt động của pin quang điện."
+            },
+            {
+                "value": "hiện tượng quang - phátquang."
+            },
+            {
+                "value": "hiện tượng giao thoa ánh sáng."
+            },
+            {
+                "value": "hiện tượng quang điện ngoài"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "hiện tượng giao thoa ánh sáng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 32. Hiện tượng quang điện ngoàilàhiện tượng êlectron bị bứt ra khỏi tấm kim loại khi",
+        "answer": [
+            {
+                "value": "chiếu vào tấm kim loại này một chùm bức xạ ."
+            },
+            {
+                "value": "chiếu vào tấm kim loại này một bức xạ điện từ cóbước sóng thích hợp."
+            },
+            {
+                "value": "cho dòng điện chạy qua tấm kim loại này."
+            },
+            {
+                "value": "tấm kim loại này bị nung nóng bởi một nguồn nhiệt ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "chiếu vào tấm kim loại này một bức xạ điện từ cóbước sóng thích hợp."
+            }
+        ]
+    },
+    {
+        "question": "Câu 33.",
+        "answer": [
+            {
+                "value": "Hiện tượng quang điện ngoàikhác hiện tượng quang điện trong ở chỗ"
+            },
+            {
+                "value": "chỉ xảy ra khi bước sóng của ánh sáng kích thích nhỏ hơn giới hạn ---[HÌNH ẢNH]--- 0 nào đó."
+            },
+            {
+                "value": "cóelectron thoátra khỏi"
+            },
+            {
+                "value": "bề mặt khối chất khi chiếu ánh sáng thích hợp vào khối chất đó."
+            },
+            {
+                "value": "cógiới hạn ---[HÌNH ẢNH]---0 phụ thuộc vào bản chất của từng khối chất."
+            },
+            {
+                "value": "chỉ xảy ra khi được chiếu ánh sáng thích hợp. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "cóelectron thoátra khỏi"
+            },
+            {
+                "value": "bề mặt khối chất khi chiếu ánh sáng thích hợp vào khối chất đó."
+            }
+        ]
+    },
+    {
+        "question": "Câu 34. Phátbiểu nào sau đây làđúng?",
+        "answer": [
+            {
+                "value": "Khi nguyên tử chuyển từ trạng tháidừng cómức năng lượng cao (En) sang trạng tháidừng có"
+            },
+            {
+                "value": "mức năng lượng thấp (Em) thìnguyên tử phátra một phôtôn cónăng lượng đúng bằng hiệu En-Em ."
+            },
+            {
+                "value": "Nguyên tử hấp thụ ánh sáng cóbước sóng nào thìphátra ánh sáng cóbước sóng đó."
+            },
+            {
+                "value": "Khi nguyên tử ở trạng tháidừng hấp thụ một phôtôn thìchuyển sang trạng tháidừng khác"
+            },
+            {
+                "value": "Khi nguyên tử ở một trạng tháidừng phát ra một phôtôn thìchuyển sang trạng tháidừng khác. Câu 35. Hiện tượng quang phát quang cóđặc điểm là"
+            },
+            {
+                "value": "một chất được kích thích bằng ánh sáng cóbước sóng nào thìphátra ánh sáng cóbước sóng đó."
+            },
+            {
+                "value": "bước sóng của ánh sáng phátquang dàihơn bước sóng của ánh sáng kích thích."
+            },
+            {
+                "value": "chỉ cótia hồng ngoại hoặc tia tử ngoại mới kích thích cho các chất phátquang."
+            },
+            {
+                "value": "khi được kích thích bằng tia tử ngoại thìmọi chất đều phátra ánh sáng màu tím."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Khi nguyên tử chuyển từ trạng tháidừng cómức năng lượng cao (En) sang trạng tháidừng có"
+            },
+            {
+                "value": "mức năng lượng thấp (Em) thìnguyên tử phátra một phôtôn cónăng lượng đúng bằng hiệu En-Em ."
+            },
+            {
+                "value": "bước sóng của ánh sáng phátquang dàihơn bước sóng của ánh sáng kích thích."
+            }
+        ]
+    },
+    {
+        "question": "Câu 36. Giới hạn quang điện ngoàicủa kim loại làλ0 = 0, 50μm. Công thoátelectron của kim loại đó xấp xỉ là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3,975 eV.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "39,75 eV.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3,975.1 0 -20 J .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3,975.1 0 -1 9 J .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 37. Giới hạn quang điện của một chất quang dẫn là0,45 eV. Để quang trở bằng chất đóhoạt động được, phải dùng bức xạ cóbước sóng nhỏ hơn giátrị nào sau đây?",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2,76 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,276 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2,67 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,267 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 38. Để xảy ra hiện tượng quang điện trên bề mặt một tấm kim loại, tần số ánh sáng kích thích",
+        "answer": [
+            {
+                "value": "cần thỏa mãn"
+            },
+            {
+                "value": "Cho hằng số Plăng h = 6,625.1 0-34 Js. Công thoátcủa kim loại này là"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "0,750.1 0-1 9 J .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,750.1 0-34 J .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6,625.1 0-34 J .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6,72.1 0-31J .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 39. Chùm sáng đơn sắc đỏ khi truyền trong thủy tinh cóbước sóng 0, 5 μm. Biết thuỷ tinh có chiết suất n = 1 , 5. Năng lượng của phôtôn ứng với ánh sáng đól à",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 ,77.1 0-19 J",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 ,99.1 0-19 J",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3,98.1 0-1 9 J",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "2,65.1 0-1 9 J",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 40. Cho biết công thoátcủa kali làA = 3,6.1 0-1 9 J . Chiếu vào kali lần lượt bốn bức xạ ---[HÌNH ẢNH]--- 1 = 0,4 ---[HÌNH ẢNH]---m, ---[HÌNH ẢNH]--- 2 = 0, 5 ---[HÌNH ẢNH]---m, ---[HÌNH ẢNH]--- 3 = 0,6 ---[HÌNH ẢNH]---m, ---[HÌNH ẢNH]--- 4 = 0,7 ---[HÌNH ẢNH]---m. Những bức xạ nào cóthể gây ra hiện tượng quang điện ngoài đối với kali?",
+        "answer": [
+            {
+                "value": "---[HÌNH ẢNH]--- 3 và---[HÌNH ẢNH]--- 4."
+            },
+            {
+                "value": "---[HÌNH ẢNH]--- 1 , ---[HÌNH ẢNH]--- 2 và---[HÌNH ẢNH]--- 3 ."
+            },
+            {
+                "value": "---[HÌNH ẢNH]--- 1 và---[HÌNH ẢNH]--- 2."
+            },
+            {
+                "value": "Chỉ có---[HÌNH ẢNH]--- 1 ."
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 41 . Một kim loại cócông thoátêlectron là7,2.10-19 J . Chiếu lần lượt vào kim loại này các bức xạ cóbước sóng λ1 = 0, 18 μm, λ2 = 0,21 μm, λ3 = 0,32 μm vàλ= 0,35 μm. Những bức xạ cóthể gây ra hiện tượng quang điện ngoài ở kim loại này cóbước sóng là",
+        "answer": [
+            {
+                "value": "λ1, λ2 vàλ3."
+            },
+            {
+                "value": "λ3 vàλ4."
+            },
+            {
+                "value": "λ2, λ3 vàλ4."
+            },
+            {
+                "value": "λ1 vàλ2."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "λ1 vàλ2."
+            }
+        ]
+    },
+    {
+        "question": "Câu 42. Theo mẫu nguyên tử Bo, bán kính quỹ đạo K của êlectron trong nguyên tử hiđrô làr0. Khi êlectron chuyển từ quỹ đạo N về quỹ đạo L thìbán kính quỹ đạo giảm bớt",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 2r0.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "9r0 .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4r0 .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 6r0 .",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 43. Khi electron trong nguyên tử hiđrô chuyển từ quĩ đạo dừng cónăng lượng Em = - 0,85 eV sang quĩ đạo dừng cónăng lượng En = -13,6 eV thìnguyên tử phát bức xạ điện từ cóbước sóng là",
+        "answer": [
+            {
+                "value": "A.0,4340 μm."
+            },
+            {
+                "value": "B. 0,4860 μm."
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "0,0974 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,6563 μm.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 44. Giới hạn quang điện của nhôm vàcủa natri lần lượt là0,36 µm và0, 50 µm. Công thoátcủa electron khỏi nhôm lớn hơn công thoátcủa êlectron khỏi natri một lượng là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "1 , 546 eV.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0, 1 40 eV.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,966 eV.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "0,322 eV.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 46. Trong nguyên tử hiđrô, bán kính Bo làr0 = 5,3.1 0-1 1m. Ở một trạng tháikích thích của nguyên tử hiđrô, êlectron chuyển động trên quỹ đạo dừng cóbán kính làr = 2, 1 2.1 0-1 0m. Quỹ đạo đócótên gọi làquỹ đạo dừng",
+        "answer": [
+            {
+                "value": "L."
+            },
+            {
+                "value": "O."
+            },
+            {
+                "value": "N."
+            },
+            {
+                "value": "M."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "L."
+            }
+        ]
+    },
+    {
+        "question": "Câu 47. Trong nguyên tử hiđrô, khi electron nhảy từ quỹ đạo N về quỹ đạo K thìnguyên tử phátra bức",
+        "answer": [
+            {
+                "value": "xạ cóbước sóng λ1, khi electron nhảy từ quỹ đạo M về quỹ đạo L thìnguyên tử phátra bức xạ cóbước sóng λ2. Nhận xét nào sau đây về quan hệ giữa λ1 vàλ2 làđúng ?"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "256λ1 = 675λ2.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3λ1 = 4λ2.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "27λ1 = 4λ2.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "25λ1 = 28λ2.",
+        "answer": [],
+        "right_answer": []
+    }
+]

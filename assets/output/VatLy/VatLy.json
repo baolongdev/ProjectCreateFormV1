@@ -1,0 +1,736 @@
+[
+    {
+        "question": "Câu 1 . Sự phụ thuộc của chiết suất vào bước sóng",
+        "answer": [
+            {
+                "value": "xảy ra với mọi chất rắn, lỏng, hoặc khí."
+            },
+            {
+                "value": "chỉ xảy ra với chất rắn vàlỏng."
+            },
+            {
+                "value": "chỉ xảy ra với chất rắn."
+            },
+            {
+                "value": "làhiện tượng đặc trưng của thuỷ tinh."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "xảy ra với mọi chất rắn, lỏng, hoặc khí."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Chiết suất của một môi trường trong suốt đối với các ánh sáng đơn sắc khác nhau làđại lượng",
+        "answer": [
+            {
+                "value": "không đổi, cógiátrị như nhau đối với tất cả các ánh sáng cómàu từ đỏ đến tím."
+            },
+            {
+                "value": "thay đổi, chiết suất làlớn nhất đối với ánh sáng đỏ vànhỏ nhất đối với ánh sáng tím."
+            },
+            {
+                "value": "thay đổi, chiết suất làl ớn nhất đối với ánh sáng tím vànhỏ nhất đối với ánh sáng đỏ ."
+            },
+            {
+                "value": "thay đổi, chiết suất lớn nhất đối với ánh sáng màu lục vànhỏ nhất đối với ánh sáng đỏ . "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "thay đổi, chiết suất làl ớn nhất đối với ánh sáng tím vànhỏ nhất đối với ánh sáng đỏ ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Ánh sáng đơn sắc làánh sáng",
+        "answer": [
+            {
+                "value": "cómột màu vàbước sóng nhất định, khi điqua lăng kính sẽ bị tán sắcómột màu nhất định vàbước sóng không xác định, khi điqua lăng kính không bị tán sắ"
+            },
+            {
+                "value": "cómột màu vàmột bước sóng xác định, khi điqua lăng kính không bị tán sắ"
+            },
+            {
+                "value": "cómột màu nhất định vàbước sóng không xác định, khi điqua lăng kính sẽ bị tán sắc. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "cómột màu vàmột bước sóng xác định, khi điqua lăng kính không bị tán sắ"
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Khẳng định nào sau đây làsai?",
+        "answer": [
+            {
+                "value": "Ánh sáng đơn sắc không bị tán sắc khi truyền qua lăng kính."
+            },
+            {
+                "value": "Vận tốc của ánh sáng đơn sắc không phụ thuộc vào môi trường truyền."
+            },
+            {
+                "value": "Chiết suất của chất làm lăng kính đối với ánh sáng đỏ nhỏ hơn đối với ánh sáng màu lụÁnh sáng đơn sắc bị lệch đường truyền khi điqua lăng kính."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Vận tốc của ánh sáng đơn sắc không phụ thuộc vào môi trường truyền."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Khi ánh sáng truyền từ môi trường trong suốt này sang môi trường trong suốt khác thì ",
+        "answer": [
+            {
+                "value": "A. bước sóng thay đổi nhưng tần số không đổi. "
+            },
+            {
+                "value": "B. bước sóng không đổi nhưng tần số thay đổi."
+            },
+            {
+                "value": "C. bước sóng vàtần số đều thay đổi."
+            },
+            {
+                "value": "bước sóng vàtần số đều không đổi."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. bước sóng thay đổi nhưng tần số không đổi. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Để hai sóng kết hợp cóbước sóng ---[HÌNH ẢNH]--- tăng cường lẫn nhau khi giao thoa thìhiệu được đicủa chúng ",
+        "answer": [
+            {
+                "value": "bằng ---[HÌNH ẢNH]--- .a"
+            },
+            {
+                "value": "bằng 0.s"
+            },
+            {
+                "value": "bằng ---[HÌNH ẢNH]--- .d"
+            },
+            {
+                "value": "bằng ---[HÌNH ẢNH]--- ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "bằng ---[HÌNH ẢNH]--- ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Trong thínghiệm giao thoa với ánh sáng đơn sắc của Y-âng, khoảng cách giữa vân sáng và vân tối liên tiếp bằng",
+        "answer": [
+            {
+                "value": "một khoảng vân."
+            },
+            {
+                "value": "một nửa khoảng vân."
+            },
+            {
+                "value": "một phần tư khoảng vân."
+            },
+            {
+                "value": "hai lần khoảng vân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "một nửa khoảng vân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Trong các thínghiệm sau, thínghiệm nào được sử dụng để đo bước sóng ánh sáng?",
+        "answer": [
+            {
+                "value": "Thínghiệm tổng hợp ánh sáng trắng."
+            },
+            {
+                "value": "Thínghiệm về sự tán sắc ánh sáng của Niu-tơn."
+            },
+            {
+                "value": "Thínghiệm với ánh sáng đơn sắc của Niu-tơn."
+            },
+            {
+                "value": "Thínghiệm Y-âng về giao thoa ánh sáng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Thínghiệm Y-âng về giao thoa ánh sáng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Trong thínghiệm Y-âng về giao thoa ánh sáng, khoảng cách giữa hai khe bằng 1 mm và khoảng cách từ hai khe đến màn bằng 2m. Chiếu sáng hai khe bằng ánh sáng đơn sắc cóbước sóng  ---[HÌNH ẢNH]--- , người ta đo được khoảng cách từ vân sáng trung tâm đến vân sáng bậc bốn là4, 5mm. Bước sóng của ánh sáng đơn sắc đól à",
+        "answer": [
+            {
+                "value": "a0,76---[HÌNH ẢNH]---m."
+            },
+            {
+                "value": "a0,6---[HÌNH ẢNH]---m."
+            },
+            {
+                "value": "a0, 5625---[HÌNH ẢNH]---m."
+            },
+            {
+                "value": "a0,4---[HÌNH ẢNH]---m."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a0, 5625---[HÌNH ẢNH]---m."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 0. Trong thínghiệm giao thoa ánh sáng của Y- âng, gọi i làkhoảng cách giữa hai vân sáng liên tiếp. Khoảng cách từ vân sáng bậc 3 đến vân sáng bậc 9 nằm cùng phíađối với vân sáng trung tâm là",
+        "answer": [
+            {
+                "value": "a5i."
+            },
+            {
+                "value": "a6i."
+            },
+            {
+                "value": "a7i."
+            },
+            {
+                "value": "a8i."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a6i."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 1 . Trong thínghiệm Y-âng về giao thoa ánh sáng, khoảng cách giữa hai khe a = 0, 5mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sátD = 2m. Hai khe được chiếu bằng ánh sáng trắng. Khoảng cách từ vân sáng bậc 1 màu đỏ (---[HÌNH ẢNH]---đ = 0,75---[HÌNH ẢNH]---m) đến vân sáng bậc 1 màu tím (---[HÌNH ẢNH]---t= 0,4 ---[HÌNH ẢNH]---m) nằm cùng một phíađối với vân sáng trung tâm là",
+        "answer": [
+            {
+                "value": "a4,2mm."
+            },
+            {
+                "value": "a42mm."
+            },
+            {
+                "value": "a1 ,4mm"
+            },
+            {
+                "value": "a2, 1 mm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a1 ,4mm"
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 2. Trong thínghiệm Y-âng, các khe được chiếu bằng ánh sáng trắng. Biết khoảng cách giữa hai khe làa = 0,3mm; khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát D = 2m. Khoảng cách giữa vân sáng bậc 1 của màu đỏ (---[HÌNH ẢNH]---đ = 0,76---[HÌNH ẢNH]---m) vàvân sáng bậc 2 của màu tím (---[HÌNH ẢNH]---t = 0,40---[HÌNH ẢNH]---m) nằm cùng một phíađối với vân sáng trung tâm là",
+        "answer": [
+            {
+                "value": "a1 ,253mm."
+            },
+            {
+                "value": "a0, 548mm."
+            },
+            {
+                "value": "a0, 1 04mm."
+            },
+            {
+                "value": "a0,267mm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a0,267mm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 3. Trong thínghiệm Iâng về giao thoa ánh sáng, khoảng cách giữa 5 vân sáng liên tiếp trên màn là2mm. Tại điểm M trên màn cách vân sáng trung tâm một khoảng 1 ,75mm là",
+        "answer": [
+            {
+                "value": "vân sáng bậc 3."
+            },
+            {
+                "value": "vân tối thứ b"
+            },
+            {
+                "value": "vân sáng bậc 4."
+            },
+            {
+                "value": "vân tối thứ tư."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "vân tối thứ tư."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 4. Thínghiệm Y-âng về giao thoa ánh sáng được thực hiện trong không khí.Nếu thínghiệm được thực hiện trong nước cóchiết suất n thìbước sóng của ánh sáng",
+        "answer": [
+            {
+                "value": "tăng n lần."
+            },
+            {
+                "value": "giảm n lần."
+            },
+            {
+                "value": "không thay đổi."
+            },
+            {
+                "value": "giảm ---[HÌNH ẢNH]---lần."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "giảm n lần."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 5. Trong thínghiệm Y-âng, bước sóng đơn sắc dùng trong thínghiệm là0,6---[HÌNH ẢNH]--- . Hiệu đường đi của ánh sáng từ hai khe đến vân sáng bậc hai trên màn bằng",
+        "answer": [
+            {
+                "value": "a1 ,2---[HÌNH ẢNH]--- ."
+            },
+            {
+                "value": "a2,4---[HÌNH ẢNH]--- ."
+            },
+            {
+                "value": "a1 ,8---[HÌNH ẢNH]--- ."
+            },
+            {
+                "value": "a0,6---[HÌNH ẢNH]--- ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a1 ,2---[HÌNH ẢNH]--- ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 6. Trong thínghiệm Y-âng về giao thoa ánh sáng, hai khe cách nhau 1 mm, khoảng cách từ hai khe tới màn là1 m. Khoảng cách giữa 3 vân sáng liên tiếp là0,9mm. Bước sóng đơn sắc dùng trong thínghiệm là",
+        "answer": [
+            {
+                "value": "a0,6---[HÌNH ẢNH]--- ."
+            },
+            {
+                "value": "a0,65---[HÌNH ẢNH]--- ."
+            },
+            {
+                "value": "a0,45---[HÌNH ẢNH]--- ."
+            },
+            {
+                "value": "a0, 51 ---[HÌNH ẢNH]--- ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a0,45---[HÌNH ẢNH]--- ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 7. Trong thínghiệm Y-âng về giao thoa ánh sáng, các khe được chiếu sáng bởi ánh sáng đơn",
+        "answer": [
+            {
+                "value": "sắc cóbước sóng 0, 5---[HÌNH ẢNH]---m. Biết khoảng cách giữa hai khe là2mm, khoảng cách từ hai khe tới màn là 1 m. Khoảng cách giữa hai vân sáng bậc bốn là"
+            },
+            {
+                "value": "a1 mm."
+            },
+            {
+                "value": "a3mm."
+            },
+            {
+                "value": "a4mm."
+            },
+            {
+                "value": "a2mm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a2mm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 8. Trong thínghiệm Y-âng, nếu khoảng cách giữa hai vân sáng liên tiếp lài thìv ân tối thứ hai xuất hiện trên màn tại vị trícách vân sáng trung tâm một khoảng bằng",
+        "answer": [
+            {
+                "value": "a0, 5i."
+            },
+            {
+                "value": "a2i."
+            },
+            {
+                "value": "ia."
+            },
+            {
+                "value": "a1 , 5i."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a1 , 5i."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1 9. Một sóng ánh sáng đơn sắc cóbước sóng trong không khíbằng 0,6μm.Bước sóng của ánh sáng đơn sắc này trong nước (n = 4/3) là",
+        "answer": [
+            {
+                "value": "A.0,8μm"
+            },
+            {
+                "value": "B.0,45μm"
+            },
+            {
+                "value": "C.0,75μm"
+            },
+            {
+                "value": "D.0,4μm"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D.0,4μm"
+            }
+        ]
+    },
+    {
+        "question": "Câu 20. Trong 1 thínghiệm giao thoa ánh sáng trong môi trường không khíkhoảng cách giữa 2 vân sáng bậc 2 ở 2 bên vân trung tâm đo được là3,2mm. Nếu làm lại thínghiệm trên trong môi trường nước cóchiết suất là4/3 thìkhoảng vân là",
+        "answer": [
+            {
+                "value": "a0,85 mm"
+            },
+            {
+                "value": "a0,6 mm"
+            },
+            {
+                "value": "a0,64 mm"
+            },
+            {
+                "value": "D.1 mm"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 21 . Trong thínghiệm giao thoa Iâng cókhoảng vân giao thoa lài, khoảng cách từ vân sáng bậc 5 bên này đến vân tối thứ 4 bên kia vân trung tâm là",
+        "answer": [
+            {
+                "value": "a8, 5i"
+            },
+            {
+                "value": "a7, 5i"
+            },
+            {
+                "value": "a6, 5i"
+            },
+            {
+                "value": "a9, 5i"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a8, 5i"
+            }
+        ]
+    },
+    {
+        "question": "Câu 22. Trong thínghiệm I âng , khi dùng ánh sáng đơn sắc cóbước sóng 0, 589---[HÌNH ẢNH]--- thìquan sát",
+        "answer": [
+            {
+                "value": "được 1 3 vân sáng còn khi dùng ánh sáng đơn sắc cóbước sóng---[HÌNH ẢNH]--- thìquan sát được 1 1 vân sáng. Bước sóng ---[HÌNH ẢNH]--- cógiátrị"
+            },
+            {
+                "value": "a0,696 ---[HÌNH ẢNH]---"
+            },
+            {
+                "value": "a0,6608---[HÌNH ẢNH]---"
+            },
+            {
+                "value": "a0,6860 ---[HÌNH ẢNH]---"
+            },
+            {
+                "value": "aD.0,6706---[HÌNH ẢNH]---"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a0,696 ---[HÌNH ẢNH]---"
+            }
+        ]
+    },
+    {
+        "question": "Câu 23.Trong thínghiệm Young về giao thoa ánh sáng, a = 1 , 5mm; D = 2m, hai khe được chiếu sáng đồng thời hai bức xạ ---[HÌNH ẢNH]--- 1= 0, 5---[HÌNH ẢNH]---m và---[HÌNH ẢNH]--- 2 = 0,6---[HÌNH ẢNH]---m. Vị trí2 vân sáng của hai bức xạ nóitrên trùng nhau gần vân trung tâm nhất, cách vân trung tâm một khoảng:",
+        "answer": [
+            {
+                "value": "a6 mm"
+            },
+            {
+                "value": "a5 mm"
+            },
+            {
+                "value": "a4 mm"
+            },
+            {
+                "value": "a3,6 mm"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a4 mm"
+            }
+        ]
+    },
+    {
+        "question": "Câu 24. Trong th́i nghiệm v ---[HÌNH ẢNH]--- giao thoa ánh sáng của Y- âng, hai khe sáng cách nhau 0,8mm. Khoảng cáchtừ hai khe đ---[HÌNH ẢNH]---n màn là 2m, ánh sáng đơn sắc chi---[HÌNH ẢNH]---u vào hai khe có bước sóng ---[HÌNH ẢNH]--- = 0,64---[HÌNH ẢNH]---m. Vân sáng bậc 4 và bậc 6 (cùng ph́ia so với vân ch́inh giữa) cách nhau đoạn",
+        "answer": [
+            {
+                "value": "a1 ,6 mm."
+            },
+            {
+                "value": "B. 3,2 mm."
+            },
+            {
+                "value": "a4,8 mm."
+            },
+            {
+                "value": "a6,4 mm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. 3,2 mm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 25. Trong thínghiệm giao thoa ánh sáng với khe Y- âng, bước sóng ánh sáng dùng trong thí",
+        "answer": [
+            {
+                "value": "nghiệm ---[HÌNH ẢNH]--- . Khoảng cách giữa hai khe a = 1 mm. Tại một điểm M trên màn cách vân trung tâm 2, 5mm ta cóvân sáng bậc 5, để tại đól àvân sáng bậc 2, phải dời màn một đoạn làbao nhiêu? Theo chiều nào? "
+            },
+            {
+                "value": "Ra xa mặt phẳng chứa hai khe một đoạn 1 , 5m"
+            },
+            {
+                "value": "Ra xa mặt phẳng chứa hai khe một đoạn 0, 1 5m"
+            },
+            {
+                "value": "Lại gần mặt phẳng chứa hai khe một đoạn 1 , 5m"
+            },
+            {
+                "value": "Lại gần mặt phẳng chứa hai khe một đoạn 0, 1 5m"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Ra xa mặt phẳng chứa hai khe một đoạn 1 , 5m"
+            }
+        ]
+    },
+    {
+        "question": "Câu 26. Trong thínghiệm giao thoa ánh sáng dùng hai khe Y- âng, khoảng cách giữa hai vân sáng",
+        "answer": [
+            {
+                "value": "bậc 4 (ở hai phía của vân trung tâm) đo được là9,6 mm. Vân tối thứ 3 cách vân trung tâm một khoảng"
+            },
+            {
+                "value": "a6,4 mm"
+            },
+            {
+                "value": "a6 mm"
+            },
+            {
+                "value": "aC.7,2 mm"
+            },
+            {
+                "value": "a3 mm"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a3 mm"
+            }
+        ]
+    },
+    {
+        "question": "Câu 27. Ta chiếu sáng hai khe Y- âng bằng ánh sáng trắng với bước sóng ánh sáng đỏ ---[HÌNH ẢNH]--- đ = 0,75 ---[HÌNH ẢNH]---m vàánh sáng tím ---[HÌNH ẢNH]---t = 0,4 ---[HÌNH ẢNH]---m. Biết a = 0, 5 mm, D = 2 m. Khoảng cách giữa vân sáng bậc 4 màu đỏ và vân sáng bậc 4 màu tím cùng phía đối với vân trắng chính giữa là",
+        "answer": [
+            {
+                "value": "a2,8 mm"
+            },
+            {
+                "value": "a5,6 mm"
+            },
+            {
+                "value": "a4,8 mm"
+            },
+            {
+                "value": "a6,4 mm"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a5,6 mm"
+            }
+        ]
+    },
+    {
+        "question": "Câu 28. Hai khe Y- âng cách nhau a = 0,8 mm vàcách màn D = 1 ,2 m. Chiếu đồng thời hai bức xạ đơn sắc λ1 = 0,75μm vàλ2 = 0,45μm vào 2 khe. Khoảng cách ngắn nhất giữa hai vân sáng cómàu giống như màu của của vân trung tâm là",
+        "answer": [
+            {
+                "value": "a4,275 mm."
+            },
+            {
+                "value": "a3,375 mm."
+            },
+            {
+                "value": "a2,025 mm."
+            },
+            {
+                "value": "a5,625 mm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a3,375 mm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 29. Trong thínghiệm Y- âng về giao thoa ánh sáng, hai khe cách nhau a = 0, 5 mm vàđược chiếu sáng bằng một ánh sáng đơn sắc. Khoảng cách từ hai khe đến màn quan sátlà2 m. Trên màn quan",
+        "answer": [
+            {
+                "value": "sát, trong vùng giữa M vàN (MN = 2 cm) người ta đếm được có1 0 vân tối vàthấy tại M vàN đều là"
+            },
+            {
+                "value": "vân sáng. Bước sóng của ánh sáng đơn sắc dùng trong thínghiệm này là"
+            },
+            {
+                "value": "a0,700 µm."
+            },
+            {
+                "value": "a0,600 µm."
+            },
+            {
+                "value": "a0, 500 µm."
+            },
+            {
+                "value": "a0,400 µm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a0, 500 µm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 30. Trong thínghiệm Y-âng về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng đơn sắc cóbước sóng 0,6---[HÌNH ẢNH]---m. Khoảng cách giữa hai khe là1 mm, khoảng cách từ mặt phẳng chứa hai khe tới màn quan sát là2, 5m, bề rộng của miền giao thoa là1 ,25cm. Tổng số vân sáng vàvân tối cótrong miền giao thoa là:",
+        "answer": [
+            {
+                "value": "a21 vân"
+            },
+            {
+                "value": "a15 vân"
+            },
+            {
+                "value": "a17 vân"
+            },
+            {
+                "value": "a19 vân"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a17 vân"
+            }
+        ]
+    },
+    {
+        "question": "Câu 31 .Trong thínghiệm Y-âng về giao thoa ánh sáng với ánh sáng đơn sắc. Biết khoảng cách giữa hai khe hẹp là1 ,2 mm vàkhoảng cách từ mặt phẳng chứa hai khe hẹp đến màn quan sát là0,9 m. Quan sát được hệ vân giao thoa trên màn với khoảng cách giữa 9 vân sáng liên tiếp là3,6 mm. Bước sóng của ánh sáng dùng trong thínghiệm là",
+        "answer": [
+            {
+                "value": "a0, 50.1 0-6 m"
+            },
+            {
+                "value": "a0, 55.1 0-6 m"
+            },
+            {
+                "value": "a0,45.1 0-6 m"
+            },
+            {
+                "value": "a0,60.1 0-6 m"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a0,60.1 0-6 m"
+            }
+        ]
+    },
+    {
+        "question": "Câu 32. Trong thínghiệm Y-âng về giao thoa ánh sáng khoảng cách giữa hai khe là2mm, khoảng cách từ hai khe đến màn là2m, ánh sáng đơn sắc cóbước sóng 0,64---[HÌNH ẢNH]---m. Vân sáng bậc 3 cách vân sáng trung tâm một khoảng",
+        "answer": [
+            {
+                "value": "a1 ,20 mm."
+            },
+            {
+                "value": "a1 ,66 mm."
+            },
+            {
+                "value": "a1 ,92 mm."
+            },
+            {
+                "value": "a6,48 mm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a1 ,92 mm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 33. Trong thínghiệm Y-âng , các khe sáng được chiếu bằng ánh sáng trắng, biết ánh sáng đổ và tím cóbước sóng lần lượt: λđ = 760 nm vàλt = 400 nm. Khoảng cách giữa hai khe là0,3 mm, khoảng cách từ hai khe đến màn là2 m. Bề rộng quang phổ bậc 2 trên màn là",
+        "answer": [
+            {
+                "value": "A 1 ,2 mm"
+            },
+            {
+                "value": "B. 2,4 mm"
+            },
+            {
+                "value": "C 9,6 mm"
+            },
+            {
+                "value": "a4,8 mm"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "a4,8 mm"
+            }
+        ]
+    }
+]
